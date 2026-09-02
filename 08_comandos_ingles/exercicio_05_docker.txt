@@ -1,0 +1,76 @@
+============================================================
+EXERCÍCIO 05 — Docker e DevOps em Inglês
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Aprender termos básicos de Docker e DevOps em inglês.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês     | Português    |
+|------------|-------------|
+| Container  | Contêiner   |
+| Image      | Imagem      |
+| Dockerfile | Dockerfile  |
+| Build      | Compilar     |
+| Run        | Executar    |
+| Pull       | Baixar      |
+| Push       | Enviar      |
+| Volume     | Volume      |
+| Network    | Rede        |
+| Deploy     | Publicar    |
+| Pipeline   | Pipeline    |
+| CI/CD      | CI/CD       |
+| Staging    | Homologação |
+| Production | Produção    |
+
+------------------------------------------------------------
+PARTE 2 — COMANDOS DOCKER
+------------------------------------------------------------
+
+1. "Build the Docker image"
+   → docker __________ -t my-app .
+   Resposta: build
+
+2. "Run the container"
+   → docker __________ -p 3000:3000 my-app
+   Resposta: run
+
+3. "Download an image"
+   → docker __________ nginx
+   Resposta: pull
+
+4. "List running containers"
+   → docker __________
+   Resposta: ps
+
+5. "Stop a container"
+   → docker __________ <container-id>
+   Resposta: stop
+
+------------------------------------------------------------
+PARTE 3 — CI/CD PIPELINE
+------------------------------------------------------------
+
+Descreva cada etapa:
+
+1. __________: Run automated tests
+   Resposta: Test stage
+
+2. __________: Create the production build
+   Resposta: Build stage
+
+3. __________: Push the image to registry
+   Resposta: Deploy stage
+
+4. __________: Deploy to staging environment
+   Resposta: Staging stage
+
+5. __________: Deploy to production
+   Resposta: Production stage
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

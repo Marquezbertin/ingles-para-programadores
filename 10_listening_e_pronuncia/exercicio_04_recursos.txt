@@ -1,0 +1,72 @@
+============================================================
+EXERCÍCIO 04 — Recursos de Listening em Inglês
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Conhecer e planejar o uso de recursos de listening.
+
+------------------------------------------------------------
+PARTE 1 — TIPOS DE RECURSOS
+------------------------------------------------------------
+
+| Tipo | Exemplo | Nível | Melhor para |
+|------|---------|-------|-------------|
+| YouTube tutorial | Traversy Media | Fácil-Médio | Aprender com exemplo |
+| Podcast | Syntax.fm | Médio | Escutar de lado |
+| Tech talk | JSConf | Difícil | Vocabulário avançado |
+| Documentação audio | MDN | Médio | Termos precisos |
+| Entrevista | Coding Conversations | Médio | Conversa natural |
+| Audiobook | Clean Code | Difícil | Leitura guiada |
+| Newsletter audio | TLDR | Fácil | Atualizações diárias |
+
+------------------------------------------------------------
+PARTE 2 — PLANO SEMANAL
+------------------------------------------------------------
+
+Monte seu plano semanal de listening:
+
+SEGUNDA: ________________________________________
+TERÇA: ________________________________________
+QUARTA: ________________________________________
+QUINTA: ________________________________________
+SEXTA: ________________________________________
+FIM DE SEMANA: ________________________________________
+
+Dica: 15-20 minutos por dia é o ideal para consistência.
+
+------------------------------------------------------------
+PARTE 3 — NÍVEL DE DIFICULDADE
+------------------------------------------------------------
+
+Classifique a dificuldade:
+
+a) Fácil  b) Médio  c) Difícil
+
+1. Tutorial de "Hello World" → ___
+2. Palestra sobre architecture de microservices → ___
+3. Podcast sobre React hooks → ___
+4. Notícia de tecnologia de 2 minutos → ___
+5. Discussão sobre patterns avançados → ___
+
+Respostas: 1=a, 2=c, 3=b, 4=a, 5=c
+
+------------------------------------------------------------
+PARTE 4 — ESTRATÉGIA PARA VÍDEOS
+------------------------------------------------------------
+
+Para cada vídeo, siga o fluxo:
+
+1. Assista SEM legendas (escuta geral)
+2. Assista COM legendas em inglês (confirmação)
+3. Assista com pausa, anotando palavras novas
+4. Faça shadowing das frases-chave
+5. Revise suas anotações no dia seguinte
+
+Tarefa: escolha um vídeo e siga o fluxo. Anote:
+- Título: _______________________
+- 3 palavras novas: _______________
+- 1 frase que você usará: _______________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

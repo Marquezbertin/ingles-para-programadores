@@ -1,0 +1,108 @@
+============================================================
+EXERCÍCIO 03 — Encontrando e Criando Issues
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Encontrar ou criar uma issue em inglês.
+
+------------------------------------------------------------
+PARTE 1 — ENCONTRANDO ISSUES
+------------------------------------------------------------
+
+Como encontrar boas issues para iniciantes:
+
+1. Filtre por label "good first issue"
+2. Filtre por label "help wanted"
+3. Ordene por "unassigned"
+4. Procure issues com tags como "easy", "beginner"
+5. Verifique se a issue ainda está aberta
+
+------------------------------------------------------------
+PARTE 2 — AVALIE UMA ISSUE
+------------------------------------------------------------
+
+Leia esta issue:
+
+"Title: Add loading state to the login button
+
+Labels: good first issue, enhancement
+
+Description: Currently, when the user submits the
+login form, there is no feedback showing that the
+form is being processed. This can confuse the user
+and lead to double submissions.
+
+Expected behavior:
+When the user clicks the Login button, it should
+display a loading spinner and be disabled to prevent
+double clicks.
+
+Implementation hints:
+- Add a boolean state 'isLoading'
+- Set it to true when submitting
+- Render a spinner when isLoading is true
+- Disable the button while loading
+- Add a unit test for the loading state
+
+This is a great first issue because it involves
+a single component and requires no background
+knowledge."
+
+1. "What is the issue about?"
+   Resposta: Adicionar estado de loading ao botão de login
+
+2. "Is it a bug or enhancement?"
+   Resposta: Enhancement
+
+3. "What labels does it have?"
+   Resposta: good first issue, enhancement
+
+4. "What state does the dev need to add?"
+   Resposta: isLoading (boolean)
+
+5. "Is this suitable for a beginner? Why?"
+   Resposta: Sim, envolve um único componente sem background complexo
+
+------------------------------------------------------------
+PARTE 3 — ESCREVA UM COMENTÁRIO
+------------------------------------------------------------
+
+Se você quer trabalhar nessa issue, comente em inglês:
+
+"Hello! I would like to work on this issue.
+Could you please assign it to me?
+
+I'm new to this project, so please let me know if
+there are any specific requirements or guidelines
+I should follow. I have experience with React and
+will add the loading state and tests as described."
+
+Reescreva em suas palavras (inglês):
+________________________________________
+________________________________________
+________________________________________
+
+------------------------------------------------------------
+PARTE 4 — CRIANDO UMA ISSUE
+------------------------------------------------------------
+
+Se não achar uma, crie uma (ex: reportar bug que você
+encontrou). Use o template:
+
+Title: ________________________________________
+
+Description:
+"________________________________________"
+
+Steps to reproduce:
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________
+
+Expected: ________________________________________
+Actual: ________________________________________
+Environment: ________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

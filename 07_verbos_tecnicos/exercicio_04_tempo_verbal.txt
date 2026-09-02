@@ -1,0 +1,75 @@
+============================================================
+EXERCÍCIO 04 — Verbos Técnicos em Diferentes Tempos
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Usar verbos técnicos nos tempos verbais corretos.
+
+------------------------------------------------------------
+PARTE 1 — PASSADO (PAST SIMPLE)
+------------------------------------------------------------
+
+Complete com o passado do verbo:
+
+1. I __________ (implement) the new API yesterday.
+2. She __________ (refactor) the code last week.
+3. We __________ (deploy) the hotfix on Friday.
+4. He __________ (debug) the issue for 3 hours.
+5. They __________ (migrate) the database last month.
+
+Respostas: implemented, refactored, deployed, debugged, migrated
+
+------------------------------------------------------------
+PARTE 2 — PRESENTE PERFECT
+------------------------------------------------------------
+
+Complete com o present perfect:
+
+1. I __________ (finish) the feature.
+2. We __________ (not push) the changes yet.
+3. She __________ (review) the code 5 times.
+4. They __________ (release) version 2.0.
+5. He __________ (fix) all the bugs.
+
+Respostas: have finished, haven't pushed, has reviewed,
+have released, has fixed
+
+------------------------------------------------------------
+PARTE 3 — FUTURO
+------------------------------------------------------------
+
+Complete com futuro (will/going to):
+
+1. I __________ (implement) the search feature next week.
+2. We __________ (deploy) to production tomorrow.
+3. She __________ (refactor) the module this sprint.
+4. They __________ (migrate) the database next month.
+5. He __________ (optimize) the queries.
+
+Respostas: will implement/am going to implement,
+will deploy, will refactor, will migrate, will optimize
+
+------------------------------------------------------------
+PARTE 4 — STANDUP COMPLETO
+------------------------------------------------------------
+
+Responda usando os tempos corretos:
+
+1. "What did you do yesterday?"
+   Yesterday I ________________________________________
+
+2. "What are you working on today?"
+   Today I ________________________________________
+
+3. "What will you do tomorrow?"
+   Tomorrow I ________________________________________
+
+4. "Have you finished the feature?"
+   Yes, I ________________________________________
+
+5. "Did you deploy the changes?"
+   No, I ________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

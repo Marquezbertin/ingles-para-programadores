@@ -1,0 +1,114 @@
+============================================================
+EXERCÍCIO 04 — Pull Requests em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender a escrever e revisar pull requests em inglês.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DE UM PR
+------------------------------------------------------------
+
+Um bom PR deve conter:
+
+| Seção | Em Inglês | O que escrever |
+|-------|-----------|----------------|
+| Título | Title | Descrição curta da mudança |
+| Descrição | Description | O que, por quê, como |
+| Tipo | Type | feat, fix, refactor, etc. |
+| Issue vinculada | Related Issue | #123 |
+| Testes | Testing | Como testar |
+| Screenshots | Screenshots | Prints (se aplicável) |
+
+------------------------------------------------------------
+PARTE 2 — ESCREVA UM PR
+------------------------------------------------------------
+
+Escreva um pull request para cada cenário:
+
+Cenário 1: Você adicionou autenticação com JWT.
+
+Title: ____________________________________
+Description:
+"This PR adds ____________________________________
+The ____________________________________
+Related issue: #____________________________________
+Testing: ____________________________________"
+
+Resposta:
+Title: feat: add JWT authentication
+Description:
+"This PR adds user authentication using JSON Web Tokens.
+It includes login, logout, and token refresh functionality.
+Related issue: #42
+Testing: Test login with valid and invalid credentials"
+
+Cenário 2: Você corrigiu um bug de performance.
+
+Title: ____________________________________
+Description:
+"This PR fixes ____________________________________
+The problem was that ____________________________________
+Related issue: #____________________________________
+Testing: ____________________________________"
+
+Resposta:
+Title: fix: resolve slow query in dashboard
+Description:
+"This PR fixes the slow query that was causing the dashboard to load in 5 seconds.
+The problem was that we were fetching all records instead of paginating.
+Related issue: #78
+Testing: Test dashboard loads in under 1 second"
+
+------------------------------------------------------------
+PARTE 3 — REVIEW COMMENTS
+------------------------------------------------------------
+
+Escreva comentários de review em inglês:
+
+1. Você aprovou o PR:
+   "________________________________________"
+   Resposta: "LGTM! Great job." ou "Looks good to me!"
+
+2. Você encontrou um problema no código:
+   "________________________________________"
+   Resposta: "This could be simplified using map() instead of a for loop."
+
+3. Você pediu uma explicação:
+   "________________________________________"
+   Resposta: "Can you explain why you chose this approach?"
+
+4. Você sugeriu uma melhoria:
+   "________________________________________"
+   Resposta: "Consider adding error handling for this case."
+
+5. Você quer que algo seja mudado:
+   "________________________________________"
+   Resposta: "Please rename this variable to be more descriptive."
+
+------------------------------------------------------------
+PARTE 4 — LEIA E AVALIE
+------------------------------------------------------------
+
+Leia este PR e responda:
+
+Title: "feat: add dark mode toggle"
+Description: "Adds a dark mode toggle to the settings page.
+Users can switch between light and dark themes.
+Closes #15"
+
+1. Que feature foi adicionada?
+   Resposta: Dark mode toggle
+
+2. Onde foi adicionada?
+   Resposta: Na página de configurações
+
+3. Que issue fecha?
+   Resposta: #15
+
+4. Este PR é uma feature ou bug fix?
+   Resposta: Feature
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

@@ -1,0 +1,99 @@
+============================================================
+EXERCÍCIO 01 — Hardware vs Software
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Diferenciar e usar corretamente os termos
+de hardware e software em inglês.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+HARDWARE (componentes físicos):
+| Inglês      | Português    |
+|-------------|-------------|
+| Computer    | Computador  |
+| Laptop      | Notebook    |
+| Desktop     | Mesa        |
+| Monitor     | Monitor     |
+| Keyboard    | Teclado     |
+| Mouse       | Mouse       |
+| Printer     | Impressora  |
+| Server      | Servidor    |
+| Hard drive  | Disco rígido|
+| Memory (RAM)| Memória RAM |
+
+SOFTWARE (programas):
+| Inglês       | Português    |
+|-------------|-------------|
+| Application | Aplicativo  |
+| Program     | Programa    |
+| Operating system | Sistema operacional |
+| Browser     | Navegador   |
+| Editor      | Editor      |
+| Compiler    | Compilador  |
+| Antivirus   | Antivírus   |
+
+------------------------------------------------------------
+PARTE 2 — CLASSIFICAÇÃO
+------------------------------------------------------------
+
+Classifique cada item como H (Hardware) ou S (Software):
+
+( ) Monitor      ( ) VS Code
+( ) Keyboard     ( ) Windows
+( ) Mouse        ( ) Google Chrome
+( ) Printer      ( ) Python
+( ) Server       ( ) Excel
+( ) Hard drive   ( ) Slack
+( ) Laptop       ( ) Git
+( ) RAM          ( ) Postman
+
+Respostas: H,H,H,H,H,H,H,H / S,S,S,S,S,S,S,S
+
+------------------------------------------------------------
+PARTE 3 — COMPLETE A FRASE
+------------------------------------------------------------
+
+1. "My __________ is running slow." (hardware ou software?)
+   Resposta: ________________________________________
+
+2. "I need to install new __________ on my computer."
+   Resposta: software
+
+3. "The __________ is broken, I need to buy a new one."
+   Resposta: hardware
+
+4. "This __________ has a bug in the latest version."
+   Resposta: software
+
+5. "Connect the __________ to the server."
+   Resposta: hardware (monitor, keyboard, etc.)
+
+------------------------------------------------------------
+PARTE 4 — LEITURA
+------------------------------------------------------------
+
+"My laptop has 16GB of RAM and a 512GB SSD. I use
+Ubuntu as the operating system. The software I use
+most is VS Code for coding and Chrome for browsing.
+Sometimes the hardware overheats, so I bought a cooling
+pad."
+
+Perguntas:
+1. Quanta RAM o laptop tem?
+   Resposta: 16GB
+
+2. Qual sistema operacional?
+   Resposta: Ubuntu
+
+3. O autor usa hardware ou software para navegar?
+   Resposta: Software (Chrome)
+
+4. Qual foi o problema de hardware?
+   Resposta: Overheating (superaquecimento)
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

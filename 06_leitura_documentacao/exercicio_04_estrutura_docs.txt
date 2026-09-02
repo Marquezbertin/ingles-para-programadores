@@ -1,0 +1,84 @@
+============================================================
+EXERCÍCIO 04 — Estrutura de Documentação Técnica
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Entender a estrutura padrão de documentação técnica.
+
+------------------------------------------------------------
+PARTE 1 — PARTES DE UMA DOCUMENTAÇÃO
+------------------------------------------------------------
+
+Complete a estrutura:
+
+1. __________ — Descrição curta do projeto
+2. __________ — Como instalar
+3. __________ — Como usar com exemplos
+4. __________ — Referência completa
+5. __________ — Como contribuir
+6. __________ — Licença do projeto
+
+Respostas: 1=README/Overview, 2=Installation, 3=Usage, 4=API Reference, 5=Contributing, 6=License
+
+------------------------------------------------------------
+PARTE 2 — TIPOS DE DOCUMENTAÇÃO
+------------------------------------------------------------
+
+| Tipo | Para quem | Exemplo |
+|------|-----------|---------|
+| Tutorial | Iniciantes | "How to build your first app" |
+| Guide | Intermediários | "Advanced patterns guide" |
+| Reference | Experientes | "API reference" |
+| How-to | Qualquer nível | "How to deploy to AWS" |
+| FAQ | Qualquer nível | "Frequently asked questions" |
+
+------------------------------------------------------------
+PARTE 3 — LEIA E CLASSIFIQUE
+------------------------------------------------------------
+
+Leia cada título e classifique:
+
+a) Tutorial  b) Guide  c) Reference  d) How-to  e) FAQ
+
+1. "React Hooks: A Complete Guide" → ___
+2. "How to Set Up Your Development Environment" → ___
+3. "Array Methods Reference" → ___
+4. "Building a Todo App with React" → ___
+5. "Common Error Messages and Solutions" → ___
+
+Respostas: 1=b, 2=d, 3=c, 4=a, 5=e
+
+------------------------------------------------------------
+PARTE 4 — EXTRAIA INFORMAÇÕES
+------------------------------------------------------------
+
+Leia este trecho de uma guide:
+
+"## Getting Started with TypeScript
+
+Prerequisites:
+- Node.js v16 or higher
+- npm or yarn
+- A code editor (VS Code recommended)
+
+Step 1: Install TypeScript
+npm install -g typescript
+
+Step 2: Create a tsconfig.json
+tsc --init
+
+Step 3: Compile your first file
+tsc hello.ts"
+
+1. Quais são os pré-requisitos?
+   Resposta: Node.js v16+, npm/yarn, VS Code
+
+2. Quantos passos tem o tutorial?
+   Resposta: 3
+
+3. O que cada passo faz?
+   Resposta: 1-instala TypeScript, 2-cria config, 3-compila arquivo
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

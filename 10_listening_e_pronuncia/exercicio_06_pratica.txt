@@ -1,0 +1,80 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo (Listening)
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Combinar estratégias de listening e pronúncia.
+
+------------------------------------------------------------
+PARTE 1 — AUTO-AVALIAÇÃO
+------------------------------------------------------------
+
+Avalie seu nível de listening (1-5):
+
+[ ] Consigo entender tutoriais em inglês
+[ ] Consigo entender podcasts técnicos
+[ ] Consigo participar de calls em inglês
+[ ] Minha pronúncia é compreensível
+[ ] Consigo fazer shadowing
+[ ] Consigo transcrever trechos curtos
+
+------------------------------------------------------------
+PARTE 2 — PLANO DE MELHORIA
+------------------------------------------------------------
+
+Crie seu plano (30 dias):
+
+Semana 1-2: Focar em pronúncia de termos básicos
+- Liste 10 termos para dominar:
+  _______________________
+
+Semana 3-4: Focar em listening de tutoriais
+- Escolha 4 tutoriais para assistir:
+  _______________________
+
+Semana 5-8: Focar em media variada
+- Podcasts, talks, entrevistas:
+  _______________________
+
+Seus objetivos mensais em listening:
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________
+
+------------------------------------------------------------
+PARTE 3 — RECURSOS QUE VOU USAR
+------------------------------------------------------------
+
+Marque os recursos que você vai usar:
+
+[ ] YouTube (tutoriais)
+[ ] Podcasts (Syntax, JS Party)
+[ ] Tech talks (JSConf, ReactConf)
+[ ] Documentação em inglês
+[ ] Comunidades (Discord, Slack)
+[ ] Fluxo de shadowing
+[ ] Transcrições
+[ ] Conversas com colegas
+
+------------------------------------------------------------
+PARTE 4 — LEITURA EM VOZ ALTA
+------------------------------------------------------------
+
+Leia este parágrafo em voz alta 3 vezes. Na terceira,
+grave-se e compare:
+
+"Deployment is a critical part of the development
+lifecycle. Before deploying, always run your tests
+and check the logs for errors. Use a staging
+environment to test changes before pushing to
+production. If something goes wrong, you can
+revert to the previous version."
+
+Leia com foco em:
+1ª vez: pronúncia correta dos termos
+2ª vez: entonação natural
+3ª vez: velocidade e fluência
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

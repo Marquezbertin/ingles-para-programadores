@@ -1,0 +1,82 @@
+============================================================
+EXERCÍCIO 02 — Verbos de Comunicação
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender verbos usados em comunicação profissional.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês     | Português  | Exemplo |
+|------------|-----------|---------|
+| Discuss    | Discutir   | "Let's discuss the approach." |
+| Report     | Reportar   | "Report the issue to the team." |
+| Estimate   | Estimar    | "Estimate the story points." |
+| Prioritize | Priorizar  | "Prioritize the bug fixes." |
+| Assign     | Atribuir   | "Assign this task to someone." |
+| Track      | Rastrear   | "Track the progress." |
+| Escalate   | Escalar    | "Escalate to the manager." |
+| Clarify    | Esclarecer | "Clarify the requirements." |
+| Confirm    | Confirmar  | "Confirm the meeting time." |
+| Suggest    | Sugerir    | "Suggest improvements." |
+
+------------------------------------------------------------
+PARTE 2 — USE O VERBO CORRETO
+------------------------------------------------------------
+
+1. "Can you __________ what the client wants?"
+   (clarify)
+
+2. "I'll __________ the bug in Jira."
+   (track/report)
+
+3. "Let's __________ this in the next meeting."
+   (discuss)
+
+4. "Who should I __________ this task to?"
+   (assign)
+
+5. "I __________ this will take 3 days."
+   (estimate)
+
+6. "We need to __________ the critical bugs first."
+   (prioritize)
+
+7. "Please __________ that the server is running."
+   (confirm)
+
+8. "I __________ we use a caching strategy."
+   (suggest)
+
+9. "I need to __________ this to the tech lead."
+   (escalate)
+
+10. "I'll __________ the status to the PM."
+    (report)
+
+------------------------------------------------------------
+PARTE 3 — DIALOGUE PRACTICE
+------------------------------------------------------------
+
+Complete o diálogo:
+
+PM: "Can you __________ when the feature will be ready?"
+
+Dev: "I'd __________ 5 story points. Let me __________
+      the tasks in Jira."
+
+PM: "Great. Please __________ the critical bugs first."
+
+Dev: "I'll __________ them to the junior dev. Also,
+      I'd like to __________ we add more tests."
+
+PM: "Good __________. Please __________ the approach
+      in the next standup."
+
+Respostas: estimate, estimate, track, assign, suggest, suggestion, discuss
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

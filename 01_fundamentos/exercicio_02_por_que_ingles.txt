@@ -1,0 +1,110 @@
+============================================================
+EXERCÍCIO 02 — Por Que Inglês Importa
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Entender na prática por que o inglês é
+essencial para programadores.
+
+INSTRUÇÕES:
+1. Leia as situações abaixo
+2. Responda as perguntas em português ou inglês
+3. Reflita sobre como isso impacta seu dia a dia
+
+------------------------------------------------------------
+PARTE 1 — SITUAÇÕES REAIS
+------------------------------------------------------------
+
+Situação 1: Você encontrou um bug. Vai pesquisar no
+Stack Overflow. A primeira página de resultados tem
+apenas resultados em inglês.
+
+Pergunta: O que você faria se não soubesse inglês?
+______________________________________________________
+
+Situação 2: Sua empresa usa React. O site oficial
+(react.dev) é todo em inglês. Há uma atualização
+importante no changelog.
+
+Pergunta: Como você ficaria sabendo das mudanças?
+______________________________________________________
+
+Situação 3: Você quer contribuir para um projeto open
+source no GitHub. A issue está descrita em inglês.
+
+Pergunta: O que acontece se você não entender?
+______________________________________________________
+
+Situação 4: Você está em uma videochamada com um time
+internacional. Falam em inglês.
+
+Pergunta: Como você participaria da conversa?
+______________________________________________________
+
+Situação 5: Sua documentação interna está desatualizada.
+O CEO pede para atualizar, mas os exemplos são em inglês.
+
+Pergunta: Como você atualizaria sem errar termos?
+______________________________________________________
+
+------------------------------------------------------------
+PARTE 2 — VOCABULÁRIO: PALAVRAS QUE VOCÊ JÁ SABE
+------------------------------------------------------------
+
+Muitas palavras do dia a dia já são usadas em inglês na
+programação. Identifique o significado:
+
+1. "Build" em programação significa: _______________
+   (Resposta: compilar/construir)
+
+2. "Run" em programação significa: _______________
+   (Resposta: executar)
+
+3. "Save" em programação significa: _______________
+   (Resposta: salvar)
+
+4. "Delete" em programação significa: _______________
+   (Resposta: deletar/excluir)
+
+5. "Open" em programação significa: _______________
+   (Resposta: abrir)
+
+6. "File" em programação significa: _______________
+   (Resposta: arquivo)
+
+------------------------------------------------------------
+PARTE 3 — VERDADE OU MITO
+------------------------------------------------------------
+
+Responda V (Verdade) ou M (Mito):
+
+1. ( ) Preciso saber inglês fluente para programar.
+2. ( ) A maioria dos erros em programação são de sintaxe.
+3. ( ) Documentação oficial é sempre em inglês.
+4. ( ) GitHub é uma plataforma em inglês.
+5. ( ) Programadores brasileiros não precisam de inglês.
+
+Respostas:
+1. M — Você pode programar sem, mas perde muito
+2. V — A maioria dos bugs são de lógica, não de inglês
+3. V — Na esmagadora maioria, sim
+4. V — Interface e comunidade são em inglês
+5. M — É essencial para crescer na carreira
+
+------------------------------------------------------------
+TAREFA PRÁTICA
+------------------------------------------------------------
+
+Pesquise no Google (em inglês):
+"how to center a div CSS"
+
+Anote:
+- Quantos resultados apareceram: _______________
+- O primeiro resultado é de qual site? _______________
+- A documentação oficial é em inglês? _______________
+
+Isso mostra na prática por que inglês é essencial!
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

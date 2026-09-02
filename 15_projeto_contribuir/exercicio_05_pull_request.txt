@@ -1,0 +1,102 @@
+============================================================
+EXERCÍCIO 05 — Abrindo um Pull Request em Inglês
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Escrever um pull request profissional e claro.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DO PR
+------------------------------------------------------------
+
+Um PR result/so deve conter:
+
+1. Title: resumir a mudança (com prefixo)
+2. Description: o que e por quê
+3. Reference: Fixes #issue
+4. Testing: como testar
+5. Checklist: confirmações
+6. Screenshots (se aplicável)
+
+------------------------------------------------------------
+PARTE 2 — ESCREVA SEU PR
+------------------------------------------------------------
+
+Escreva o PR para sua mudança:
+
+Title: ________________________________________
+
+## Description
+
+"This PR adds ________________________________________
+________________________________________
+
+It includes:
+- ________________________________________
+- ________________________________________
+- ________________________________________
+
+Fixes #________________________________________"
+
+## Testing
+
+"To test these changes:
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________"
+
+## Checklist
+
+- [ ] Code follows the project style
+- [ ] Tests pass (npm test)
+- [ ] No linting errors
+- [ ] Includes tests for new functionality
+- [ ] Documentation updated (if needed)
+
+------------------------------------------------------------
+PARTE 3 — FRASES ÚTEIS NO PR
+------------------------------------------------------------
+
+Complete com as frases certas:
+
+1. "This PR __________ the issue #12." (referência)
+   Resposta: fixes / closes / resolves
+
+2. "__________ for the review." (agradecer)
+   Resposta: Thanks / Thank you
+
+3. "Let me know if any __________ are needed."
+   Resposta: changes
+
+4. "I'm open to __________." (sugestões)
+   Resposta: feedback / suggestions
+
+------------------------------------------------------------
+PARTE 4 — RESPONDENDO COMENTÁRIOS
+------------------------------------------------------------
+
+Complete as respostas:
+
+Reviewer: "Please add validation for empty input."
+
+Dev: "Sure, I'll __________. I'll update the PR."
+Resposta: add it / fix it
+
+Reviewer: "This could be simplified."
+
+Dev: "Good point. Let me __________."
+Resposta: refactor it / improve it
+
+Reviewer: "LGTM, approved!"
+
+Dev: "__________ for the review! I'll merge it."
+Resposta: Thanks / Thank you
+
+Reviewer: "What about the edge case?"
+
+Dev: "Good question. I tested it and it __________."
+Resposta: works / handles it correctly
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

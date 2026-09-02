@@ -1,0 +1,99 @@
+============================================================
+EXERCÍCIO 06 — Review Final e Reflexão
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Refletir sobre todo o aprendizado do curso.
+
+------------------------------------------------------------
+PARTE 1 — MINHA CONTRIBUIÇÃO
+------------------------------------------------------------
+
+Documente sua contribuição (ou preparação):
+
+Projeto: ________________________________________
+Issue/PR: ________________________________________
+URL: ________________________________________
+
+O que você fez:
+________________________________________
+________________________________________
+
+------------------------------------------------------------
+PARTE 2 — HABILIDADES DESENVOLVIDAS
+------------------------------------------------------------
+
+Avalie seu nível em cada área (1-5):
+
+[ ] Vocabulário de computação
+[ ] Vocabulário web
+[ ] Vocabulário Git
+[ ] Vocabulário QA/ágil
+[ ] Leitura de documentação
+[ ] Escrita de commits/PRs/README
+[ ] Compreensão auditiva (listening)
+[ ] Pronúncia
+[ ] Reuniões e comunicação
+[ ] Contribuição open source
+
+------------------------------------------------------------
+PARTE 3 — O QUE MAIS TE AJUDOU
+------------------------------------------------------------
+
+Responda:
+
+1. "O que mais te ajudou neste curso?"
+   Resposta: _______________________
+
+2. "O que foi mais desafiador?"
+   Resposta: _______________________
+
+3. "O que você continuará praticando?"
+   Resposta: _______________________
+
+4. "Qual foi seu maior aprendizado?"
+   Resposta: _______________________
+
+------------------------------------------------------------
+PARTE 4 — PRÓXIMOS PASSOS
+------------------------------------------------------------
+
+Planeje:
+
+1. Contribuir para mais projetos: qual?
+   _______________________
+
+2. Assistir mais tech talks: qual?
+   _______________________
+
+3. Usar inglês no trabalho: como?
+   _______________________
+
+4. Escrever com mais frequência: o quê?
+   _______________________
+
+------------------------------------------------------------
+PARTE 5 — CERTIFICADO SIMBÓLICO
+------------------------------------------------------------
+
+```
+═══════════════════════════════════════════════
+   PARABÉNS! Você concluiu o curso
+
+   Inglês para Programadores
+   Vocabulário Técnico e Leitura de Docs
+
+   Nome: _______________________
+   Data: _______________________
+   Módulos: 15/15 ⭐
+
+   A partir de agora, o mundo tech
+   está aberto para você. 🚀
+═══════════════════════════════════════════════
+```
+
+Continue praticando todos os dias. Consistency is key!
+
+============================================================
+FIM DO CURSO
+============================================================

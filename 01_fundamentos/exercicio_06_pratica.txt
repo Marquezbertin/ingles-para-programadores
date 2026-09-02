@@ -1,0 +1,134 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Combinar todo o vocabulário e expressões
+aprendidos no Módulo 01 em situações práticas.
+
+INSTRUÇÕES:
+1. Leia cada cenário com atenção
+2. Responda usando inglês quando solicitado
+3. Use o vocabulário e expressões aprendidos
+
+------------------------------------------------------------
+PARTE 1 — CENÁRIO: SEU PRIMEIRO DIA EM UMA EMPRESA
+------------------------------------------------------------
+
+Você começou a trabalhar em uma empresa de tecnologia.
+Todos falam em inglês nas reuniões. Responda:
+
+1. Na introdução, como você se apresenta?
+   "Hello, my name is ___. I am a ___ developer."
+   (preencha com seu nome e especialidade)
+
+2. O tech lead pergunta: "What tech stack do you use?"
+   Como você responde?
+   _________________________________________________
+   _________________________________________________
+
+3. Ele pergunta: "Have you worked with React before?"
+   Como você responde se SIM?
+   _________________________________________________
+
+   Como você responde se NÃO?
+   _________________________________________________
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: LENDO UM ERRO
+------------------------------------------------------------
+
+O terminal mostra esta mensagem:
+
+```
+TypeError: Cannot read property 'name' of undefined
+    at UserProfile (UserProfile.js:23)
+    at renderWithHooks (react-dom.js:14985)
+```
+
+Responda em inglês:
+
+1. "What type of error is this?"
+   (Qual tipo de erro é esse?)
+   Resposta: ________________________________________
+
+2. "Where is the error?"
+   (Onde está o erro?)
+   Resposta: ________________________________________
+
+3. "What does the error message say?"
+   (O que a mensagem de erro diz?)
+   Resposta: ________________________________________
+
+4. "How would you describe this to a colleague?"
+   (Como você descreveria isso para um colega?)
+   Resposta: ________________________________________
+   _________________________________________________
+
+------------------------------------------------------------
+PARTE 3 — CENÁRIO: CODE REVIEW
+------------------------------------------------------------
+
+Leia este comentário de code review em inglês:
+
+"Hey, can you refactor this function? The naming is
+unclear and the function is too long. Also, please
+add error handling."
+
+Responda:
+
+1. O que o reviewer pediu para fazer?
+   a) Refactor a function
+   b) Write new tests
+   c) Deploy the code
+   Resposta: ___
+
+2. Quais problemas ele identificou?
+   a) Poor performance and no tests
+   b) Unclear naming and function too long
+   c) Missing documentation
+   Resposta: ___
+
+3. O que "add error handling" significa em português?
+   Resposta: ________________________________________
+
+------------------------------------------------------------
+PARTE 4 — CENÁRIO: STANDUP
+------------------------------------------------------------
+
+Você está em um standup meeting. Responda:
+
+1. "What did you do yesterday?"
+   Yesterday I _____________________________________
+   _________________________________________________
+
+2. "What are you working on today?"
+   Today I will ____________________________________
+   _________________________________________________
+
+3. "Any blockers?"
+   No, ____________________________________________
+   OU Yes, I need _________________________________
+   _________________________________________________
+
+------------------------------------------------------------
+PARTE 5 — CHECKLIST DO MÓDULO 01
+------------------------------------------------------------
+
+Marque com ✓ o que você já domina:
+
+[ ] Pronúncia do alfabeto técnico
+[ ] Siglas (API, SQL, HTML, CSS, JSON, URL)
+[ ] Termos básicos (computer, software, hardware, etc.)
+[ ] Pronúncia correta de termos técnicos
+[ ] Expressões para pedir ajuda
+[ ] Expressões para descrever problemas
+[ ] Frases para memorizar
+[ ] Leitura simples de erros
+
+Se você marcou menos de 5 itens, revise o módulo
+antes de avançar para o Módulo 02!
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

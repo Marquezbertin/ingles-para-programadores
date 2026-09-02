@@ -1,0 +1,90 @@
+============================================================
+EXERCÍCIO 05 — Transcrição de Áudio
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Praticar a transcrição de conteúdo falado em inglês.
+
+------------------------------------------------------------
+PARTE 1 — TRANSCREVA O TRECHO
+------------------------------------------------------------
+
+Ouça um vídeo técnico curto e transcreva um trecho de
+30 segundos. Depois compare com a transcrição oficial
+(se disponível).
+
+Anote aqui sua transcrição:
+____________________________________________________
+____________________________________________________
+____________________________________________________
+____________________________________________________
+____________________________________________________
+
+------------------------------------------------------------
+PARTE 2 — PREENCHA AS LACUNAS
+------------------------------------------------------------
+
+Leia esta transcrição de um podcast tech e preencha:
+
+"We're going to talk about how to ______ a React
+application properly. Many developers make the mistake
+of ______ all the dependencies upfront. Instead, you
+should only ______ what you actually use.
+
+Another common mistake is not ______ the code
+regularly. If you don't ______ your changes, you'll
+end up with a big messy ______ at the end."
+
+Respostas: deploy, installing, install, committing,
+commit, pull request
+
+------------------------------------------------------------
+PARTE 3 — PONTOS DE ATENÇÃO
+------------------------------------------------------------
+
+Na transcrição, preste atenção a:
+
+1. CONTRACÇÕES:
+   - "don't" = do not
+   - "can't" = cannot
+   - "I'll" = I will
+   - "it's" = it is
+
+2. PALAVRAS CONECTADAS (linking):
+   - "a lot of" soa como "alotov"
+   - "go on" soa como "gon"
+
+3. PALAVRAS REDUZIDAS:
+   - "gonna" = going to
+   - "wanna" = want to
+   - "gotta" = got to
+
+Complete:
+1. "I'm gonna" = I am ______ ______
+2. "wanna" = ______ ______
+3. "can't" = ______ ______
+
+Respostas: going to, want to, cannot
+
+------------------------------------------------------------
+PARTE 4 — TAREFA DE TRANSCRIÇÃO
+------------------------------------------------------------
+
+Escolha um vídeo curto (2-3 minutos) sobre qualquer
+tópico técnico. Transcreva:
+
+Primeira escuta (sem pausa): quantas palavras você
+consegue entender?
+
+Segunda escuta (com pausa): complete o que faltou.
+
+Terceira escuta (com legendas): confirme sua transcrição.
+
+Anote:
+- Palavras que você errou a pronúncia: _______________
+- Expressões novas aprendidas: _______________
+- Quanto % você entendeu sem legendas: ____%
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

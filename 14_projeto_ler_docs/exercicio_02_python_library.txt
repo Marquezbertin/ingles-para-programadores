@@ -1,0 +1,114 @@
+============================================================
+EXERCÍCIO 02 — Library Reference do Python
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Ler a doc de referência de bibliotecas do Python.
+
+------------------------------------------------------------
+PARTE 1 — LEITURA
+------------------------------------------------------------
+
+Leia o trecho sobre list.append() (adaptado):
+
+"list.append(x)
+
+Adds an item x to the end of the list.
+
+Examples:
+>>> fruits = ['apple', 'banana']
+>>> fruits.append('cherry')
+>>> fruits
+['apple', 'banana', 'cherry']
+
+list.extend(iterable)
+
+Extends the list by appending all the items from
+the iterable. Equivalent to a[len(a):] = iterable.
+
+Examples:
+>>> fruits = ['apple', 'banana']
+>>> fruits.extend(['cherry', 'date'])
+>>> fruits
+['apple', 'banana', 'cherry', 'date']
+
+list.insert(i, x)
+
+Inserts an item at a given position. The first
+argument i is the index of the element before which
+to insert.
+
+Examples:
+>>> fruits = ['apple', 'banana']
+>>> fruits.insert(1, 'cherry')
+>>> fruits
+['apple', 'cherry', 'banana']"
+
+------------------------------------------------------------
+PARTE 2 — COMPREENSÃO
+------------------------------------------------------------
+
+1. "What does append() do?"
+   Resposta: Adds an item to the end of the list
+
+2. "What is the difference between append and extend?"
+   Resposta: append adds one item; extend adds multiple items from an iterable
+
+3. "What does the first argument of insert() mean?"
+   Resposta: The index before which the item will be inserted
+
+4. "Where would you add an item at the beginning?"
+   Resposta: list.insert(0, item)
+
+------------------------------------------------------------
+PARTE 3 — PRÁTICA
+------------------------------------------------------------
+
+Predict the output (write the result):
+
+1. 
+```python
+data = [1, 2, 3]
+data.append(4)
+print(data)  # ________
+```
+Resposta: [1, 2, 3, 4]
+
+2.
+```python
+data = [1, 2]
+data.extend([3, 4])
+print(data)  # ________
+```
+Resposta: [1, 2, 3, 4]
+
+3.
+```python
+data = ['a', 'b', 'c']
+data.insert(2, 'x')
+print(data)  # ________
+```
+Resposta: ['a', 'b', 'x', 'c']
+
+------------------------------------------------------------
+PARTE 4 — TAREFA PRÁTICA REAL
+------------------------------------------------------------
+
+Acesse https://docs.python.org/3/tutorial/datastructures.html
+
+1. Escolha mais 2 métodos de list comuns:
+   - __________: para que serve?
+   - __________: para que serve?
+
+2. Anote a tradução de:
+   - "Pop the last item" = __________
+   - "Remove the first occurrence" = __________
+
+3. Qual é o método para ordenar uma lista?
+   → __________
+
+Respostas: sort(), reverse(), pop(), remove()
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

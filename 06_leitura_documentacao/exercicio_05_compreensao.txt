@@ -1,0 +1,118 @@
+============================================================
+EXERCÍCIO 05 — Exercícios de Compreensão
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Praticar compreensão de documentação técnica complexa.
+
+------------------------------------------------------------
+PARTE 1 — LEITURA DE API REFERENCE
+------------------------------------------------------------
+
+Leia esta referência de API:
+
+"## fetch(url, options)
+
+Description:
+The fetch() method takes one mandatory argument, the
+URL of the resource, and returns a Promise that
+resolves to the Response to that request.
+
+Parameters:
+- url (string, required): The URL to fetch
+- options (object, optional): Configuration object
+  - method (string): GET, POST, PUT, DELETE (default: GET)
+  - headers (object): Request headers
+  - body (string): Request body for POST/PUT
+
+Returns:
+Promise<Response> — The response object containing:
+- ok (boolean): Whether the response was successful
+- status (number): HTTP status code
+- json(): Method to parse JSON body
+
+Throws:
+- TypeError: If there's a network error
+
+Example:
+```javascript
+const response = await fetch('https://api.example.com/users');
+const data = await response.json();
+```"
+
+1. fetch() é síncrono ou assíncrono?
+   Resposta: Assíncrono (retorna Promise)
+
+2. Quantos parâmetros fetch() aceita?
+   Resposta: 1 obrigatório, 1 opcional
+
+3. Quais métodos HTTP são suportados?
+   Resposta: GET, POST, PUT, DELETE
+
+4. O que retorna response.json()?
+   Resposta: O body da resposta parseado como JSON
+
+5. Quando fetch() lança TypeError?
+   Resposta: Quando há erro de rede
+
+------------------------------------------------------------
+PARTE 2 — LEITURA DE GUIA AVANÇADA
+------------------------------------------------------------
+
+Leia este trecho:
+
+"## Error Handling Best Practices
+
+When working with APIs, always handle errors
+gracefully. Here's a recommended pattern:
+
+1. Use try-catch blocks for async operations
+2. Check the response.ok property
+3. Provide meaningful error messages
+4. Log errors for debugging purposes
+5. Show user-friendly messages in the UI
+
+Common mistakes:
+- Not checking response.ok before parsing JSON
+- Catching errors but not displaying them
+- Using generic error messages"
+
+1. Quantas práticas são recomendadas?
+   Resposta: 5
+
+2. Qual é o erro mais comum?
+   Resposta: Não verificar response.ok antes de parsear JSON
+
+3. O que "gracefully" significa aqui?
+   Resposta: De forma elegante/adequada (sem quebrar a aplicação)
+
+4. Por que é importante logar erros?
+   Resposta: Para debug (encontrar o problema)
+
+------------------------------------------------------------
+PARTE 3 — EXTRAIA O CÓDIGO
+------------------------------------------------------------
+
+A partir da documentação, escreva o código:
+
+1. "Fetch data from an API endpoint"
+   Resposta: ________________________________________
+
+2. "Check if the response was successful"
+   Resposta: ________________________________________
+
+3. "Parse the JSON response"
+   Resposta: ________________________________________
+
+4. "Handle network errors"
+   Resposta: ________________________________________
+
+Respostas:
+1. const response = await fetch(url);
+2. if (!response.ok) { throw new Error('Failed'); }
+3. const data = await response.json();
+4. try { ... } catch (error) { console.error(error); }
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

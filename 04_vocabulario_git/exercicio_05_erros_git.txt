@@ -1,0 +1,81 @@
+============================================================
+EXERCÍCIO 05 — Erros Comuns do Git em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Entender mensagens de erro comuns do Git em inglês.
+
+------------------------------------------------------------
+PARTE 1 — ERROS E SOLUÇÕES
+------------------------------------------------------------
+
+1. "fatal: repository not found"
+   Significado: O repositório não foi encontrado
+   Solução: Verifique a URL do repositório
+
+2. "error: failed to push some refs"
+   Significado: ________________________________________
+   Solução: Faça git pull antes de push
+
+3. "CONFLICT: Merge conflict in file.js"
+   Significado: ________________________________________
+   Solução: Resolva o conflito manualmente
+
+4. "fatal: refusing to merge unrelated histories"
+   Significado: ________________________________________
+   Solução: Use --allow-unrelated-histories
+
+5. "error: Your local changes would be overwritten"
+   Significado: ________________________________________
+   Solução: Faça commit ou stash antes de pull
+
+------------------------------------------------------------
+PARTE 2 — LEITURA DE ERROS
+------------------------------------------------------------
+
+Leia cada mensagem e explique em português:
+
+1. "warning: LF will be replaced by CRLF"
+   Resposta: ________________________________________
+
+2. "fatal: not a valid object name: 'main'"
+   Resposta: ________________________________________
+
+3. "error: pathspec 'feature' did not match"
+   Resposta: ________________________________________
+
+4. "fatal: The remote end hung up unexpectedly"
+   Resposta: ________________________________________
+
+Respostas:
+1. Aviso: o final de linha será alterado (problema de compatibilidade Windows/Linux)
+2. Fatal: 'main' não é um nome de objeto válido (branch não existe)
+3. Erro: a branch 'feature' não foi encontrada
+4. Fatal: a conexão remota caiu inesperadamente
+
+------------------------------------------------------------
+PARTE 3 — COMO DESCREVER UM ERRO
+------------------------------------------------------------
+
+Escreva uma descrição do erro para pedir ajuda:
+
+1. Você não consegue fazer push:
+   "I'm getting an error when I try to __________.
+   The error says: 'failed to push some refs'.
+   I already tried __________ but it didn't work."
+   Resposta: push, git pull
+
+2. Você tem um merge conflict:
+   "There's a __________ conflict in __________.
+   I'm not sure how to __________ it. Can you
+   __________?"
+   Resposta: merge, the file, resolve, help
+
+3. O repositório não existe:
+   "I'm trying to __________ a repository, but I get
+   'repository not found'. The URL is __________."
+   Resposta: clone, the URL
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

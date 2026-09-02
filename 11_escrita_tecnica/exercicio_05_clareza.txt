@@ -1,0 +1,101 @@
+============================================================
+EXERCÍCIO 05 — Clareza e Concisão na Escrita
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Escrever de forma clara, concisa e precisa.
+
+------------------------------------------------------------
+PARTE 1 — VOZ ATIVA vs PASSIVA
+------------------------------------------------------------
+
+Prefira a voz ativa em escrita técnica:
+
+PASSIVA: "The error is thrown by the function when..."
+ATIVA: "The function throws an error when..."
+
+Reescreva em voz ativa:
+
+1. "The data is processed by the server."
+→ "The __________ the data."
+Resposta: "The server processes the data."
+
+2. "The bug was found by the QA tester."
+→ "The __________ the bug."
+Resposta: "The QA tester found the bug."
+
+3. "The feature will be deployed by the team on Friday."
+→ "The __________ the feature on Friday."
+Resposta: "The team will deploy the feature on Friday."
+
+------------------------------------------------------------
+PARTE 2 — ELIMINE REDUNDÂNCIA
+------------------------------------------------------------
+
+Remova palavras desnecessárias:
+
+1. "In order to use this feature, you need to install it."
+→ "To use this feature, install it."
+
+2. "The current situation at this point in time is that..."
+→ "Currently..."
+
+3. "Due to the fact that..."
+→ "Because..."
+
+4. "In the event that..."
+→ "If..."
+
+Reescreva de forma concisa:
+
+5. "In order to start the server, you need to run the command...":
+→ "________________________________________"
+Resposta: "To start the server, run the command..."
+
+6. "The reason why the code failed is because of a bug":
+→ "________________________________________"
+Resposta: "The code failed because of a bug."
+
+------------------------------------------------------------
+PARTE 3 — ESCOLHA PALAVRAS PRECISAS
+------------------------------------------------------------
+
+Troque palavras vagas por precisas:
+
+1. "The app is slow" → "The login page loads in 5 seconds"
+2. "There's a problem" → "There's a bug in the database query"
+3. "It doesn't work" → "The API returns a 500 error"
+
+Reescreva com precisão:
+
+4. "The website is kind of broken"
+→ "________________________________________"
+Resposta: "The website's search bar doesn't return results."
+
+5. "It takes a while to load"
+→ "________________________________________"
+Resposta: "The homepage takes 8 seconds to load."
+
+6. "Some things don't work right"
+→ "________________________________________"
+Resposta: "The login form doesn't validate email format."
+
+------------------------------------------------------------
+PARTE 4 — REESCREVA O PARÁGRAFO
+---------------------------------------------------
+
+Reescreva este texto vago de forma clara:
+
+"In order to get things working, the user that is using
+the app needs to do a bunch of stuff first. This can be
+kind of a problem for some people. We should probably
+fix it sometime."
+
+Resposta (exemplo):
+"To use the app, users must first configure their API key
+in Settings. Without it, the app won't connect to the
+server. We should add a setup guide to help new users."
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

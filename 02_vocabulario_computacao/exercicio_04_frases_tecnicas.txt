@@ -1,0 +1,99 @@
+============================================================
+EXERCÍCIO 04 — Frases Técnicas Comuns
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Praticar frases completas usando vocabulário
+técnico de computação.
+
+------------------------------------------------------------
+PARTE 1 — FRASES PARA MEMORIZAR
+------------------------------------------------------------
+
+| Em Inglês | Em Português |
+|-----------|--------------|
+| "I need to update the software." | "Preciso atualizar o software." |
+| "The code has a syntax error." | "O código tem um erro de sintaxe." |
+| "Please install the new package." | "Por favor, instale o novo pacote." |
+| "The server is not responding." | "O servidor não está respondendo." |
+| "I created a new branch." | "Criei uma nova branch." |
+| "The test passed successfully." | "O teste passou com sucesso." |
+| "There is a bug in the function." | "Há um bug na função." |
+| "The data is stored in the database." | "Os dados estão salvos no banco." |
+| "I need to debug the code." | "Preciso depurar o código." |
+| "The application crashed." | "A aplicação travou." |
+
+------------------------------------------------------------
+PARTE 2 — TRADUZA PARA INGLÊS
+------------------------------------------------------------
+
+1. "O computador está muito lento."
+   → ________________________________________
+
+2. "Preciso criar uma nova variável."
+   → ________________________________________
+
+3. "O arquivo foi deletado por engano."
+   → ________________________________________
+
+4. "Execute o comando no terminal."
+   → ________________________________________
+
+5. "A função retorna um objeto."
+   → ________________________________________
+
+Respostas:
+1. "The computer is very slow."
+2. "I need to create a new variable."
+3. "The file was deleted by mistake."
+4. "Execute the command in the terminal."
+5. "The function returns an object."
+
+------------------------------------------------------------
+PARTE 3 — COMPLETE O DIÁLOGO
+------------------------------------------------------------
+
+Dev 1: "Hey, what are you working on?"
+Dev 2: "I'm __________ a new __________ for the
+         __________ system."
+
+Dev 1: "Oh cool. Any __________?"
+Dev 2: "Yes, there's a __________ in the __________
+         function. I'm trying to __________ it."
+
+Dev 1: "Do you need __________?"
+Dev 2: "Not yet. Let me __________ the code first."
+
+Respostas:
+1. building, feature, login
+2. issues, bug, authenticate, debug
+3. help
+4. test
+
+------------------------------------------------------------
+PARTE 4 — SITUAÇÕES REAIS
+------------------------------------------------------------
+
+Situação 1: Você está lendo um erro no terminal.
+A mensagem diz: "ModuleNotFoundError: No module named 'flask'"
+
+Em inglês, como você descreveria o problema?
+"I'm getting a __________ error. The __________
+'flask' is not __________."
+Resposta: ModuleNotFoundError, module, installed
+
+Situação 2: Seu colega pergunta: "What's the output?"
+Como você responde?
+"The __________ shows the user data, but there is
+a __________ in the __________ column."
+Resposta: output, error/issue, name
+
+Situação 3: Você está fazendo code review.
+Escreva um comentário em inglês:
+"This __________ could be __________. Consider
+using a __________ instead of a __________."
+Resposta: code/function, refactored, map, loop
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

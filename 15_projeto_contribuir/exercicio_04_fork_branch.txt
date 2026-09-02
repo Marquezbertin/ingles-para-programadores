@@ -1,0 +1,95 @@
+============================================================
+EXERCÍCIO 04 — Fork, Branch e Commit
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Configurar seu ambiente de contribuição com vocabulário correto.
+
+------------------------------------------------------------
+PARTE 1 — TERMINOLOGIA IMPORTANTE
+------------------------------------------------------------
+
+| Inglês | Português |
+|--------|-----------|
+| Fork | Cópia do repositório na sua conta |
+| Upstream | Repositório original |
+| Origin | Seu fork (remote) |
+| Branch | Ramo de desenvolvimento |
+| Clone | Cópia local |
+| Remote | Repositório remoto |
+| Staging | Área de preparação |
+
+------------------------------------------------------------
+PARTE 2 — FLUXO DE SETUP
+------------------------------------------------------------
+
+Complete os passos (sem rodar, apenas preencher):
+
+1. "Fork the repository on GitHub"
+2. "Clone your fork locally":
+   → git clone ________________________________________
+   Resposta: git clone https://github.com/SEU-USUARIO/projeto.git
+
+3. "Add the upstream remote":
+   → git remote add upstream ______________________________________
+   Resposta: git remote add upstream https://github.com/origem/projeto.git
+
+4. "Create a branch with a good name":
+   → git checkout -b ______________________________________
+   Resposta: git checkout -b feat/add-loading-state
+
+5. "Before starting, sync with upstream":
+   → git fetch ______________________________________
+   Resposta: git fetch upstream
+
+------------------------------------------------------------
+PARTE 3 — NOMES DE BRANCH
+------------------------------------------------------------
+
+Crie bons nomes de branch para cada tarefa:
+
+1. Adicionar feature de busca:
+   → feature/____________
+   Resposta: feature/add-search / feat/login-loading-state
+
+2. Corrigir bug de login:
+   → fix/____________
+   Resposta: fix/login-bug / fix/login-redirect
+
+3. Atualizar documentação:
+   → docs/____________
+   Resposta: docs/update-readme / docs/api-reference
+
+------------------------------------------------------------
+PARTE 4 — COMMITS
+------------------------------------------------------------
+
+Durante o desenvolvimento, faça commits claros:
+
+1. "Initial implementation of the loading state":
+   → "feat: add loading state to login button"
+
+2. Você corrigiu um erro:
+   → "fix: handle button double-click during submit"
+
+3. Você adicionou testes:
+   → "test: add unit test for loading state"
+
+Escreva commits para seu trabalho:
+
+1. Primeiro commit (estrutura):
+   → ________________________________________
+   Resposta: "chore: set up project for contribution"
+
+2. Implementou a funcionalidade:
+   → ________________________________________
+
+3. Adicionou testes:
+   → ________________________________________
+
+4. Atualizou a documentação:
+   → ________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

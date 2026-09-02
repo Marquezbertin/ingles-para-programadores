@@ -1,0 +1,77 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo (Frases)
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Usar frases comuns em cenários completos.
+
+------------------------------------------------------------
+PARTE 1 — CENÁRIO: CODE REVIEW COMPLETO
+------------------------------------------------------------
+
+Leia o código e escreva comentários de review:
+
+```javascript
+function saveUserData(data) {
+  const x = data;                 // comentário 1
+  fetch('/api/users', {           // comentário 2
+    method: 'POST',
+    body: JSON.stringify(x),
+  }).then(() => {
+    console.log('done');          // comentário 3
+  });
+}
+```
+
+1. O que você comentaria sobre a variável 'x'?
+   "________________________________________"
+   Resposta: "The variable name 'x' is not descriptive. Consider using 'userData'."
+
+2. O que você comentaria sobre o fetch?
+   "________________________________________"
+   Resposta: "Could you please add error handling for the fetch call?"
+
+3. O que você comentaria sobre o console.log?
+   "________________________________________"
+   Resposta: "Consider using a success callback or redirecting the user after saving."
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: RESPONDER REVIEW
+------------------------------------------------------------
+
+Resposta ao reviewer:
+
+Reviewer: "Please add tests for the new function."
+
+Dev: "________________________________________"
+Resposta: "Sure, I'll add the tests and push the changes."
+
+Reviewer: "This could be simplified with async/await."
+
+Dev: "________________________________________"
+Resposta: "Good point. Let me refactor it. I'll update the PR."
+
+Reviewer: "LGTM, approved!"
+
+Dev: "________________________________________"
+Resposta: "Thanks for the review! I'll merge it."
+
+------------------------------------------------------------
+PARTE 3 — CENÁRIO: CRIAR UMA ISSUE
+------------------------------------------------------------
+
+Escreva o título e descrição:
+
+Título: "Building a dark mode for the app" é um bom título?
+Resposta: Não, deveria descrever a issue de forma concisa.
+
+Reescreva: "Add dark mode support for the dashboard"
+
+Escreva uma issue de feature completa:
+"________________________________________
+________________________________________
+________________________________________"
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

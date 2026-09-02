@@ -1,0 +1,89 @@
+============================================================
+EXERCÍCIO 05 — Extrair Informações de Docs
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Praticar a extração de informações-chave de docs.
+
+------------------------------------------------------------
+PARTE 1 — The 5W+1H
+------------------------------------------------------------
+
+Ao ler qualquer documentação, extraia:
+
+| Q | Em inglês | Em português |
+|---|-----------|--------------|
+| What | O quê faz? | O que a função/funcionalidade faz |
+| Why | Por quê? | Por que existe / que problema resolve |
+| How | Como? | Como usar (sintaxe) |
+| When | Quando? | Em que situações usar |
+| Where | Onde? | Em que módulo/biblioteca |
+| Who | Para quem? | Quem usa (usuário, dev, etc.) |
+
+------------------------------------------------------------
+PARTE 2 — PRÁTICA
+------------------------------------------------------------
+
+Leia o trecho e extraia as informações:
+
+"Python's str.split(sep=None) method returns a
+list of the words in the string, using sep as the
+delimiter string. If sep is not specified, the
+method splits on any whitespace.
+
+Examples:
+>>> '1,2,3'.split(',')
+['1', '2', '3']
+>>> 'Hello world!'.split()
+['Hello', 'world!']
+
+The split() method is useful for parsing delimited
+data such as CSV, logs, and user input."
+
+WHAT (o que faz): ________________________________________
+WHY (por que existe): ________________________________________
+HOW (como usar/sintaxe): ________________________________________
+WHEN (quando usar): ________________________________________
+WHERE (aonde pertence): ________________________________________
+
+Respostas:
+WHAT: Divide a string em uma lista com base em um divisor
+WHY: Para parsear dados com delimitadores (CSV, logs, input)
+HOW: str.split(sep) onde sep é o delimitador
+WHEN: Para dividir texto em partes (CSV, logs, etc.)
+WHERE: Em strings Python (método de str)
+
+------------------------------------------------------------
+PARTE 3 — TAREFA REAL
+------------------------------------------------------------
+
+Escolha UMA dessas documentações reais:
+
+a) https://docs.python.org/3/library/json.html
+b) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
+Preencha:
+
+1. "Name of the module/method": __________
+2. "WHAT it does (1 sentence)": __________
+3. "SYNTAX (main form)": __________
+4. "RETURN VALUE": __________
+5. "One example from the docs": __________
+6. "3 new words you learned": __________
+
+------------------------------------------------------------
+PARTE 4 — REFLEXÃO
+------------------------------------------------------------
+
+1. "O que foi mais difícil de entender?"
+   Resposta: _______________________
+
+2. "O que ficou claro imediatamente?"
+   Resposta: _______________________
+
+3. "O que você fará diferente na próxima leitura?"
+   Resposta: _______________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

@@ -1,0 +1,89 @@
+============================================================
+EXERCÍCIO 03 — One-on-one (1:1) em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Conduzir conversas 1:1 com seu gestor em inglês.
+
+------------------------------------------------------------
+PARTE 1 — TÓPICOS DE UMA 1:1
+------------------------------------------------------------
+
+| Tópico | Pergunta |
+|--------|----------|
+| Progresso | "How is your current project going?" |
+| Obstáculos | "Are there any blockers?" |
+| Desenvolvimento | "What skills do you want to develop?" |
+| Feedback | "Do you have any feedback for me?" |
+| Bem-estar | "How are you feeling about the workload?" |
+| Carreira | "What are your career goals?" |
+
+------------------------------------------------------------
+PARTE 2 — FRASES PARA 1:1
+------------------------------------------------------------
+
+Use estas frases:
+
+DISCUTINDO PROGRESSO:
+- "I'm making good progress on..."
+- "I'm behind schedule because..."
+- "I'm waiting on..."
+
+PEDINDO FEEDBACK:
+- "Can you give me feedback on..."
+- "How do you think I could improve..."
+- "What should I focus on next?"
+
+DISCUTINDO PROBLEMAS:
+- "I'm struggling with..."
+- "I need more time for..."
+- "I would like to discuss..."
+
+------------------------------------------------------------
+PARTE 3 — COMPLETE O DIÁLOGO
+------------------------------------------------------------
+
+Manager: "How's your current project going?"
+
+Dev: "I'm making good __________ on the new feature.
+But I'm a bit __________ schedule on the deployment."
+
+Manager: "What's causing the delay?"
+
+Dev: "I'm __________ with the database migration.
+I need more __________ to research the best approach."
+
+Manager: "What skills do you want to __________?"
+
+Dev: "I'd like to __________ more about cloud
+infrastructure and __________ my testing skills."
+
+Manager: "How are you feeling about the __________?"
+
+Dev: "It's manageable, but the recent __________ have
+been a bit much. I'm managing OK."
+
+Respostas: progress, behind, struggling, time,
+develop, learn, improve, workload, deadlines
+
+------------------------------------------------------------
+PARTE 4 — ESCREVA SOBRE VOCÊ
+------------------------------------------------------------
+
+Complete:
+
+1. "I'm making progress on..."
+   ________________________________________
+
+2. "I'm struggling with..."
+   ________________________________________
+
+3. "I want to develop my skills in..."
+   ________________________________________
+
+4. "I would like feedback on..."
+   ________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

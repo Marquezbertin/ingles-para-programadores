@@ -1,0 +1,99 @@
+============================================================
+EXERCÍCIO 01 — Daily Standup em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender a participar de standups em inglês.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DO STANDUP
+------------------------------------------------------------
+
+Cada pessoa fala 3 coisas:
+
+1. O que fez ontem (past)
+2. O que fará hoje (present/future)
+3. Bloqueadores (if any)
+
+Frases úteis:
+
+PAST:
+- "Yesterday I worked on..."
+- "I finished..."
+- "I fixed..."
+- "I was debugging..."
+
+PRESENT/FUTURE:
+- "Today I'm working on..."
+- "I'll be starting..."
+- "I plan to..."
+
+BLOCKERS:
+- "I have a blocker..."
+- "I'm stuck on..."
+- "I need help with..."
+
+------------------------------------------------------------
+PARTE 2 — COMPLETE O STANDUP
+------------------------------------------------------------
+
+Dev:
+"Good morning, everyone.
+
+Yesterday I __________ on the search feature.
+I __________ most of the code and __________ the
+basic functionality. I also __________ a bug in the
+database query.
+
+Today I will __________ the search results page and
+__________ the unit tests.
+
+I have a __________: I need access to the staging
+database to finish testing."
+
+Respostas: worked, finished, implemented, fixed,
+work on/build, write, blocker
+
+------------------------------------------------------------
+PARTE 3 — ESCREVA SEU STANDUP
+------------------------------------------------------------
+
+Escreva seu standup para hoje:
+
+1. O que fez ontem:
+"Yesterday I ________________________________________"
+
+2. O que fará hoje:
+"Today I will ________________________________________"
+
+3. Algum bloqueador:
+"________________________________________"
+
+Resposta (exemplo):
+"Yesterday I worked on the API integration.
+Today I will write tests for the new endpoints.
+I have no blockers today."
+
+------------------------------------------------------------
+PARTE 4 — VARIAÇÕES DE FRASES
+------------------------------------------------------------
+
+Reescreva mantendo o significado:
+
+1. "Yesterday I worked on the login feature."
+→ "Yesterday I was ________________________________________"
+
+2. "Today I will fix the bug."
+→ "Today I'm going to ________________________________________"
+
+3. "I have a blocker with the database."
+→ "I'm stuck because ________________________________________"
+
+Respostas:
+1. "Yesterday I was working on the login feature."
+2. "Today I'm going to fix the bug."
+3. "I'm stuck because I don't have database access."
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

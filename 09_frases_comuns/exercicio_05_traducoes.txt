@@ -1,0 +1,82 @@
+============================================================
+EXERCÍCIO 05 — Tradução Frase por Frase
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Traduzir frases comuns do português para o inglês.
+
+------------------------------------------------------------
+PARTE 1 — CODE REVIEW
+------------------------------------------------------------
+
+1. "O código está muito bom, mas precisa de mais testes."
+→ "________________________________________"
+Resposta: "The code looks great, but it needs more tests."
+
+2. "Você poderia renomear esta função?"
+→ "________________________________________"
+Resposta: "Could you rename this function?"
+
+3. "Isso vai quebrar a API se as versões mudarem."
+→ "________________________________________"
+Resposta: "This will break the API if versions change."
+
+4. "Considere usar async/await em vez de callbacks."
+→ "________________________________________"
+Resposta: "Consider using async/await instead of callbacks."
+
+------------------------------------------------------------
+PARTE 2 — PR E GIT
+------------------------------------------------------------
+
+1. "Este PR corrige o bug de login."
+→ "________________________________________"
+Resposta: "This PR fixes the login bug."
+
+2. "Favor revisar o código antes do merge."
+→ "________________________________________"
+Resposta: "Please review the code before the merge."
+
+3. "A branch feature/login está pronta para review."
+→ "________________________________________"
+Resposta: "The feature/login branch is ready for review."
+
+------------------------------------------------------------
+PARTE 3 — REUNIÕES
+------------------------------------------------------------
+
+1. "Ontem trabalhei na integração da API."
+→ "________________________________________"
+Resposta: "Yesterday I worked on the API integration."
+
+2. "Hoje vou corrigir o bug no módulo de usuário."
+→ "________________________________________"
+Resposta: "Today I will fix the bug in the user module."
+
+3. "Tenho um bloquenador com o acesso ao banco."
+→ "________________________________________"
+Resposta: "I have a blocker with database access."
+
+------------------------------------------------------------
+PARTE 4 — PROBLEMAS
+------------------------------------------------------------
+
+1. "A aplicação está travando quando abro o dashboard."
+→ "________________________________________"
+Resposta: "The application crashes when I open the dashboard."
+
+2. "A porta 3000 já está em uso."
+→ "________________________________________"
+Resposta: "Port 3000 is already in use."
+
+3. "A senha deve ter pelo menos 8 caracteres."
+→ "________________________________________"
+Resposta: "The password must be at least 8 characters long."
+
+4. "Você pode reproduzir o bug no seu computador?"
+→ "________________________________________"
+Resposta: "Can you reproduce the bug on your computer?"
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

@@ -1,0 +1,98 @@
+============================================================
+EXERCÍCIO 03 — Técnica de Shadowing (Repetição)
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Praticar a técnica de shadowing para melhorar
+fluência e pronúncia.
+
+------------------------------------------------------------
+PARTE 1 — O QUE É SHADOWING?
+------------------------------------------------------------
+
+Shadowing = repetir em voz alta imediatamente após ouvir
+um falante nativo, imitando:
+- A pronúncia
+- A entonação
+- O ritmo
+- As pausas
+
+Passos:
+1. Ouça uma frase
+2. Pause
+3. Repita em voz alta imitando o falante
+4. Compare sua gravação com o original
+5. Repita até ficar parecido
+
+------------------------------------------------------------
+PARTE 2 — FRASES PARA PRATICAR
+------------------------------------------------------------
+
+Pratique com estas frases (leia em voz alta):
+
+1. "Let's go over the code review comments."
+   (Vamos revisar os comentários da code review.)
+
+2. "We need to fix the bug before the release."
+   (Precisamos corrigir o bug antes do release.)
+
+3. "Can you pull the latest changes from main?"
+   (Você pode puxar as últimas mudanças da main?)
+
+4. "This PR adds error handling to the API."
+   (Este PR adiciona tratamento de erro à API.)
+
+5. "The deployment is scheduled for Friday."
+   (O deploy está agendado para sexta.)
+
+------------------------------------------------------------
+PARTE 3 — ENTADAÇÃO
+------------------------------------------------------------
+
+Preste atenção na entonação (subida/descida):
+
+PERGUNTA (sobe no final):
+"Can you help me debug this?"
+"Cä you run the tests?"
+
+DECLARAÇÃO (desce no final):
+"We merged the branch."
+"The build passed."
+
+EXCLAMAÇÃO (sobe + energia):
+"That's a great solution!"
+"The fix worked!"
+
+Identifique o tipo de cada frase:
+
+1. "Did you push the changes?" → ______
+2. "The server is down." → ______
+3. "This is incredible!" → ______
+4. "Are you on the call?" → ______
+5. "I'll review it now." → ______
+6. "Excellent work!" → ______
+
+Respostas: 1=pergunta, 2=declaração, 3=exclamação,
+4=pergunta, 5=declaração, 6=exclamação
+
+------------------------------------------------------------
+PARTE 4 — VELOCIDADE E PAUSAS
+------------------------------------------------------------
+
+Coloque pausas (/) corretamente:
+
+1. "First / we need to set up / the environment"
+2. "If the test fails / fix the code / and rerun"
+3. "Let me check / the logs / for the error"
+
+Pratique estas frases quebrando em blocos naturais:
+
+"Yesterday I worked on the API. Today I will fix the
+bug in the user module."
+
+→ "Yesterday / I worked on the API. / Today / I will
+   fix the bug / in the user module."
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

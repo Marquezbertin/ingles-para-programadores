@@ -1,0 +1,99 @@
+============================================================
+EXERCÍCIO 04 — Mensagens de Commit de Qualidade
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Escrever mensagens de commit profissionais.
+
+------------------------------------------------------------
+PARTE 1 — BOAS PRÁTICAS
+------------------------------------------------------------
+
+| Em Inglês | Em Português |
+|-----------|--------------|
+| "Use imperative mood" | "Use o modo imperativo" |
+| "Keep it short" | "Mantenha curto" |
+| "Use prefixes" | "Use prefixos" |
+| "Explain the why" | "Explique o porquê" |
+| "One concern per commit" | "Uma preocupação por commit" |
+
+IMPERATIVO (como ordens):
+- "Add feature" (não "Added feature")
+- "Fix bug" (não "Fixes bug")
+- "Update docs" (não "Updated docs")
+
+------------------------------------------------------------
+PARTE 2 — CORRIJA AS MENSAGENS
+------------------------------------------------------------
+
+Corrija estas mensagens ruins:
+
+1. "fixed the thing"
+→ "________________________________________"
+Resposta: "fix: resolve authentication timeout issue"
+
+2. "added stuff to login"
+→ "________________________________________"
+Resposta: "feat: add validation to login form"
+
+3. "update"
+→ "________________________________________"
+Resposta: "chore: update dependencies"
+
+4. "more changes"
+→ "________________________________________"
+Resposta: "refactor: extract validation logic into helper"
+
+5. "done lol"
+→ "________________________________________"
+Resposta: "test: add unit tests for utils functions"
+
+------------------------------------------------------------
+PARTE 3 — ESCREVA O COMMIT PERFEITO
+------------------------------------------------------------
+
+Para cada cenário, escreva:
+
+1. Adicionou uma nova rota na API:
+   → "________________________________________"
+   Resposta: "feat: add GET /api/posts route"
+
+2. Corrigiu um erro de digitação no README:
+   → "________________________________________"
+   Resposta: "docs: fix typo in installation section"
+
+3. Melhorou a performance de uma query:
+   → "________________________________________"
+   Resposta: "perf: optimize user search query"
+
+4. Mudo a indentação de um arquivo:
+   → "________________________________________"
+   Resposta: "style: format code in utils.js"
+
+5. Adicionou testes para a auth:
+   → "________________________________________"
+   Resposta: "test: add integration tests for auth routes"
+
+------------------------------------------------------------
+PARTE 4 — TRADUZA PARA INGLÊS
+------------------------------------------------------------
+
+1. "Adicionar suporte a dark mode"
+→ "________________________________________"
+Resposta: "feat: add dark mode support"
+
+2. "Corrigir bug no cálculo de impostos"
+→ "________________________________________"
+Resposta: "fix: fix tax calculation bug"
+
+3. "Atualizar dependências de segurança"
+→ "________________________________________"
+Resposta: "chore: update security dependencies"
+
+4. "Refatorar módulo de pagamento"
+→ "________________________________________"
+Resposta: "refactor: refactor payment module"
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

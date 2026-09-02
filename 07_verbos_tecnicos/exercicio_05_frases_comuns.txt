@@ -1,0 +1,72 @@
+============================================================
+EXERCÍCIO 05 — Frases Comuns com Verbos Técnicos
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Praticar frases do dia a dia com verbos técnicos.
+
+------------------------------------------------------------
+PARTE 1 — FRASES PARA MEMORIZAR
+------------------------------------------------------------
+
+| Em Inglês | Em Português |
+|-----------|--------------|
+| "I'm implementing the login feature." | "Estou implementando a feature de login." |
+| "We need to refactor this module." | "Precisamos refatorar este módulo." |
+| "Let's deploy the changes." | "Vamos publicar as mudanças." |
+| "I'm debugging the API issue." | "Estou depurando o problema da API." |
+| "We should optimize the database queries." | "Deveríamos otimizar as queries do banco." |
+| "I'll document the new endpoints." | "Vou documentar os novos endpoints." |
+| "Can you review my code?" | "Você pode revisar meu código?" |
+| "We need to migrate to React 18." | "Precisamos migrar para React 18." |
+
+------------------------------------------------------------
+PARTE 2 — TRADUZA PARA INGLÊS
+------------------------------------------------------------
+
+1. "Vou implementar a função de busca amanhã."
+   → ________________________________________
+
+2. "Precisamos refatorar o módulo de autenticação."
+   → ________________________________________
+
+3. "Estamos publicando a versão 2.0 na sexta."
+   → ________________________________________
+
+4. "Ele está depurando um bug no formulário."
+   → ________________________________________
+
+5. "Deveríamos otimizar as consultas SQL."
+   → ________________________________________
+
+Respostas:
+1. "I'll implement the search function tomorrow."
+2. "We need to refactor the authentication module."
+3. "We're deploying version 2.0 on Friday."
+4. "He's debugging a bug in the form."
+5. "We should optimize the SQL queries."
+
+------------------------------------------------------------
+PARTE 3 — DIALOGUE
+------------------------------------------------------------
+
+Complete o diálogo:
+
+Dev 1: "Hey, what are you working on?"
+Dev 2: "I'm __________ the new __________ feature.
+        But I'm having some issues."
+
+Dev 1: "Do you need help __________?"
+Dev 2: "Yes, actually. Can you __________ the code
+        when I push the PR?"
+
+Dev 1: "Sure. Also, we need to __________ the old
+        endpoints before we __________."
+Dev 2: "Good point. I'll __________ that in the docs."
+
+Respostas: implementing, search, debugging, review,
+deprecate, deploy, document
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

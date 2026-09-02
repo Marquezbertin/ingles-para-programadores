@@ -1,0 +1,70 @@
+============================================================
+EXERCÍCIO 01 — Verbos de Desenvolvimento
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender e praticar verbos técnicos de desenvolvimento.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês    | Português | Quando usar |
+|-----------|-----------|-------------|
+| Implement | Implementar | Criar nova funcionalidade |
+| Refactor  | Refatorar  | Melhorar código sem mudar comportamento |
+| Deploy    | Publicar   | Colocar em produção |
+| Debug     | Depurar    | Encontrar e corrigir bugs |
+| Iterate   | Iterar     | Melhorar progressivamente |
+| Optimize  | Otimizar   | Melhorar performance |
+| Maintain  | Manter     | Cuidar do código existente |
+| Migrate   | Migrar     | Mudar para nova versão/plataforma |
+| Scale     | Escalar    | Lidar com mais usuários/dados |
+| Document  | Documentar | Escrever documentação |
+
+------------------------------------------------------------
+PARTE 2 — CORRESPONDÊNCIA
+------------------------------------------------------------
+
+( ) Implement    ___ Melhorar código sem mudar comportamento
+( ) Refactor     ___ Colocar em produção
+( ) Deploy       ___ Encontrar bugs
+( ) Debug        ___ Criar nova funcionalidade
+( ) Optimize     ___ Lidar com mais usuários
+( ) Migrate      ___ Melhorar performance
+( ) Scale        ___ Cuidar do código existente
+( ) Maintain     ___ Mudar para nova versão
+
+Respostas: 1=4, 2=1, 3=2, 4=3, 5=6, 6=8, 7=5, 8=7
+
+------------------------------------------------------------
+PARTE 3 — USE O VERBO CORRETO
+------------------------------------------------------------
+
+1. "I need to __________ the login feature this week."
+   (implement)
+
+2. "The code is messy. Let's __________ it."
+   (refactor)
+
+3. "We're ready to __________ the changes to production."
+   (deploy)
+
+4. "I'm trying to __________ why the test is failing."
+   (debug)
+
+5. "The app is slow. We should __________ the queries."
+   (optimize)
+
+6. "We need to __________ from Node 16 to Node 18."
+   (migrate)
+
+7. "This API needs to __________ to handle 10k users."
+   (scale)
+
+8. "Please __________ the new endpoints in the README."
+   (document)
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

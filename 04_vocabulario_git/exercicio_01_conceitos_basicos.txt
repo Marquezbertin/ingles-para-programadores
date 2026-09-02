@@ -1,0 +1,73 @@
+============================================================
+EXERCÍCIO 01 — Conceitos Básicos do Git
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Aprender os termos fundamentais do Git.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês      | Português   | Significado |
+|-------------|-------------|-------------|
+| Repository  | Repositório | Pasta do projeto com histórico Git |
+| Commit      | Commit      | Salvar mudanças no histórico |
+| Branch      | Branch      | Linha de desenvolvimento paralela |
+| Merge       | Merge       | Unir branches |
+| Push        | Push        | Enviar commits para o remote |
+| Pull        | Pull        | Baixar commits do remote |
+| Clone       | Clone       | Copiar repositório remotamente |
+| Fork        | Fork        | Copiar repositório para sua conta |
+| Remote      | Remoto      | Versão online do repositório |
+| Local       | Local       | Versão no seu computador |
+
+------------------------------------------------------------
+PARTE 2 — CORRESPONDÊNCIA
+------------------------------------------------------------
+
+( ) Repository    ___ Enviar commits
+( ) Commit         ___ Copiar repositório
+( ) Branch         ___ Baixar do remote
+( ) Merge          ___ Salvar mudanças
+( ) Push           ___ Unir branches
+( ) Pull           ___ Pasta do projeto
+( ) Clone          ___ Copiar para sua conta
+( ) Fork           ___ Linha de desenvolvimento
+
+Respostas: 1=6, 2=4, 3=8, 4=5, 5=1, 6=3, 7=2, 8=7
+
+------------------------------------------------------------
+PARTE 3 — VERDADE OU MITO
+------------------------------------------------------------
+
+1. ( ) Um commit é uma cópia do projeto.
+2. ( ) Branch permite trabalhar em features separadas.
+3. ( ) Merge combina duas branches.
+4. ( ) Push envia seus commits para o servidor.
+5. ( ) Fork cria uma cópia no seu GitHub.
+
+Respostas:
+1. M — É um snapshot das mudanças, não cópia completa
+2. V
+3. V
+4. V
+5. V
+
+------------------------------------------------------------
+PARTE 4 — FLUXO BÁSICO
+------------------------------------------------------------
+
+Ordene o fluxo Git básico:
+
+( ) git push
+( ) git add .
+( ) git commit -m "message"
+( ) git checkout -b feature-name
+( ) git pull
+
+Ordem correta: 5, 4, 2, 3, 1
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

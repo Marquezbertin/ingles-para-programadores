@@ -1,0 +1,107 @@
+============================================================
+EXERCÍCIO 04 — Sprint e Backlog em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Praticar situações reais de sprint em inglês.
+
+------------------------------------------------------------
+PARTE 1 — SPRINT PLANNING
+------------------------------------------------------------
+
+Complete o diálogo:
+
+PM: "Welcome to sprint planning. Let's look at
+the __________ and prioritize the stories."
+
+Dev: "I think we should start with story #123.
+It's a __________ priority feature."
+
+PM: "How many __________ do you estimate for this?"
+
+Dev: "I'd say __________ points. It's a medium
+complexity story."
+
+PM: "Any __________ we should be aware of?"
+
+Dev: "Yes, we need the __________ from the design
+team before we can start."
+
+Respostas: backlog, high, story points, 5/8,
+blockers, designs/mockups
+
+------------------------------------------------------------
+PARTE 2 — DAILY STANDUP
+------------------------------------------------------------
+
+Cada pessoa fala 3 coisas. Complete:
+
+Dev 1:
+"Yesterday I worked on __________.
+Today I will __________.
+No __________."
+
+Dev 2:
+"Yesterday I __________ the bug in the login module.
+Today I will __________.
+I have a __________: I need access to the __________
+database."
+
+Dev 3:
+"Yesterday I __________ the API endpoints.
+Today I will __________.
+I'm __________ on the deployment."
+
+Respostas:
+Dev 1: the user profile feature, finish the API integration, blockers
+Dev 2: fixed, write tests, blocker, staging
+Dev 3: finished/designed, start the frontend integration, blocked
+
+------------------------------------------------------------
+PARTE 3 — SPRINT RETROSPECTIVE
+------------------------------------------------------------
+
+Responda sobre a retrospectiva:
+
+1. "What went well this sprint?"
+   Resposta: ________________________________________
+
+2. "What didn't go well?"
+   Resposta: ________________________________________
+
+3. "What can we improve?"
+   Resposta: ________________________________________
+
+4. "Any action items?"
+   Resposta: ________________________________________
+
+------------------------------------------------------------
+PARTE 4 — BACKLOG REFINEMENT
+------------------------------------------------------------
+
+Leia esta story e responda:
+
+"Title: Add search functionality to the dashboard
+Points: 8
+Priority: High
+Assignee: John
+
+Description: As a user, I want to search for items
+in the dashboard so that I can quickly find what
+I need."
+
+1. "What is the story about?"
+   Resposta: Adicionar funcionalidade de busca
+
+2. "What is the priority?"
+   Resposta: High
+
+3. "Who is assigned?"
+   Resposta: John
+
+4. "How many points?"
+   Resposta: 8
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

@@ -1,0 +1,112 @@
+============================================================
+EXERCÍCIO 03 — Ações de Programação
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Aprender e praticar os verbos de ação
+mais usados em programação.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês   | Português | Exemplo |
+|----------|-----------|---------|
+| Run      | Executar  | "Run the code." |
+| Debug    | Depurar   | "Debug the function." |
+| Compile  | Compilar   | "Compile the project." |
+| Install  | Instalar   | "Install the package." |
+| Execute  | Executar   | "Execute the command." |
+| Import   | Importar   | "Import the module." |
+| Export   | Exportar   | "Export the function." |
+| Delete   | Deletar    | "Delete the file." |
+| Create   | Criar      | "Create a new file." |
+| Update   | Atualizar  | "Update the version." |
+| Save     | Salvar     | "Save your changes." |
+| Open     | Abrir      | "Open the terminal." |
+| Close    | Fechar     | "Close the application." |
+| Search   | Buscar     | "Search for the error." |
+| Find     | Encontrar  | "Find the bug." |
+| Fix      | Corrigir   | "Fix the issue." |
+| Test     | Testar     | "Test the function." |
+| Deploy   | Publicar   | "Deploy to production." |
+| Build    | Compilar    | "Build the application." |
+| Copy     | Copiar     | "Copy the file." |
+| Paste    | Colar      | "Paste the code." |
+
+------------------------------------------------------------
+PARTE 2 — COMPLETE A FRASE
+------------------------------------------------------------
+
+Use o verbo correto:
+
+1. "Please __________ the new version of Node.js."
+   (install)
+
+2. "I need to __________ this code before deploying."
+   (test)
+
+3. "Can you __________ the application?"
+   (run)
+
+4. "I will __________ the file to the server."
+   (deploy)
+
+5. "Let me __________ this error."
+   (debug)
+
+6. "She __________ the project yesterday."
+   (created)
+
+7. "We should __________ our dependencies."
+   (update)
+
+8. "Don't forget to __________ your work."
+   (save)
+
+------------------------------------------------------------
+PARTE 3 — AÇÕES NA ORDEM CORRETA
+------------------------------------------------------------
+
+Coloque na ordem correta do ciclo de desenvolvimento:
+
+( ) Deploy to production
+( ) Write the code
+( ) Fix the bugs
+( ) Create a new project
+( ) Test the function
+( ) Run the application
+( ) Build the project
+
+Ordem correta:
+1. Create a new project
+2. Write the code
+3. Test the function
+4. Run the application
+5. Fix the bugs
+6. Build the project
+7. Deploy to production
+
+------------------------------------------------------------
+PARTE 4 — LEITURA
+------------------------------------------------------------
+
+"Today I will create a new file, write the code for
+the login function, test it, fix any bugs, and then
+deploy to the production server."
+
+1. Quantas ações o autor vai fazer?
+   Resposta: 5
+
+2. Qual é a primeira ação?
+   Resposta: Create a new file
+
+3. Qual é a última ação?
+   Resposta: Deploy to production
+
+4. Em que ordem as ações acontecem?
+   Resposta: Create → Write → Test → Fix → Deploy
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

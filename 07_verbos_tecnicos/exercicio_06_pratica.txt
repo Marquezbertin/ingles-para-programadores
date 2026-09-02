@@ -1,0 +1,66 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo (Verbos)
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Combinar todos os verbos técnicos em situações reais.
+
+------------------------------------------------------------
+PARTE 1 — CHECKLIST SEMANAL
+------------------------------------------------------------
+
+Complete o relatório semanal:
+
+"This week I:
+
+Monday: __________ the requirements for the new feature
+Tuesday: __________ the code and wrote tests
+Wednesday: __________ the PR and __________ the feedback
+Thursday: __________ the code based on review comments
+Friday: __________ to staging and __________ the results
+
+Next week I will __________ the old API endpoints."
+
+Respostas: gathered, implemented, opened/discussed,
+refactored, deployed, verified, deprecate
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: SPRINT
+------------------------------------------------------------
+
+Escreva um parágrafo sobre sua sprint:
+
+"In this sprint, I will __________ the search feature
+and __________ the dashboard. I'll also __________ the
+database queries to improve __________. After that,
+I'll __________ the API docs and __________ a PR for
+review."
+
+Respostas: implement, refactor, optimize, performance,
+update, open
+
+------------------------------------------------------------
+PARTE 3 — VOCABULÁRIO FINAL
+------------------------------------------------------------
+
+Complete a tabela:
+
+| Inglês    | Português |
+|-----------|-----------|
+| Implement | _________ |
+| Refactor  | _________ |
+| Deploy    | _________ |
+| Debug     | _________ |
+| Optimize  | _________ |
+| Document  | _________ |
+| Review    | _________ |
+| Migrate   | _________ |
+| Deprecate | _________ |
+| Release   | _________ |
+
+Respostas: Implementar, Refatorar, Publicar, Depurar,
+Otimizar, Documentar, Revisar, Migrar, Depreciar, Lançar
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

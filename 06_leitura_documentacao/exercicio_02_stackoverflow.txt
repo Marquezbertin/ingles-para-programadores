@@ -1,0 +1,86 @@
+============================================================
+EXERCÍCIO 02 — Usando Stack Overflow
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender a pesquisar e entender respostas no Stack Overflow.
+
+------------------------------------------------------------
+PARTE 1 — COMO PESQUISAR
+------------------------------------------------------------
+
+Boas práticas de pesquisa no Stack Overflow:
+
+1. Use termos específicos: "JavaScript map undefined"
+2. Inclua a linguagem: "Python sort list by key"
+3. Inclua a versão: "React 18 useEffect cleanup"
+4. Busque erros exatos: "TypeError cannot read property"
+
+------------------------------------------------------------
+PARTE 2 — LEITURA DE UMA PERGUNTA
+------------------------------------------------------------
+
+Leia esta pergunta do Stack Overflow:
+
+Title: "How to merge two arrays in JavaScript?"
+
+Body: "I have two arrays:
+const arr1 = [1, 2, 3];
+const arr2 = [4, 5, 6];
+
+I want to merge them into one array [1, 2, 3, 4, 5, 6].
+What's the best way to do this?"
+
+1. Qual é a pergunta?
+   Resposta: Como combinar dois arrays em JavaScript
+
+2. Quais são os dados do problema?
+   Resposta: Dois arrays, arr1 e arr2
+
+3. Qual é o resultado esperado?
+   Resposta: Um array [1, 2, 3, 4, 5, 6]
+
+------------------------------------------------------------
+PARTE 3 — LEITURA DE UMA RESPOSTA
+------------------------------------------------------------
+
+Resposta com 500 votos:
+
+"You can use the spread operator:
+const merged = [...arr1, ...arr2];
+
+Or use concat():
+const merged = arr1.concat(arr2);
+
+Both methods create a new array without modifying
+the originals."
+
+1. Quantas soluções são oferecidas?
+   Resposta: 2
+
+2. Qual é a primeira solução?
+   Resposta: Spread operator
+
+3. Qual é a segunda solução?
+   Resposta: concat()
+
+4. O que ambas as soluções têm em comum?
+   Resposta: Não modificam os arrays originais
+
+------------------------------------------------------------
+PARTE 4 — AVALIE A QUALIDADE
+------------------------------------------------------------
+
+Como avaliar se uma resposta é confiável?
+
+[ ] Tem muitos votos (upvotes)?
+[ ] Foi aceita pelo autor da pergunta?
+[ ] Tem comentários explicando mais detalhes?
+[ ] É recente ou tem referência à documentação?
+[ ] O código tem exemplos práticos?
+
+Resposta: Todas as alternativas acima indicam boa qualidade
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

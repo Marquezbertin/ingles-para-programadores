@@ -1,0 +1,89 @@
+============================================================
+EXERCÍCIO 02 — Reportar Bugs em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender a escrever bug reports claros em inglês.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DE UM BUG REPORT
+------------------------------------------------------------
+
+| Seção | Em Inglês | O que escrever |
+|-------|-----------|----------------|
+| Título | Title | Descrição curta do bug |
+| Passos | Steps to Reproduce | Como reproduzir |
+| Resultado esperado | Expected | O que deveria acontecer |
+| Resultado atual | Actual Result | O que aconteceu |
+| Ambiente | Environment | SO, navegador, versão |
+| Severidade | Severity | Crítico, Maior, Menor |
+
+------------------------------------------------------------
+PARTE 2 — ESCREVA UM BUG REPORT
+------------------------------------------------------------
+
+Cenário: O formulário de login não valida senhas vazias.
+
+Title: ________________________________________
+
+Steps to reproduce:
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________
+
+Expected result: ________________________________________
+Actual result: ________________________________________
+Severity: ________________________________________
+
+Resposta:
+Title: "Login form does not validate empty password"
+
+Steps:
+1. Go to the login page
+2. Enter a valid email
+3. Leave the password field empty
+4. Click the "Login" button
+
+Expected: Show an error message "Password is required"
+Actual: The form submits and shows a server error
+Severity: Major
+
+------------------------------------------------------------
+PARTE 3 — TRADUZA O BUG REPORT
+------------------------------------------------------------
+
+1. "O botão de submit não responde quando clicado."
+   → ________________________________________
+
+2. "A imagem não carrega no navegador Safari."
+   → ________________________________________
+
+3. "O valor total está incorreno no carrinho de compras."
+   → ________________________________________
+
+Respostas:
+1. "The submit button doesn't respond when clicked."
+2. "The image doesn't load in the Safari browser."
+3. "The total value is incorrect in the shopping cart."
+
+------------------------------------------------------------
+PARTE 4 — SEVERIDADE
+------------------------------------------------------------
+
+Classifique cada bug:
+
+a) Critical — Sistema inutilizável
+b) Major — Funcionalidade importante quebrada
+c) Minor — Problema cosmético ou inconveniente
+
+1. O site não abre para nenhum usuário. → ___
+2. O botão de logout não funciona. → ___
+3. A cor do botão está diferente do design. → ___
+4. O checkout não processa pagamentos. → ___
+5. O tooltip aparece com texto cortado. → ___
+
+Respostas: 1=a, 2=b, 3=c, 4=a, 5=c
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

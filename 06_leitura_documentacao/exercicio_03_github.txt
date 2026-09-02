@@ -1,0 +1,133 @@
+============================================================
+EXERCÍCIO 03 — Navegando no GitHub
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender a navegar e extrair informações do GitHub.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DE UM REPOSITÓRIO
+------------------------------------------------------------
+
+| Seção | O que contém |
+|-------|-------------|
+| README.md | Descrição do projeto |
+| src/ | Código fonte |
+| docs/ | Documentação |
+| tests/ | Testes |
+| package.json | Dependências (Node.js) |
+| LICENSE | Licença |
+| .gitignore | Arquivos ignorados |
+
+------------------------------------------------------------
+PARTE 2 — LEITURA DE README
+------------------------------------------------------------
+
+Leia este README:
+
+"# My Awesome Project
+
+A JavaScript library for data validation.
+
+## Installation
+npm install my-awesome-project
+
+## Usage
+```javascript
+import { validate } from 'my-awesome-project';
+const result = validate({ name: 'John' });
+```
+
+## Features
+- Validates strings, numbers, and objects
+- Custom error messages
+- TypeScript support
+
+## Contributing
+Please read CONTRIBUTING.md before submitting a PR.
+
+## License
+MIT"
+
+1. O que é este projeto?
+   Resposta: Uma biblioteca JavaScript para validação de dados
+
+2. Como instalar?
+   Resposta: npm install my-awesome-project
+
+3. Quais funcionalidades tem?
+   Resposta: Valida strings, números e objetos; mensagens de erro customizadas; suporte TypeScript
+
+4. Como contribuir?
+   Resposta: Ler CONTRIBUTING.md antes de enviar PR
+
+------------------------------------------------------------
+PARTE 3 — NAVIGANDO EM ISSUES
+------------------------------------------------------------
+
+Leia esta issue:
+
+"Title: Login fails with special characters in password
+Labels: bug, priority:high
+Assignee: @johndoe
+
+When I try to login with a password containing
+special characters like @, #, or $, the login fails
+with a 400 error.
+
+Steps to reproduce:
+1. Go to /login
+2. Enter email: test@test.com
+3. Enter password: P@ss#123
+4. Click Login
+
+Expected: Successful login
+Actual: 400 Bad Request error"
+
+1. Qual é o problema?
+   Resposta: Login falha com caracteres especiais na senha
+
+2. Quais labels tem?
+   Resposta: bug, priority:high
+
+3. Quem está assignado?
+   Resposta: @johndoe
+
+4. Qual é o resultado esperado?
+   Resposta: Login bem-sucedido
+
+------------------------------------------------------------
+PARTE 4 — CHANGES E RELEASES
+------------------------------------------------------------
+
+Leia este changelog:
+
+"## v2.1.0 (2024-01-15)
+
+### Added
+- Dark mode support
+- Export to PDF functionality
+
+### Fixed
+- Memory leak in data processing
+- CSS layout issues on mobile
+
+### Changed
+- Updated React to v18.2
+- Improved error messages
+
+### Removed
+- Deprecated v1 API endpoints"
+
+1. O que foi adicionado?
+   Resposta: Suporte a dark mode e exportação para PDF
+
+2. O que foi corrigido?
+   Resposta: Memory leak e problemas de layout CSS
+
+3. O que foi removido?
+   Resposta: Endpoints da API v1 depreciados
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

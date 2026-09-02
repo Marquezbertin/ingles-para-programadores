@@ -1,0 +1,68 @@
+============================================================
+EXERCÍCIO 03 — Descrever Processos em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender a descrever processos de desenvolvimento em inglês.
+
+------------------------------------------------------------
+PARTE 1 — PROCESSO DE DESENVOLVIMENTO
+------------------------------------------------------------
+
+Descreva cada etapa:
+
+1. "First, we __________ the requirements."
+   (gather/collect)
+
+2. "Then, we __________ the solution."
+   (design)
+
+3. "Next, we __________ the code."
+   (write/implement)
+
+4. "After that, we __________ the code."
+   (review)
+
+5. "Then, we __________ the feature."
+   (test)
+
+6. "Finally, we __________ to production."
+   (deploy)
+
+------------------------------------------------------------
+PARTE 2 — DESCREVA O PROCESSO
+------------------------------------------------------------
+
+Escreva um parágrafo descrevendo o processo completo:
+
+"First, we __________ the requirements from the
+stakeholder. Then, we __________ the architecture
+and create the __________. Next, I __________ the
+code and write __________. After that, my teammate
+____________ the PR. Then we __________ and finally
+____________ to production."
+
+Respostas: gather, design, tickets/issues, implement,
+tests, reviews, test, deploy
+
+------------------------------------------------------------
+PARTE 3 — PROCESSOS ESPECÍFICOS
+------------------------------------------------------------
+
+Descreva cada processo:
+
+1. Processo de fix de bug:
+   "First, I __________ the bug. Then I __________ it
+   locally. After that, I write a __________ to prevent
+   it. Then I __________ a PR and wait for __________."
+   Respostas: reproduce, fix, test, create, review
+
+2. Processo de feature nova:
+   "First, I __________ the ticket. Then I __________
+   the approach. Next, I __________ the code. After
+   that, I write __________. Then I __________ a PR."
+   Respostas: pick up, plan/design, implement, tests, open
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

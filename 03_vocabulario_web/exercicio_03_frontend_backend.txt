@@ -1,0 +1,89 @@
+============================================================
+EXERCÍCIO 03 — Frontend e Backend
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Diferenciar e usar termos de frontend e backend.
+
+------------------------------------------------------------
+PARTE 1 — FRONTEND
+------------------------------------------------------------
+
+| Inglês     | Português    |
+|------------|-------------|
+| Frontend   | Frontend    |
+| HTML       | HTML        |
+| CSS        | CSS         |
+| JavaScript | JavaScript  |
+| Component  | Componente  |
+| Layout     | Layout      |
+| Responsive | Responsivo  |
+| Button     | Botão       |
+| Form       | Formulário  |
+| Input      | Campo de entrada |
+| Dropdown   | Menu suspenso|
+| Modal      | Modal       |
+
+FRASES:
+- "The frontend is built with React."
+- "Make the layout responsive."
+- "Create a new component for the login form."
+- "The button should show a loading spinner."
+
+------------------------------------------------------------
+PARTE 2 — BACKEND
+------------------------------------------------------------
+
+| Inglês     | Português    |
+|------------|-------------|
+| Backend    | Backend     |
+| Server     | Servidor    |
+| Database   | Banco de dados|
+| Middleware | Middleware   |
+| Route      | Rota        |
+| Controller | Controlador |
+| Model      | Modelo      |
+| Authentication | Autenticação |
+| Authorization  | Autorização  |
+| Logic      | Lógica      |
+
+FRASES:
+- "The backend handles the business logic."
+- "Create a new route for the API."
+- "Add authentication middleware."
+- "The model defines the database schema."
+
+------------------------------------------------------------
+PARTE 3 — CORRESPONDÊNCIA
+------------------------------------------------------------
+
+( ) Component    ___ Middleware
+( ) Route        ___ Responsivo
+( ) Responsive   ___ Banco de dados
+( ) Database     ___ Componente
+( ) Middleware    ___ Rota
+( ) Authentication ___ Autenticação
+
+Respostas: 1=4, 2=5, 3=2, 4=3, 5=1, 6=6
+
+------------------------------------------------------------
+PARTE 4 — CENÁRIO DE PROJETO
+------------------------------------------------------------
+
+Responda sobre um projeto web:
+
+1. "What technologies does the frontend use?"
+   Resposta: ________________________________________
+
+2. "What does the backend handle?"
+   Resposta: ________________________________________
+
+3. "How does the frontend communicate with the backend?"
+   Resposta: Through API calls / HTTP requests
+
+4. "What is the role of the database?"
+   Resposta: To store and retrieve data
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

@@ -1,0 +1,92 @@
+============================================================
+EXERCÍCIO 05 — QA na Code Review
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Praticar vocabulário de QA durante code reviews.
+
+------------------------------------------------------------
+PARTE 1 — COMENTÁRIOS DE REVIEW COMUNS
+------------------------------------------------------------
+
+| Em Inglês | Em Português |
+|-----------|--------------|
+| "This needs tests." | "Isso precisa de testes." |
+| "What about edge cases?" | "E os casos extremos?" |
+| "This could cause a regression." | "Isso pode causar regressão." |
+| "The test coverage is low." | "A cobertura de testes está baixa." |
+| "Please add error handling." | "Por favor, adicione tratamento de erros." |
+| "This is hard to test." | "Isso é difícil de testar." |
+
+------------------------------------------------------------
+PARTE 2 — LEIA E RESPONDA
+------------------------------------------------------------
+
+Leia este comentário de review:
+
+"Nice work on the new feature! However, I have a few
+concerns:
+
+1. There are no unit tests for the login function.
+2. The error handling is missing — what happens if
+   the API call fails?
+3. The function is doing too much. Consider splitting
+   it into smaller functions.
+4. What about edge cases like empty inputs?"
+
+1. Quantas preocupações o reviewer tem?
+   Resposta: 4
+
+2. Qual é a primeira preocupação?
+   Resposta: Falta de testes unitários
+
+3. O que o reviewer sugere sobre a função?
+   Resposta: Dividir em funções menores
+
+4. O que são "edge cases"?
+   Resposta: Casos extremos (entradas vazias, nulas, etc.)
+
+------------------------------------------------------------
+PARTE 3 — ESCREVA COMENTÁRIOS
+------------------------------------------------------------
+
+Escreva comentários de review para cada situação:
+
+1. O código não tem tratamento de erros:
+   "________________________________________"
+   Resposta: "Please add error handling for the API call."
+
+2. A variável tem um nome ruim:
+   "________________________________________"
+   Resposta: "Consider renaming this variable to be more descriptive."
+
+3. Falta testar um cenário importante:
+   "________________________________________"
+   Resposta: "What about the case when the user is not authenticated?"
+
+4. O código está correto mas pode ser melhor:
+   "________________________________________"
+   Resposta: "This works, but you could simplify it using .filter() method."
+
+5. Você não entendeu o código:
+   "________________________________________"
+   Resposta: "Can you explain the logic behind this function?"
+
+------------------------------------------------------------
+PARTE 4 — CHECKLIST DE QA
+------------------------------------------------------------
+
+Marque o que deve ser verificado em uma review:
+
+[ ] Testes unitários existem
+[ ] Tratamento de erros está presente
+[ ] Não há código duplicado
+[ ] Variáveis têm nomes claros
+[ ] Não há vulnerabilidades de segurança
+[ ] Performance é aceitável
+[ ] Código segue o padrão do projeto
+[ ] Documentação está atualizada
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

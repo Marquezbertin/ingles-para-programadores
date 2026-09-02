@@ -1,0 +1,80 @@
+============================================================
+EXERCÍCIO 04 — Discussão Técnica em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Participar de discussões técnicas de forma clara.
+
+------------------------------------------------------------
+PARTE 1 — FRASES PARA DISCUSSÃO
+------------------------------------------------------------
+
+| Em Inglês | Em Português |
+|-----------|--------------|
+| "In my opinion..." | "Na minha opinião..." |
+| "I think we should..." | "Eu acho que deveríamos..." |
+| "What about...?" | "E quanto a...?" |
+| "Have we considered...?" | "Já consideramos...?" |
+| "I agree with X." | "Concordo com X." |
+| "I disagree because..." | "Discordo porque..." |
+| "Let's revisit this." | "Vamos revisitar isso." |
+| "Can we take a step back?" | "Podemos dar um passo atrás?" |
+| "Just to clarify..." | "Só para esclarecer..." |
+| "Let me think about that." | "Déjame pensar nisso." |
+
+------------------------------------------------------------
+PARTE 2 — CONCORDA OU DISCORDA
+------------------------------------------------------------
+
+1. Alguém propõe usar MongoDB em vez de PostgreSQL.
+   Você concorda. Escreva:
+   "________________________________________"
+   Resposta: "I agree with using MongoDB. It fits our flexible data model better."
+
+2. Alguém propõe remover os testes E2E. Você discorda:
+   "________________________________________"
+   Resposta: "I disagree, because E2E tests catch integration issues that unit tests miss."
+
+3. Você quer sugerir uma alternativa:
+   "________________________________________"
+   Resposta: "What about using Redis for caching instead?"
+
+4. Você não entendeu completamente a proposta:
+   "________________________________________"
+   Resposta: "Just to clarify, are you suggesting we move to a microservices architecture?"
+
+------------------------------------------------------------
+PARTE 3 — CENÁRIO DE DISCUSSÃO
+------------------------------------------------------------
+
+Compete o diálogo:
+
+Dev A: "I think we should use TypeScript."
+Dev B: "I __________, but have we considered the
+       learning curve for the team?"
+Dev A: "Good point. __________, the long-term benefits
+       of type safety outweigh the initial cost."
+Dev C: "What __________ using a gradual adoption approach?"
+Dev A: "That's a great idea. We can __________ migrating
+       one module at a time."
+
+Respostas: agree, However/But, about, start/begin
+
+------------------------------------------------------------
+PARTE 4 — ESCREVA SUA OPINIÃO
+------------------------------------------------------------
+
+Escreva frases sobre cada tópico:
+
+1. "Should we use a monorepo?"
+   Resposta: "In my opinion, a monorepo would simplify dependency management for our projects."
+
+2. "Should we write tests first?"
+   Resposta: "I think TDD is valuable, but it has a learning curve and may slow us down initially."
+
+3. "Should we move to the cloud?"
+   Resposta: "I agree we should move to the cloud for scalability, but we need a migration plan."
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

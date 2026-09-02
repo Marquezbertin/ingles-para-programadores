@@ -1,0 +1,130 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Combinar todo o vocabulário de computação
+aprendido em situações práticas.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO RÁPIDO (REVISÃO)
+------------------------------------------------------------
+
+Complete a tabela com as traduções:
+
+| Inglês        | Português |
+|---------------|-----------|
+| Computer      | _________ |
+| Software      | _________ |
+| Hardware      | _________ |
+| Code          | _________ |
+| Debug         | _________ |
+| Variable      | _________ |
+| Array         | _________ |
+| Function      | _________ |
+| Error         | _________ |
+| Database      | _________ |
+| Server        | _________ |
+| Deploy        | _________ |
+| Build         | _________ |
+| Install       | _________ |
+| Import        | _________ |
+
+Respostas: Computador, Software, Hardware, Código,
+Depurar, Variável, Vetor, Função, Erro, Banco de dados,
+Servidor, Publicar, Compilar, Instalar, Importar
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: DEBUGGING
+------------------------------------------------------------
+
+Você está debugando uma aplicação. Responda em inglês:
+
+1. Qual é o problema?
+   "The application __________ when I try to
+   __________ the user data."
+   Resposta: crashes, fetch
+
+2. Qual é a mensagem de erro?
+   "The __________ says 'Cannot read property
+   of __________'."
+   Resposta: error message, undefined
+
+3. O que você vai fazer?
+   "I will __________ the __________ to find
+   the __________."
+   Resposta: debug, code, bug
+
+4. Depois de encontrar, o que você faz?
+   "I will __________ the code and __________
+   the __________."
+   Resposta: fix, run, application
+
+------------------------------------------------------------
+PARTE 3 — CENÁRIO: CODE REVIEW
+------------------------------------------------------------
+
+Leia este código e responda:
+
+```javascript
+function getUserById(users, id) {
+  for (let i = 0; i < users.length; i++) {
+    if (users[i].id === id) {
+      return users[i];
+    }
+  }
+  return null;
+}
+```
+
+1. "What does this function do?"
+   Resposta: Encontra e retorna um usuário pelo ID
+
+2. "What are the parameters?"
+   Resposta: users (array de usuários) e id (identificador)
+
+3. "What does it return if no user is found?"
+   Resposta: null
+
+4. "How could you improve this function?"
+   Resposta: Usar .find() em vez de loop, ou adicionar validação
+
+------------------------------------------------------------
+PARTE 4 — CENÁRIO: STANDUP
+------------------------------------------------------------
+
+Complete o standup:
+
+"Yesterday I __________ (work on) the login
+module. I __________ (find) a __________ (bug)
+in the __________ (function) that __________
+(validates) the password.
+
+Today I will __________ (fix) the bug and
+____________ (test) the __________ (application).
+
+No __________ (blockers) so far."
+
+Respostas: worked on, found, bug, function, validates,
+fix, test, application, blockers
+
+------------------------------------------------------------
+PARTE 5 — CHECKLIST DO MÓDULO 02
+------------------------------------------------------------
+
+Marque com ✓ o que você domina:
+
+[ ] Termos de hardware
+[ ] Termos de software
+[ ] Estruturas de dados (array, object, etc.)
+[ ] Ações de programação (run, debug, deploy, etc.)
+[ ] Frases técnicas comuns
+[ ] Leitura de código com comentários
+[ ] Escrita de código a partir de comentários
+[ ] Uso em situações reais
+
+Se marcou menos de 6, revise o módulo!
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

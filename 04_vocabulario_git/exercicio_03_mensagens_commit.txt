@@ -1,0 +1,105 @@
+============================================================
+EXERCÍCIO 03 — Mensagens de Commit em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender a escrever mensagens de commit claras em inglês.
+
+------------------------------------------------------------
+PARTE 1 — CONVENÇÕES DE COMMIT
+------------------------------------------------------------
+
+Padrão mais usado (Conventional Commits):
+
+| Prefixo   | Quando usar |
+|-----------|-------------|
+| feat:     | Nova funcionalidade |
+| fix:      | Correção de bug |
+| docs:     | Alteração em documentação |
+| style:    | Formatação (não afeta lógica) |
+| refactor: | Refatoração (não muda funcionalidade) |
+| test:     | Adição/correção de testes |
+| chore:    | Tarefas de manutenção |
+
+------------------------------------------------------------
+PARTE 2 — ESCREVA O COMMIT
+------------------------------------------------------------
+
+Escreva a mensagem de commit adequada:
+
+1. Você adicionou uma função de login:
+   "________________________________________"
+   Resposta: feat: add login function
+
+2. Você corrigiu um bug no formulário:
+   "________________________________________"
+   Resposta: fix: fix form submission bug
+
+3. Você atualizou o README:
+   "________________________________________"
+   Resposta: docs: update README with setup instructions
+
+4. Você mudou a indentação do código:
+   "________________________________________"
+   Resposta: style: fix indentation in app.js
+
+5. Você reescreveu a função de validação:
+   "________________________________________"
+   Resposta: refactor: rewrite validation function
+
+6. Você adicionou testes para o componente:
+   "________________________________________"
+   Resposta: test: add tests for Login component
+
+7. Você atualizou as dependências:
+   "________________________________________"
+   Resposta: chore: update dependencies
+
+------------------------------------------------------------
+PARTE 3 — BOAS E MAS COM MENSAGENS
+------------------------------------------------------------
+
+Avalie cada mensagem:
+
+1. "fixed stuff" → Boa ou ruim?
+   Resposta: Ruim — não descreve o que foi mudado
+
+2. "feat: add user authentication with JWT"
+   → Boa ou ruim?
+   Resposta: Boa — claro e específico
+
+3. "update" → Boa ou ruim?
+   Resposta: Ruim — muito vago
+
+4. "fix: resolve memory leak in data processing"
+   → Boa ou ruim?
+   Resposta: Boa — descreve o problema e onde
+
+5. "asdfgh" → Boa ou ruim?
+   Resposta: Ruim — sem significado
+
+------------------------------------------------------------
+PARTE 4 — TRADUZA PARA INGLÊS
+------------------------------------------------------------
+
+1. "Adicionar página de registro"
+   → ________________________________________
+
+2. "Corrigir erro de autenticação"
+   → ________________________________________
+
+3. "Atualizar documentação da API"
+   → ________________________________________
+
+4. "Refatorar módulo de pagamentos"
+   → ________________________________________
+
+Respostas:
+1. feat: add registration page
+2. fix: fix authentication error
+3. docs: update API documentation
+4. refactor: refactor payment module
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

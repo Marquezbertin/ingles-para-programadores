@@ -1,0 +1,103 @@
+============================================================
+EXERCÍCIO 02 — Comandos Git em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Entender e descrever comandos Git em inglês.
+
+------------------------------------------------------------
+PARTE 1 — COMANDOS E DESCRIÇÕES
+------------------------------------------------------------
+
+Escreva o que cada comando faz:
+
+1. git init → "________________________________"
+2. git clone [url] → "________________________________"
+3. git add . → "________________________________"
+4. git commit -m "msg" → "________________________________"
+5. git push origin main → "________________________________"
+6. git pull origin main → "________________________________"
+7. git branch feature-x → "________________________________"
+8. git checkout feature-x → "________________________________"
+9. git merge feature-x → "________________________________"
+10. git log --oneline → "________________________________"
+
+Respostas:
+1. Initializes a new Git repository
+2. Clones a remote repository to your local machine
+3. Stages all changes for the next commit
+4. Commits the staged changes with a message
+5. Pushes commits to the remote 'origin' on the 'main' branch
+6. Pulls latest changes from 'origin' main branch
+7. Creates a new branch called 'feature-x'
+8. Switches to the 'feature-x' branch
+9. Merges 'feature-x' into the current branch
+10. Shows the commit history in one line per commit
+
+------------------------------------------------------------
+PARTE 2 — DESCREVA O COMANDO
+------------------------------------------------------------
+
+Leia a descrição e escreva o comando:
+
+1. "Initialize a new repository in the current folder"
+   → ________________________________________
+
+2. "Clone a repository from GitHub"
+   → ________________________________________
+
+3. "Create and switch to a new branch"
+   → ________________________________________
+
+4. "View the differences between files"
+   → ________________________________________
+
+5. "Save your changes temporarily"
+   → ________________________________________
+
+6. "View the commit history"
+   → ________________________________________
+
+Respostas:
+1. git init
+2. git clone https://github.com/user/repo.git
+3. git checkout -b new-branch
+4. git diff
+5. git stash
+6. git log
+
+------------------------------------------------------------
+PARTE 3 — LEITURA DE TERMINAL
+------------------------------------------------------------
+
+Leia este output e responda:
+
+```
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   src/app.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        src/utils.js
+```
+
+1. Em qual branch estamos?
+   Resposta: main
+
+2. Que mudanças estão staged?
+   Resposta: src/app.js
+
+3. Que arquivo NÃO está staged?
+   Resposta: src/utils.js
+
+4. O que precisamos fazer com src/utils.js?
+   Resposta: Adicionar com git add src/utils.js
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

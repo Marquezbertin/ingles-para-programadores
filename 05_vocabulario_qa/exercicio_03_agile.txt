@@ -1,0 +1,101 @@
+============================================================
+EXERCÍCIO 03 — Metodologias Ágeis em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender o vocabulário de ágil para participar de cerimônias e discussions.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês       | Português      |
+|-------------|---------------|
+| Sprint      | Sprint        |
+| Backlog     | Backlog       |
+| Story       | User story    |
+| Feature     | Funcionalidade|
+| Requirement | Requisito     |
+| Standup     | Standup       |
+| Retrospective | Retrospectiva |
+| Planning    | Planejamento  |
+| Scrum       | Scrum         |
+| Kanban      | Kanban        |
+| Epic        | Épico         |
+| Task        | Tarefa        |
+| Estimate    | Estimativa    |
+| Velocity    | Velocidade    |
+| Blocker     | Bloqueador    |
+
+------------------------------------------------------------
+PARTE 2 — CERIMÔNIAS ÁGEIS
+------------------------------------------------------------
+
+Descreva cada cerimônia em inglês:
+
+1. Standup:
+   "A short daily meeting where each team member
+   shares what they did, what they will do, and
+   any __________."
+   Resposta: blockers
+
+2. Sprint Planning:
+   "A meeting at the beginning of the sprint to
+   __________ which stories from the __________
+   will be worked on."
+   Resposta: plan, backlog
+
+3. Retrospective:
+   "A meeting at the end of the sprint to discuss
+   what went well, what didn't, and what we can
+   __________."
+   Resposta: improve
+
+4. Review/Demo:
+   "A meeting to __________ the work completed
+   during the sprint to stakeholders."
+   Resposta: demo/show
+
+------------------------------------------------------------
+PARTE 3 — USER STORIES
+------------------------------------------------------------
+
+Escreva user stories no formato:
+
+"As a [role], I want [feature] so that [benefit]."
+
+1. Como usuário, eu quero fazer login para acessar minha conta.
+   → ________________________________________
+
+2. Como admin, eu quero ver relatórios para tomar decisões.
+   → ________________________________________
+
+3. Como usuário, eu quero esquecer minha senha para recuperar o acesso.
+   → ________________________________________
+
+Respostas:
+1. "As a user, I want to log in so that I can access my account."
+2. "As an admin, I want to view reports so that I can make decisions."
+3. "As a user, I want to reset my password so that I can regain access."
+
+------------------------------------------------------------
+PARTE 4 — SPRINT REVIEW
+------------------------------------------------------------
+
+Responda sobre uma sprint:
+
+1. "What stories were completed this sprint?"
+   Resposta: ________________________________________
+
+2. "What is the velocity of the team?"
+   Resposta: ________________________________________
+
+3. "Are there any blockers?"
+   Resposta: ________________________________________
+
+4. "What will we work on next sprint?"
+   Resposta: ________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

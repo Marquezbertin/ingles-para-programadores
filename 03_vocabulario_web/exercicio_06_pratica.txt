@@ -1,0 +1,81 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo (Web)
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Combinar vocabulário web em situações reais.
+
+------------------------------------------------------------
+PARTE 1 — CENÁRIO: DEPLOY DE UM SITE
+------------------------------------------------------------
+
+Complete o deploy report:
+
+"I deployed the website to the production server.
+The __________ (frontend) is built with React and
+the __________ (backend) uses Node.js. The
+__________ (database) is PostgreSQL.
+
+The __________ (API) has 5 __________ (endpoints)
+for user management. The __________ (server) runs
+on __________ (port) 8080.
+
+The __________ (client) sends a __________ (request)
+to the __________ (endpoint) and receives a
+__________ (response) with status 200."
+
+Respostas: frontend, backend, database, API, endpoints,
+server, port, client, request, endpoint, response
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: BUG REPORT
+------------------------------------------------------------
+
+Escreva um bug report em inglês:
+
+"I found a bug in the __________ (frontend).
+When I click the __________ (button) on the
+__________ (page), the __________ (form) doesn't
+submit. The __________ (request) is not being sent
+to the __________ (server). The __________ (response)
+is never received."
+
+1. Qual é o problema?
+   Resposta: O formulário não é enviado ao clicar no botão
+
+2. Onde está o bug?
+   Resposta: No frontend
+
+3. O que deveria acontecer?
+   Resposta: A requisição deveria ser enviada ao servidor
+
+------------------------------------------------------------
+PARTE 3 — VOCABULÁRIO FINAL
+------------------------------------------------------------
+
+Complete a tabela:
+
+| Inglês        | Português |
+|---------------|-----------|
+| Browser       | _________ |
+| Client        | _________ |
+| Server        | _________ |
+| API           | _________ |
+| Endpoint      | _________ |
+| Request       | _________ |
+| Response      | _________ |
+| Database      | _________ |
+| Frontend      | _________ |
+| Backend       | _________ |
+| Query         | _________ |
+| Status code   | _________ |
+| Route         | _________ |
+| Migration     | _________ |
+
+Respostas: Navegador, Cliente, Servidor, API, Endpoint,
+Requisição, Resposta, Banco de dados, Frontend, Backend,
+Consulta, Código de status, Rota, Migração
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

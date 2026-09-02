@@ -1,0 +1,117 @@
+============================================================
+EXERCÍCIO 04 — Pronúncia de Termos Técnicos
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Praticar a pronúncia correta de termos técnicos
+usados no dia a dia de programadores.
+
+INSTRUÇÕES:
+1. Leia cada termo em voz alta
+2. Preste atenção no símbolo fonético
+3. Grave-se (se possível) e compare
+
+------------------------------------------------------------
+PARTE 1 — TERMOS DO DIA A DIA
+------------------------------------------------------------
+
+Pratique a pronúncia de cada termo:
+
+1. Computer   = /kəmˈpjuːtər/   → kəm-PYOO-tər
+2. Developer  = /dɪˈvɛləpər/    → dih-VEL-uh-per
+3. Program    = /ˈproʊɡræm/     → PROH-gram
+4. Software   = /ˈsɔːftwer/     → SAWFT-wair
+5. Hardware   = /ˈhɑːrdwer/     → HAARD-wair
+6. Function   = /ˈfʌŋkʃən/     → FUNK-shən
+7. Variable   = /ˈvɛəriəbəl/    → VAIR-ee-ə-bəl
+8. Database   = /ˈdeɪtəbeɪs/    → DAY-tə-bays
+9. Server     = /ˈsɜːrvər/      → SUR-vər
+10. Browser   = /ˈbraʊzər/      → BROW-zər
+
+------------------------------------------------------------
+PARTE 2 — ERROS COMUNS DE PRONÚNCIA
+------------------------------------------------------------
+
+Muitos brasileiros erram a pronúncia destes termos.
+Observe a diferença:
+
+1. "Data"
+   ERRADO: "dáh-ta" (som aberto como em português)
+   CORRETO: "DAY-tə" (o "a" soa como "ei")
+
+2. "Cache"
+   ERRADO: "cá-shê" (com "sh" como em português)
+   CORRETO: "KASH" (com "a" aberto, sem "sh")
+
+3. "Debug"
+   ERRADO: "di-bág" (com "á" aberto)
+   CORRETO: "di-BAG" (com "a" como "a" de "bag")
+
+4. "Issue"
+   ERRADO: "iss-que" (francesado)
+   CORRETO: "ISH-oo" (com "sh" e "u" longo)
+
+5. "Null"
+   ERRADO: "nul" (fechado)
+   CORRETO: "NAIL" (som de "neil")
+
+------------------------------------------------------------
+PARTE 3 — EXERCÍCIO DE MÍMICA
+------------------------------------------------------------
+
+Leia cada frase em voz alta, imitando a entonação:
+
+1. "I need to deploy the code to production."
+   Pronúncia: ai-NID-tə-di-PLOY-the-code-to-pruh-DUK-shən
+
+2. "There's a bug in the login function."
+   Pronúncia: thairs-ə-bag-in-the-LOGIN-FUNK-shən
+
+3. "Can you pull the latest changes?"
+   Pronúncia: kən-yoo-POOL-the-LAY-test-CHAYN-jiz
+
+4. "The server is down."
+   Pronúncia: the-SUR-vər-iz-DOWN
+
+5. "Let me refactor this code."
+   Pronúncia: let-mee-ree-FAK-ter-this-code
+
+------------------------------------------------------------
+PARTE 4 — QUIZ DE PRONÚNCIA
+------------------------------------------------------------
+
+Qual a pronúncia correta? Marque a opção certa:
+
+1. "API"
+   a) /a-pi/   b) /eɪ-piː-aɪ/   c) /api/
+
+2. "JSON"
+   a) /jason/  b) /ʒason/       c) /dʒeɪ-sən/
+
+3. "SQL"
+   a) /sql/    b) /siː-kjuː-ɛl/  c) /ɛs-kjuː-ɛl/
+
+4. "Git"
+   a) /dʒit/   b) /ɡit/          c) /ʒit/
+
+5. "Node"
+   a) /nɔd/    b) /noʊd/         c) /nod/
+
+Respostas:
+1-b, 2-c, 3-c, 4-b, 5-b
+
+------------------------------------------------------------
+TAREFA PRÁTICA
+------------------------------------------------------------
+
+Assista a um vídeo curto de programação em inglês
+no YouTube (ex: "JavaScript tutorial for beginners").
+
+Anote:
+- 3 termos que você entendeu pela pronúncia: __________
+- 2 termos que não entendeu: __________
+- A pronúncia que mais te surpreendeu: __________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

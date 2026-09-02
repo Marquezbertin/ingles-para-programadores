@@ -1,0 +1,61 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Combinar leitura de documentação em situações reais.
+
+------------------------------------------------------------
+PARTE 1 — CENÁRIO: APRENDER UMA NOVA API
+------------------------------------------------------------
+
+Você precisa usar uma nova API. Complete o processo:
+
+"Step 1: Find the __________ (documentation)
+Step 2: Read the __________ (getting started) guide
+Step 3: Look at the __________ (examples)
+Step 4: Check the __________ (API reference)
+Step 5: Test the __________ (endpoints)
+
+If I have a question, I'll search on __________
+(Stack Overflow) or open a __________ (issue) on
+GitHub."
+
+Respostas: documentation, getting started, examples,
+API reference, endpoints, Stack Overflow, issue
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: DEBUGAR COM DOCS
+------------------------------------------------------------
+
+Você encontrou um erro. Como usar a documentação?
+
+"I got the error: 'TypeError: Cannot read property
+of undefined'.
+
+1. Search for the error on __________ (Stack Overflow)
+2. Check the __________ (API reference) for the method
+3. Look at the __________ (examples) in the docs
+4. Search on __________ (GitHub issues) for similar problems
+5. Read the __________ (changelog) to see if something changed"
+
+Respostas: Stack Overflow, API reference, examples, GitHub issues, changelog
+
+------------------------------------------------------------
+PARTE 3 — CHECKLIST
+------------------------------------------------------------
+
+Marque o que você faz ao aprender uma nova tecnologia:
+
+[ ] Leio o README primeiro
+[ ] Busco no Stack Overflow
+[ ] Leio a documentação oficial
+[ ] Testo os exemplos no meu computador
+[ ] Busco issues no GitHub
+[ ] Verifico a versão e changelog
+[ ] Leio tutoriais para iniciantes
+[ ] Pratico com projetos pequenos
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

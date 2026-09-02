@@ -1,0 +1,76 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo (Comandos)
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Combinar comandos, erros e logs em cenários reais.
+
+------------------------------------------------------------
+PARTE 1 — CENÁRIO: SETUP DE PROJETO
+------------------------------------------------------------
+
+Complete os passos:
+
+1. "Clone the repository"
+   → ________________________________________
+   Resposta: git clone https://github.com/user/repo.git
+
+2. "Navigate to the project folder"
+   → ________________________________________
+   Resposta: cd repo
+
+3. "Install dependencies"
+   → ________________________________________
+   Resposta: npm install
+
+4. "Start the development server"
+   → ________________________________________
+   Resposta: npm run dev
+
+5. "Open the browser and go to"
+   → ________________________________________
+   Resposta: http://localhost:3000
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: DEPLOY
+------------------------------------------------------------
+
+Complete o fluxo de deploy:
+
+"1. Run the tests: __________
+2. Build the project: __________
+3. Check for errors in the __________
+4. Push to main branch: __________
+5. The __________ pipeline will __________ automatically"
+
+Respostas: npm test, npm run build, logs, git push,
+CI/CD, deploy
+
+------------------------------------------------------------
+PARTE 3 — CENÁRIO: DEBUG COM LOGS
+------------------------------------------------------------
+
+Leia este log e responda:
+
+```
+[ERROR] 2024-01-15 10:30:45 - Failed to connect to database
+[INFO] 2024-01-15 10:30:50 - Retrying connection (attempt 1/3)
+[INFO] 2024-01-15 10:30:55 - Connection successful
+[WARN] 2024-01-15 10:31:00 - Slow response from API: 3.2s
+```
+
+1. Qual foi o problema?
+   Resposta: Falha na conexão com o banco de dados
+
+2. Quantas tentativas foram feitas?
+   Resposta: 1 de 3
+
+3. O problema foi resolvido?
+   Resposta: Sim, conexão bem-sucedida
+
+4. Há algum aviso?
+   Resposta: Sim, resposta lenta da API (3.2s)
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

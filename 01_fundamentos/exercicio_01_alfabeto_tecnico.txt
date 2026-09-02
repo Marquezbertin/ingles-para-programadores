@@ -1,0 +1,89 @@
+============================================================
+EXERCÍCIO 01 — Alfabeto Técnico
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Aprender a pronunciar corretamente as letras do
+alfabeto em contexto técnico de programação.
+
+INSTRUÇÕES:
+1. Leia cada frase em inglês em voz alta
+2. Preste atenção na pronúncia das letras destacadas
+3. Responda as questões abaixo
+
+------------------------------------------------------------
+PARTE 1 — LETRAS EM NOMES DE VARIÁVEIS
+------------------------------------------------------------
+
+Leia as seguintes variáveis em inglês e identifique como
+cada letra é pronunciada:
+
+1. The variable name is "userName"
+   Letra U = /juː/
+   Letra N = /ɛn/
+
+2. The variable name is "apiKey"
+   Letra A = /eɪ/
+   Letra P = /piː/
+   Letra I = /aɪ/
+   Letra K = /keɪ/
+
+3. The variable name is "dbContext"
+   Letra D = /diː/
+   Letra B = /biː/
+   Letra C = /siː/
+
+------------------------------------------------------------
+PARTE 2 — PRONÚNCIA DE SIGLAS
+------------------------------------------------------------
+
+Como você pronunciaria estas siglas comuns?
+
+1. API = ________
+   Dica: pronuncia-se como uma palavra: "A-P-I" (eɪ-piː-aɪ)
+
+2. SQL = ________
+   Dica: pronuncia-se como "sequel" ou "es-queue-el"
+
+3. HTML = ________
+   Dica: pronuncia-se "aitch-tee-em-el"
+
+4. CSS = ________
+   Dica: pronuncia-se "see-ess-ess"
+
+5. JSON = ________
+   Dica: pronuncia-se "jay-son"
+
+6. URL = ________
+   Dica: pronuncia-se "you-are-ell"
+
+------------------------------------------------------------
+PARTE 3 — LETRAS EM COMANDOS
+------------------------------------------------------------
+
+Em inglês, quando alguém diz um comando de terminal:
+
+1. "cd" = _________ (change directory)
+2. "ls" = _________ (list)
+3. "rm" = _________ (remove)
+4. "cp" = _________ (copy)
+5. "mv" = _________ (move)
+
+Responda: qual a importância de pronunciar corretamente
+quando alguém está explicando um comando por áudio ou
+em videochamada?
+
+______________________________________________________
+______________________________________________________
+
+------------------------------------------------------------
+DICAS
+------------------------------------------------------------
+- Em inglês americano, "Z" se pronuncia "zee" (/ziː/)
+- Em inglês britânico, "Z" se pronuncia "zed" (/zɛd/)
+- Na programação, o padrão mais usado é o americano
+- Pratique dizendo as variáveis em voz alta
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

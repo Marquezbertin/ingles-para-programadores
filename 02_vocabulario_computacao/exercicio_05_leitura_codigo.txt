@@ -1,0 +1,148 @@
+============================================================
+EXERCÍCIO 05 — Leitura de Código em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Praticar a leitura e compreensão de código
+comentado em inglês.
+
+------------------------------------------------------------
+PARTE 1 — CÓDIGO COM COMENTÁRIOS
+------------------------------------------------------------
+
+Leia o código abaixo e os comentários em inglês.
+Responda as perguntas.
+
+```javascript
+// This function calculates the total price
+// It takes an array of items and returns the sum
+function calculateTotal(items) {
+  // Initialize the total variable
+  let total = 0;
+
+  // Loop through each item in the array
+  for (let i = 0; i < items.length; i++) {
+    // Add the item price to the total
+    total += items[i].price;
+  }
+
+  // Return the final total
+  return total;
+}
+```
+
+1. O que esta função faz?
+   Resposta: Calcula o preço total de uma lista de itens
+
+2. Qual é o parâmetro da função?
+   Resposta: items (um array de itens)
+
+3. O que "initialize" significa aqui?
+   Resposta: Inicializar (criar com valor inicial)
+
+4. O que o loop "for" faz?
+   Resposta: Percorre cada item do array
+
+5. O que a função retorna?
+   Resposta: O valor total (total)
+
+6. Traduza o comentário final para português:
+   "Return the final total"
+   Resposta: Retorne o total final
+
+------------------------------------------------------------
+PARTE 2 — CÓDIGO COM ERRO
+------------------------------------------------------------
+
+Leia este código. Encontre o erro descrito nos comentários.
+
+```python
+# TODO: Fix this function
+# The function should return the user name
+# but it's returning the user email instead
+
+def get_user_name(user):
+    # Bug: returning wrong field
+    return user["email"]  # Should return user["name"]
+```
+
+1. Qual é o bug?
+   Resposta: A função retorna o email em vez do nome
+
+2. O que significa "TODO"?
+   Resposta: Tarefa pendente (algo que precisa ser feito)
+
+3. O que significa "Should" no comentário?
+   Resposta: Deveria (indicando correção necessária)
+
+4. Como corrigir o código?
+   Resposta: Trocar user["email"] por user["name"]
+
+------------------------------------------------------------
+PARTE 3 — CÓDIGO COM DEPENDÊNCIAS
+------------------------------------------------------------
+
+Leia e responda:
+
+```python
+# Import the required libraries
+import json
+import requests
+
+# This module handles API calls
+# It sends a GET request to the specified URL
+# and returns the parsed JSON response
+
+def fetch_data(url):
+    # Make the API request
+    response = requests.get(url)
+
+    # Check if the request was successful
+    if response.status_code == 200:
+        # Parse the JSON data
+        data = json.loads(response.text)
+        return data
+    else:
+        # Handle the error
+        return None
+```
+
+1. O que "import" faz?
+   Resposta: Importa bibliotecas/módulos necessários
+
+2. O que esta função "fetch_data" faz?
+   Resposta: Faz uma requisição GET à URL e retorna dados JSON
+
+3. O que verifica "if response.status_code == 200"?
+   Resposta: Verifica se a requisição foi bem-sucedida
+
+4. O que acontece se não for 200?
+   Resposta: Retorna None (tratamento de erro)
+
+5. O que "parse" significa neste contexto?
+   Resposta: Analisar/converter (transformar texto em objeto)
+
+------------------------------------------------------------
+PARTE 4 — ESCREVA O CÓDIGO
+------------------------------------------------------------
+
+Escreva o código em JavaScript baseado nestes comentários:
+
+1. "Create a variable called 'count' with value 0"
+   Resposta: let count = 0;
+
+2. "Loop through the array 'names'"
+   Resposta: for (let i = 0; i < names.length; i++) { }
+
+3. "If the name equals 'admin', return true"
+   Resposta: if (name === "admin") { return true; }
+
+4. "Add 1 to the count variable"
+   Resposta: count += 1;  ou  count++;
+
+5. "Return the array of user names"
+   Resposta: return userNames;
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

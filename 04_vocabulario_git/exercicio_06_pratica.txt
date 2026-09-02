@@ -1,0 +1,76 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo (Git)
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Combinar vocabulário Git em cenários reais.
+
+------------------------------------------------------------
+PARTE 1 — CENÁRIO: SEU FLUXO DE TRABALHO
+------------------------------------------------------------
+
+Complete o fluxo diário:
+
+"Every day, I start by running __________ to get
+the latest changes. Then I create a new __________
+for the feature I'm working on.
+
+I __________ my changes regularly. When the feature
+is ready, I open a __________ with a clear title
+and description. My team __________ the code and
+if everything looks good, they __________ the PR.
+
+Finally, I __________ the changes to the main branch."
+
+Respostas: git pull, branch, commit, pull request,
+reviews, merges, pushes
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: CODE REVIEW
+------------------------------------------------------------
+
+Leia este comentário de review:
+
+"Hey, I noticed you have a merge conflict in
+src/utils.js. Can you resolve it before we merge?
+Also, your commit messages could be more descriptive.
+Instead of 'fix stuff', try something like
+'fix: resolve authentication timeout issue'."
+
+1. Quantos problemas o reviewer encontrou?
+   Resposta: 2 (merge conflict e commit messages)
+
+2. Onde está o merge conflict?
+   Resposta: src/utils.js
+
+3. O que o reviewer sugere sobre commits?
+   Resposta: Usar mensagens mais descritivas
+
+4. Qual exemplo ele dá?
+   Resposta: "fix: resolve authentication timeout issue"
+
+------------------------------------------------------------
+PARTE 3 — VOCABULÁRIO FINAL
+------------------------------------------------------------
+
+Complete a tabela:
+
+| Inglês      | Português |
+|-------------|-----------|
+| Repository  | _________ |
+| Commit      | _________ |
+| Branch      | _________ |
+| Merge       | _________ |
+| Push        | _________ |
+| Pull        | _________ |
+| Clone       | _________ |
+| Fork        | _________ |
+| Pull request| _________ |
+| Review      | _________ |
+
+Respostas: Repositório, Commit, Branch, Merge,
+Push, Pull, Clone, Fork, Pull request, Revisão
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

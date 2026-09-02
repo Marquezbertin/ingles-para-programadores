@@ -1,0 +1,87 @@
+============================================================
+EXERCÍCIO 04 — Banco de Dados em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender os termos de banco de dados em inglês.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês      | Português    |
+|-------------|-------------|
+| Database    | Banco de dados|
+| Table       | Tabela      |
+| Row         | Linha       |
+| Column      | Coluna      |
+| Query       | Consulta    |
+| Record      | Registro    |
+| Schema      | Schema      |
+| Migration   | Migração    |
+| Index       | Índice      |
+| Primary key | Chave primária|
+| Foreign key | Chave estrangeira |
+| Join        | Junção      |
+| Insert      | Inserir     |
+| Update      | Atualizar   |
+| Delete      | Deletar     |
+| Select      | Selecionar  |
+
+------------------------------------------------------------
+PARTE 2 — SQL EM INGLÊS
+------------------------------------------------------------
+
+Traduza cada consulta SQL para inglês:
+
+1. SELECT * FROM users;
+   "Select all records from the users table."
+
+2. INSERT INTO users (name, email) VALUES ('John', 'john@email.com');
+   "________________________________________"
+
+3. UPDATE users SET name = 'Jane' WHERE id = 1;
+   "________________________________________"
+
+4. DELETE FROM users WHERE id = 5;
+   "________________________________________"
+
+5. SELECT name FROM users WHERE age > 18;
+   "________________________________________"
+
+Respostas:
+2. "Insert a new record into the users table with name 'John' and email 'john@email.com'."
+3. "Update the users table, set the name to 'Jane' where the id is 1."
+4. "Delete the record from the users table where the id is 5."
+5. "Select the name column from the users table where age is greater than 18."
+
+------------------------------------------------------------
+PARTE 3 — LEITURA DE SCHEMA
+------------------------------------------------------------
+
+Leia este schema e responda:
+
+```sql
+CREATE TABLE users (
+  id INT PRIMARY KEY,
+  name VARCHAR(100),
+  email VARCHAR(100),
+  created_at TIMESTAMP
+);
+```
+
+1. "How many columns does the users table have?"
+   Resposta: 4
+
+2. "What is the primary key?"
+   Resposta: id
+
+3. "What type of data does the 'name' column store?"
+   Resposta: VARCHAR (string/texto)
+
+4. "What does the 'created_at' column represent?"
+   Resposta: Timestamp (data/hora de criação)
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

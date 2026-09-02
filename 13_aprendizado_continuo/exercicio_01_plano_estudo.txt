@@ -1,0 +1,81 @@
+============================================================
+EXERCÍCIO 01 — Plano de Estudos
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Criar um plano de estudos realista e consistente.
+
+------------------------------------------------------------
+PARTE 1 — SEU NÍVEL ATUAL
+------------------------------------------------------------
+
+Auto-avaliação (marque):
+
+[ ] Consigo ler documentação em inglês
+[ ] Consigo escrever commits em inglês
+[ ] Consigo participar de standups em inglês
+[ ] Consigo entender podcasts técnicos
+[ ] Consigo dar feedback em code reviews
+[ ] Consigo escrever um README completo
+
+Meu nível atual (Fácil/Médio/Avançado): __________
+
+------------------------------------------------------------
+PARTE 2 — ESTABELEÇA METAS
+------------------------------------------------------------
+
+Metas SMART (Specific, Measurable, Achievable, Relevant, Time-based):
+
+EXEMPLO:
+"Até o final do mês, consigo ler a documentação do React
+sem dicionário e escrever 5 commits em inglês."
+
+Suas metas:
+
+Meta 1 (short-term, 1-2 semanas):
+________________________________________
+
+Meta 2 (medium-term, 1 mês):
+________________________________________
+
+Meta 3 (long-term, 3 meses):
+________________________________________
+
+------------------------------------------------------------
+PARTE 3 — ROTINA DIÁRIA
+------------------------------------------------------------
+
+Complete sua rotina diária ideal:
+
+MANHÃ (15 min):
+- 5 min: reading __________
+- 10 min: __________
+
+TARDE (15 min):
+- Watching a tutorial about __________
+- Writing 3 sentences about __________
+
+NOITE (15 min):
+- Reviewing new vocabulary
+- __________
+
+Total diário: _____ minutos
+
+------------------------------------------------------------
+PARTE 4 — PLANO SEMANAL
+------------------------------------------------------------
+
+Seg: Reading + Vocabulário
+Ter: Listening (podcast/video)
+Qua: Writing (commit/README)
+Qui: Reading (docs)
+Sex: Listening + Shadowing
+Sáb: Prática livre (escolha algo divertido)
+Dom: Revisão da semana + planejamento
+
+Qual dia você vai dedicar mais? Por quê?
+________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

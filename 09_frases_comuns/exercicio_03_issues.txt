@@ -1,0 +1,136 @@
+============================================================
+EXERCÍCIO 03 — Escrever Issues em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Criar issues claras e informativas em inglês.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DE UMA ISSUE DE BUG
+------------------------------------------------------------
+
+```
+Title: [Breve descrição do bug]
+
+## Description
+[Descrição do problema]
+
+## Steps to Reproduce
+1. [Passo 1]
+2. [Passo 2]
+3. [Passo 3]
+
+## Expected Behavior
+[O que deveria acontecer]
+
+## Actual Behavior
+[O que realmente acontece]
+
+## Environment
+- OS: [Windows/Mac/Linux]
+- Browser: [Chrome/Firefox]
+- Version: [v1.2.3]
+
+## Additional Context
+[Screenshots, logs, etc.]
+```
+
+------------------------------------------------------------
+PARTE 2 — ESCREVA UMA ISSUE
+------------------------------------------------------------
+
+Cenário: O botão de download não funciona no Safari.
+
+Title: ________________________________________
+
+Description:
+"When I click the __________ button, __________.
+
+## Steps to Reproduce
+1. Go to the __________ page
+2. Click the __________ button
+3. __________
+
+## Expected
+The file should __________.
+
+## Actual
+Nothing __________.
+
+## Environment
+- OS: macOS Ventura
+- __________: Safari 17
+- Version: v2.1.0"
+
+Respostas:
+Title: "Download button doesn't work on Safari"
+- download, nothing happens
+- products, download, Wait for the download to start
+- start downloading
+- happens
+- Browser
+
+------------------------------------------------------------
+PARTE 3 — ISSUES DE FEATURE / SUGGESTION
+------------------------------------------------------------
+
+Escreva uma issue de feature request:
+
+```
+## Feature Request
+[Descrição da funcionalidade desejada]
+
+## Problem
+[Que problema resolve]
+
+## Proposed Solution
+[Como poderia ser implementado]
+
+## Alternative Solutions
+[Alternativas consideradas]
+
+## Use Cases
+[Exemplos de uso]
+```
+
+Complete para: "Adicionar modo escuro"
+
+Problem: "Users with visual sensitivity have __________
+reading in __________ mode."
+
+Proposed Solution: "Add a __________ toggle in the
+__________ settings that switches between __________
+and __________ theme."
+
+Use Cases: "A user working in a __________ environment
+at night would prefer the __________ theme."
+
+Respostas: difficulty, light; dark mode, user, light, dark;
+dark/low-light, dark
+
+------------------------------------------------------------
+PARTE 4 — RESPONDA A UMA ISSUE
+------------------------------------------------------------
+
+Leia esta issue e responda:
+
+Issue: "I can't access the admin panel. When I go to
+/admin, I get a 403 Forbidden error. My account was
+working yesterday."
+
+1. Qual é o problema?
+   Resposta: Não consegue acessar o painel admin (erro 403)
+
+2. O que mais seria útil o usuário informar?
+   Resposta: Email da conta, o que mudou desde ontem, se existem accounts alternativos
+
+3. Como você responderia?
+   "Thanks for reporting! Can you provide:
+   - Your username/email
+   - Whether you recently changed roles
+   - A screenshot of the error"
+   Resposta: (conferir formato)
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

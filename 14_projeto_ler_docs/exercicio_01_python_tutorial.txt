@@ -1,0 +1,84 @@
+============================================================
+EXERCÍCIO 01 — Tutorial do Python
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Ler e entender um trecho do tutorial oficial do Python.
+
+------------------------------------------------------------
+PARTE 1 — LEITURA
+------------------------------------------------------------
+
+Leia o trecho (adaptado da docs oficiais):
+
+"Python is an easy to learn, powerful programming
+language. It has efficient high-level data structures
+and a simple but effective approach to object-oriented
+programming. Python's elegant syntax and dynamic typing,
+together with its interpreted nature, make it an ideal
+language for scripting and rapid application development.
+
+The Python interpreter is easily extended with new
+functions and data types implemented in C or C++.
+Python is also suitable as an extension language for
+customizable applications."
+
+------------------------------------------------------------
+PARTE 2 — COMPREENSÃO
+------------------------------------------------------------
+
+Responda em inglês:
+
+1. "What are three characteristics of Python mentioned?"
+   Resposta: Easy to learn, powerful, elegant syntax, dynamic typing, interpreted
+
+2. "What is Python ideal for?"
+   Resposta: Scripting and rapid application development
+
+3. "How can Python be extended?"
+   Resposta: With new functions and data types in C or C++
+
+4. "What kind of programming does Python support?"
+   Resposta: Object-oriented programming
+
+------------------------------------------------------------
+PARTE 3 — VOCABULÁRIO
+------------------------------------------------------------
+
+Traduza os termos:
+
+1. "Elegant syntax" = __________
+2. "Dynamic typing" = __________
+3. "Interpreted nature" = __________
+4. "Rapid application development" = __________
+5. "High-level data structures" = __________
+
+Respostas: Sintaxe elegante, Tipagem dinâmica, Natureza
+interpretada, Desenvolvimento rápido de aplicações,
+Estruturas de dados de alto nível
+
+------------------------------------------------------------
+PARTE 4 — TAREFA: ACESSE A DOCUMENTAÇÃO REAL
+------------------------------------------------------------
+
+Acesse https://docs.python.org/3/tutorial/
+
+1. Liste as seções do menu (até 5):
+   __________
+   __________
+   __________
+   __________
+   __________
+
+2. Encontre o capítulo "Introduction". Responda:
+   - "What does the chapter cover?"
+   Resposta: Introdução ao Python, instalação, primeiros passos
+
+3. Anote 3 termos novos:
+   __________
+   __________
+   __________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

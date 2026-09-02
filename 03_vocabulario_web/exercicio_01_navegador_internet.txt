@@ -1,0 +1,80 @@
+============================================================
+EXERCÍCIO 01 — Navegadores e Internet
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Aprender os termos de navegação web em inglês.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês        | Português      |
+|---------------|---------------|
+| Browser       | Navegador     |
+| Website       | Site          |
+| Web page      | Página web    |
+| URL           | URL           |
+| Link          | Link          |
+| Tab           | Aba           |
+| Address bar   | Barra de endereço |
+| Bookmark      | Favorito      |
+| Download      | Download      |
+| Upload        | Upload        |
+| Refresh       | Atualizar     |
+| Reload        | Recarregar    |
+
+------------------------------------------------------------
+PARTE 2 — FRASES COMUNS
+------------------------------------------------------------
+
+Complete com a palavra correta:
+
+1. "Open a new __________ in your browser."
+   (tab)
+
+2. "Copy the __________ and paste it in the
+   address bar."
+   (URL)
+
+3. "__________ the page to see the latest changes."
+   (Refresh/Reload)
+
+4. "Click the __________ to go to the documentation."
+   (link)
+
+5. "__________ the image to your computer."
+   (Download)
+
+6. "__________ the file to the server."
+   (Upload)
+
+7. "I __________ this page for later."
+   (bookmarked)
+
+------------------------------------------------------------
+PARTE 3 — LEITURA
+------------------------------------------------------------
+
+"Open your browser and go to https://github.com.
+In the address bar, you can see the URL. Click on
+the link to any repository. If you want to save this
+page, add a bookmark. To download a file, click the
+green 'Code' button and select 'Download ZIP'."
+
+Perguntas:
+1. Qual site o autor menciona?
+   Resposta: GitHub
+
+2. Onde você vê a URL?
+   Resposta: Na address bar (barra de endereço)
+
+3. Como salvar a página?
+   Resposta: Adicionar um bookmark (favorito)
+
+4. Como baixar um arquivo?
+   Resposta: Clicar no botão "Code" e selecionar "Download ZIP"
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

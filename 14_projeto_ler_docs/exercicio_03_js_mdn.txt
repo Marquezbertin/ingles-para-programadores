@@ -1,0 +1,115 @@
+============================================================
+EXERCÍCIO 03 — MDN Reference (JavaScript)
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Ler e entender a referência do MDN para métodos JavaScript.
+
+------------------------------------------------------------
+PARTE 1 — LEITURA
+------------------------------------------------------------
+
+Leia o trecho (adaptado do MDN):
+
+"Array.prototype.filter()
+
+The filter() method creates a new array with all
+elements that pass the test implemented by the
+provided function.
+
+Syntax:
+filter(callbackFn)
+filter(callbackFn, thisArg)
+
+Parameters:
+- callbackFn: A function to test each element of
+  the array. The function is called with the
+  following arguments:
+  - element: The current element
+  - index: The index of the current element
+  - array: The array filter was called upon
+  Return a truthy value to keep the element, or a
+  falsy value otherwise.
+- thisArg (optional): A value to use as this when
+  executing callbackFn.
+
+Return value:
+A new array containing only the elements that pass
+the test. If no elements pass, it returns an empty
+array.
+
+The filter() method is an iterative method. It calls
+the callbackFn once for each element in the array,
+in ascending index order, until it reaches the end."
+
+------------------------------------------------------------
+PARTE 2 — COMPREENSÃO
+------------------------------------------------------------
+
+1. "What does filter() do?"
+   Resposta: Creates a new array with all elements that pass a test
+
+2. "What are the parameters of the callback?"
+   Resposta: element, index, array
+
+3. "What makes filter() keep an element?"
+   Resposta: Returning a truthy value
+
+4. "What happens if no elements pass?"
+   Resposta: Returns an empty array
+
+5. "Is filter iterative?"
+   Resposta: Yes, it calls the callback for each element in order
+
+------------------------------------------------------------
+PARTE 3 — PRÁTICA
+------------------------------------------------------------
+
+Predict the output:
+
+1.
+```js
+const numbers = [1, 2, 3, 4, 5];
+const even = numbers.filter(n => n % 2 === 0);
+console.log(even); // ________
+```
+Resposta: [2, 4]
+
+2.
+```js
+const words = ['apple', 'banana', 'cherry'];
+const long = words.filter(w => w.length > 5);
+console.log(long); // ________
+```
+Resposta: ['banana', 'cherry']
+
+3.
+```js
+const empty = [].filter(x => true);
+console.log(empty); // ________
+```
+Resposta: []
+
+------------------------------------------------------------
+PARTE 4 — TAREFA REAL
+------------------------------------------------------------
+
+Acesse a página MDN de Array.filter().
+
+1. Qual é a "Syntax" no topo da página?
+   → __________
+
+2. Quais "Return value" está descrito?
+   → __________
+
+3. Leia "Examples" e anote 1 exemplo que você entendeu:
+   → __________
+
+4. Anote 3 termos novos:
+   __________
+   __________
+   __________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

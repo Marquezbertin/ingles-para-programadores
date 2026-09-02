@@ -1,0 +1,81 @@
+============================================================
+EXERCÍCIO 05 — Recursos Específicos de Inglês Técnico
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Conhecer recursos específicos para inglês técnico.
+
+------------------------------------------------------------
+PARTE 1 — APPS E FERRAMENTAS
+------------------------------------------------------------
+
+| Ferramenta | Uso |
+|-----------|-----|
+| Anki | Flashcards de vocabulário |
+| Duolingo | Prática diária de base |
+| Google Translate | Tradução rápida |
+| DeepL | Tradução mais natural |
+| Grammarly | Correção de escrita |
+| Forvo | Pronúncias de nativos |
+| YouGlish | Palavras em frases reais |
+| Lingq | Leitura com aprendizado |
+
+------------------------------------------------------------
+PARTE 2 — TÉCNICAS DE VOCABULÁRIO
+------------------------------------------------------------
+
+1. Criar flashcards Anki com termos técnicos
+2. Manter um "vocabulary journal"
+3. Anotar palavras novas de cada doc lida
+4. Revisar palavras no fim do dia
+5. Usar as palavras em frases próprias
+
+Complete o modelo de flashcard:
+
+Front: "Deploy" (en)
+Back: "Publicar/colocar em produção" (pt)
+Exemplo: "We deploy to production on Fridays."
+
+Crie 5 flashcards seus:
+
+1. __________ = __________ (Ex.: __________)
+2. __________ = __________ (Ex.: __________)
+3. __________ = __________ (Ex.: __________)
+4. __________ = __________ (Ex.: __________)
+5. __________ = __________ (Ex.: __________)
+
+------------------------------------------------------------
+PARTE 3 — VOCABULARY JOURNAL
+------------------------------------------------------------
+
+Crie seu journal (página de exemplo):
+
+Data: __________
+
+Nova palavra/termo: __________
+Tradução: __________
+Exemplo de uso: "________________________"
+Onde encontrei: __________
+Minha frase: "________________________"
+
+------------------------------------------------------------
+PARTE 4 — PROABRAÇÃO
+------------------------------------------------------------
+
+Responda:
+
+1. "Qual é a melhor hora do dia para você estudar?"
+   Resposta: _______________
+
+2. "Por quanto tempo você consegue manter foco?"
+   Resposta: _______________
+
+3. "O que te faz perder a motivação?"
+   Resposta: _______________
+
+4. "Como você vai lidar com isso?"
+   Resposta: _______________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

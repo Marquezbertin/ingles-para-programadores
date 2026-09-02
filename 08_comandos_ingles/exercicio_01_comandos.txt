@@ -1,0 +1,84 @@
+============================================================
+EXERCÍCIO 01 — Comandos de Terminal
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender os comandos de terminal mais usados.
+
+------------------------------------------------------------
+PARTE 1 — COMANDOS BÁSICOS
+------------------------------------------------------------
+
+| Comando | O que faz |
+|---------|-----------|
+| ls | Lista arquivos no diretório |
+| cd | Muda de diretório |
+| pwd | Mostra o diretório atual |
+| mkdir | Cria uma pasta |
+| rm | Remove um arquivo |
+| cp | Copia um arquivo |
+| mv | Move ou renomeia um arquivo |
+| cat | Exibe o conteúdo de um arquivo |
+| clear | Limpa o terminal |
+
+------------------------------------------------------------
+PARTE 2 — DESCREVA O COMANDO
+------------------------------------------------------------
+
+1. "List all files including hidden ones"
+   → ________________________________________
+   Resposta: ls -la
+
+2. "Create a new directory called 'components'"
+   → ________________________________________
+   Resposta: mkdir components
+
+3. "Change to the parent directory"
+   → ________________________________________
+   Resposta: cd ..
+
+4. "Remove the file 'old-file.js'"
+   → ________________________________________
+   Resposta: rm old-file.js
+
+5. "Copy 'config.js' to the backup folder"
+   → ________________________________________
+   Resposta: cp config.js backup/
+
+6. "Rename 'app.js' to 'main.js'"
+   → ________________________________________
+   Resposta: mv app.js main.js
+
+7. "Show the content of package.json"
+   → ________________________________________
+   Resposta: cat package.json
+
+8. "Find all JavaScript files in the project"
+   → ________________________________________
+   Resposta: find . -name "*.js"
+
+------------------------------------------------------------
+PARTE 3 — LEITURA DE OUTPUT
+------------------------------------------------------------
+
+```
+$ ls -la
+drwxr-xr-x  5 user  staff  160 Jan 15 10:30 .
+drwxr-xr-x  8 user  staff  256 Jan 15 09:00 ..
+-rw-r--r--  1 user  staff  450 Jan 15 10:30 index.js
+-rw-r--r--  1 user  staff  200 Jan 15 09:15 package.json
+drwxr-xr-x  3 user  staff   96 Jan 15 10:00 src
+```
+
+1. Quantos arquivos há no diretório?
+   Resposta: 2 arquivos (index.js, package.json)
+
+2. Quantas pastas há?
+   Resposta: 1 pasta (src)
+
+3. Qual arquivo foi modificado por último?
+   Resposta: index.js (10:30)
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

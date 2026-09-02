@@ -1,0 +1,76 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo (QA)
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Combinar vocabulário QA em cenários reais.
+
+------------------------------------------------------------
+PARTE 1 — CENÁRIO: SPRINT COMPLETA
+------------------------------------------------------------
+
+Complete o relatório da sprint:
+
+"This sprint, our team completed 5 __________ (stories)
+with a total of 34 __________ (points). We delivered
+2 new __________ (features) and fixed 3 __________ (bugs).
+
+The __________ (velocity) of the team was consistent
+with the last sprint. However, we had one __________ (blocker)
+that delayed the deployment by 2 days."
+
+Respostas: stories, points, features, bugs, velocity, blocker
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: BUG REPORT COMPLETO
+------------------------------------------------------------
+
+Escreva um bug report completo:
+
+Title: ________________________________________
+
+Steps to reproduce:
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________
+
+Expected result: ________________________________________
+Actual result: ________________________________________
+Environment: Chrome 120, Windows 11
+Severity: ________________________________________
+
+Resposta (exemplo):
+Title: "Shopping cart total updates incorrectly when adding items"
+
+Steps:
+1. Add an item to the cart
+2. Change the quantity to 2
+3. Add another item
+4. Check the total
+
+Expected: Total = (item1 * 2) + item2
+Actual: Total = item1 + item2 (quantity not multiplied)
+
+Severity: Major
+
+------------------------------------------------------------
+PARTE 3 — CENÁRIO: RETROSPECTIVE
+------------------------------------------------------------
+
+Responda como se estivesse na retrospectiva:
+
+1. "What went well?"
+   _________________________________________________
+
+2. "What didn't go well?"
+   _________________________________________________
+
+3. "What should we try?"
+   _________________________________________________
+
+4. "Any action items for next sprint?"
+   _________________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

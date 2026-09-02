@@ -1,0 +1,89 @@
+============================================================
+EXERCÍCIO 01 — Escolhendo um Projeto
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Escolher um projeto open source adequado para
+sua primeira contribuição.
+
+------------------------------------------------------------
+PARTE 1 — COMO ESCOLHER
+------------------------------------------------------------
+
+Critérios para um bom primeiro projeto:
+
+[ ] Eu uso ou conheço a tecnologia
+[ ] A comunidade é ativa (último commit recente)
+[ ] Há issues com "good first issue"
+[ ] CONTRIBUTING.md está claro
+[ ] O código é de tamanho razoável
+[ ] Possui testes
+
+------------------------------------------------------------
+PARTE 2 — LISTA DE PROJETOS CANDIDATOS
+------------------------------------------------------------
+
+Escolha até 3 projetos:
+
+Projeto 1:
+- Nome: __________
+- URL: __________
+- Linguagem: __________
+- Por que escolhi: __________
+
+Projeto 2:
+- Nome: __________
+- URL: __________
+- Linguagem: __________
+- Por que escolhi: __________
+
+Projeto 3:
+- Nome: __________
+- URL: __________
+- Linguagem: __________
+- Por que escolhi: __________
+
+------------------------------------------------------------
+PARTE 3 — AVALIE CADA PROJETO
+------------------------------------------------------------
+
+Para cada projeto, responda:
+
+1. "When was the last commit?"
+   Resposta: __________
+
+2. "How many contributors?"
+   Resposta: __________
+
+3. "Are there good first issues?"
+   Resposta: __________ (sim/não — lista quantas)
+
+4. "Is there a CONTRIBUTING.md?"
+   Resposta: __________
+
+5. "Is the README in English?"
+   Resposta: __________
+
+Leve em conta a nota final. Escolha o melhor.
+
+------------------------------------------------------------
+PARTE 4 — VERIFIQUE O README
+------------------------------------------------------------
+
+Leia o README do projeto escolhido e responda:
+
+1. "What does the project do?" (use suas palavras)
+   Resposta: __________
+
+2. "What tech stack does it use?"
+   Resposta: __________
+
+3. "How do you set it up locally?"
+   Resposta: __________
+
+4. "What is the Code of Conduct?"
+   Resposta: __________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

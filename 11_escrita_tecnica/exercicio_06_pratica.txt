@@ -1,0 +1,86 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo (Escrita)
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Aplicar todas as habilidades de escrita técnica.
+
+------------------------------------------------------------
+PARTE 1 — ESCREVA UM README COMPLETO
+------------------------------------------------------------
+
+Escreva um README completo para uma API de tarefas
+chamada "task-api" que permite criar, listar, editar
+e deletar tarefas.
+
+# task-api
+
+## Description
+_________________________________________________
+_________________________________________________
+
+## Prerequisites
+- _________________________________________________
+
+## Installation
+1. _________________________________________________
+2. _________________________________________________
+
+## Usage
+_________________________________________________
+Code example:
+_________________________________________________
+_________________________________________________
+
+## Endpoints
+- GET /api/tasks — ________________________________
+- POST /api/tasks — ________________________________
+- PUT /api/tasks/:id — ________________________________
+- DELETE /api/tasks/:id — ________________________________
+
+## Contributing
+_________________________________________________
+
+## License
+MIT
+
+Resposta (exemplo prático será avaliado pelo instrutor)
+
+------------------------------------------------------------
+PARTE 2 — ESCREVA COMMITS
+------------------------------------------------------------
+
+Escreva 3 commits para este fluxo:
+
+1. Você criou a estrutura do projeto:
+   → "________________________________________"
+2. Você adicionou o endpoint GET /api/tasks:
+   → "________________________________________"
+3. Você corrigiu um bug no DELETE:
+   → "________________________________________"
+
+Respostas:
+1. "chore: init project structure"
+2. "feat: add GET /api/tasks endpoint"
+3. "fix: handle missing task id in DELETE"
+
+------------------------------------------------------------
+PARTE 3 — CHECKLIST FINAL
+------------------------------------------------------------
+
+Revise seu README com este checklist:
+
+[ ] Título claro
+[ ] Descrição: o que e por quê
+[ ] Pré-requisitos listados
+[ ] Instalação step-by-step
+[ ] Exemplo de uso com código
+[ ] Documentação dos endpoints
+[ ] Voz ativa
+[ ] Conciso (sem redundância)
+[ ] Termos precisos
+[ ] Em inglês
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

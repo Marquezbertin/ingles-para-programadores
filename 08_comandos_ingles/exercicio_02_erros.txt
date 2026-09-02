@@ -1,0 +1,73 @@
+============================================================
+EXERCÍCIO 02 — Mensagens de Erro em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Entender e descrever mensagens de erro comuns.
+
+------------------------------------------------------------
+PARTE 1 — ERROS COMUNS
+------------------------------------------------------------
+
+| Mensagem | Significado | Solução |
+|----------|-------------|---------|
+| Permission denied | Sem permissão | chmod ou sudo |
+| File not found | Arquivo não existe | Verificar caminho |
+| Command not found | Comando não existe | Verificar instalação |
+| Syntax error | Erro de sintaxe | Verificar código |
+| Connection refused | Conexão recusada | Verificar servidor |
+| Timeout | Tempo esgotado | Verificar rede |
+| Module not found | Módulo não encontrado | npm install |
+| Port already in use | Porta em uso | Matar processo ou usar outra porta |
+
+------------------------------------------------------------
+PARTE 2 — TRADUZA O ERRO
+------------------------------------------------------------
+
+1. "Permission denied: '/etc/config'"
+   → ________________________________________
+
+2. "Error: Cannot find module 'express'"
+   → ________________________________________
+
+3. "EACCES: permission denied, open '/usr/local/bin/file'"
+   → ________________________________________
+
+4. "EADDRINUSE: port 3000 is already in use"
+   → ________________________________________
+
+5. "TypeError: undefined is not a function"
+   → ________________________________________
+
+Respostas:
+1. "Permissão negada para acessar /etc/config"
+2. "Não foi possível encontrar o módulo 'express'"
+3. "Permissão negada para abrir arquivo em /usr/local/bin"
+4. "A porta 3000 já está em uso"
+5. "Tipo de erro: tentou usar undefined como função"
+
+------------------------------------------------------------
+PARTE 3 — SOLUÇÕES
+------------------------------------------------------------
+
+Escreva o comando para resolver cada erro:
+
+1. "Permission denied" ao executar um script:
+   → ________________________________________
+   Resposta: chmod +x script.sh
+
+2. "Module not found" ao rodar o projeto:
+   → ________________________________________
+   Resposta: npm install
+
+3. "Port already in use" ao iniciar o servidor:
+   → ________________________________________
+   Resposta: lsof -i :3000 (para ver) ou kill <PID>
+
+4. "Command not found" ao usar git:
+   → ________________________________________
+   Resposta: Instalar git (apt install git / brew install git)
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

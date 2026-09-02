@@ -1,0 +1,121 @@
+============================================================
+EXERCÍCIO 02 — Estruturas de Dados em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender os termos em inglês para estruturas
+de dados e usá-los em contexto.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês    | Português  | Exemplo em Inglês |
+|-----------|-----------|--------------------|
+| Data      | Dados     | "Process the data." |
+| Variable  | Variável  | "Declare a variable." |
+| Array     | Vetor     | "Loop through the array." |
+| String    | Texto     | "Parse the string." |
+| Number    | Número    | "The number is 42." |
+| Boolean   | Booleano  | "Return true or false." |
+| Object    | Objeto    | "Create a new object." |
+| Key       | Chave     | "The key is 'name'." |
+| Value     | Valor     | "The value is 'John'." |
+| Null      | Nulo      | "The value is null." |
+| Undefined | Indefinido| "The variable is undefined." |
+| Type      | Tipo      | "What type is this?" |
+| Index     | Índice    | "Get the first index." |
+| Element   | Elemento  | "Add a new element." |
+| Record    | Registro  | "Find the record." |
+
+------------------------------------------------------------
+PARTE 2 — CORRESPONDÊNCIA
+------------------------------------------------------------
+
+( ) Variable    ___ Valor
+( ) Array       ___ Tipo
+( ) String      ___ Índice
+( ) Boolean     ___ Elemento
+( ) Key         ___ Variável
+( ) Value       ___ Texto
+( ) Type        ___ Nulo
+( ) Index       ___ Booleano
+( ) Element     ___ Chave
+( ) Null        ___ Vetor
+
+Respostas: Variable=5, Array=10, String=6, Boolean=8,
+Key=9, Value=1, Type=2, Index=3, Element=4, Null=7
+
+------------------------------------------------------------
+PARTE 3 — LEITURA DE CÓDIGO
+------------------------------------------------------------
+
+Leia este código e responda em inglês:
+
+```javascript
+const user = {
+  name: "John",
+  age: 30,
+  isActive: true
+};
+
+const numbers = [1, 2, 3, 4, 5];
+const firstName = user.name;
+const lastNumber = numbers[numbers.length - 1];
+```
+
+1. "user" é um(a) __________ (object/variable/array)
+   Resposta: object
+
+2. "name" é uma __________ do objeto
+   Resposta: key
+
+3. "John" é o __________ da key "name"
+   Resposta: value
+
+4. "numbers" é um(a) __________
+   Resposta: array
+
+5. "isActive" é do tipo __________
+   Resposta: boolean
+
+6. "30" é um(a) __________
+   Resposta: number
+
+7. O que é "firstName"?
+   Resposta: É uma variável com o valor da key "name" do objeto user
+
+8. Qual é o valor de "lastNumber"?
+   Resposta: 5
+
+------------------------------------------------------------
+PARTE 4 — TRADUZA AS INSTRUÇÕES
+------------------------------------------------------------
+
+Traduza para inglês:
+
+1. "Crie uma variável chamada 'age' com o valor 25."
+   → ________________________________________
+
+2. "Adicione o número 10 ao final do array."
+   → ________________________________________
+
+3. "Verifique se o tipo da variável é string."
+   → ________________________________________
+
+4. "Obtenha o primeiro elemento do array."
+   → ________________________________________
+
+5. "O objeto pode ter a chave 'email' como null."
+   → ________________________________________
+
+Respostas:
+1. "Create a variable called 'age' with the value 25."
+2. "Add the number 10 to the end of the array."
+3. "Check if the type of the variable is string."
+4. "Get the first element of the array."
+5. "The object may have the key 'email' as null."
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

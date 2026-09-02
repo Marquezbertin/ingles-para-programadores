@@ -1,0 +1,102 @@
+============================================================
+EXERCÍCIO 01 — Vocabulário de Testes
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender termos essenciais de testes em inglês.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês         | Português          |
+|----------------|-------------------|
+| Test           | Teste             |
+| Unit test      | Teste unitário    |
+| Integration test| Teste de integração|
+| E2E test       | Teste ponta a ponta |
+| Test case      | Caso de teste     |
+| Test suite     | Suíte de testes   |
+| Coverage       | Cobertura         |
+| Pass           | Passar            |
+| Fail           | Falhar            |
+| Assertion      | Asserção          |
+| Mock           | Mock              |
+| Stub           | Stub              |
+| Fixture        | Fixture           |
+| Test runner    | Executor de testes|
+
+------------------------------------------------------------
+PARTE 2 — CORRESPONDÊNCIA
+------------------------------------------------------------
+
+( ) Unit test        ___ Caso de teste
+( ) Integration test ___ Cobertura
+( ) E2E test         ___ Suíte de testes
+( ) Test case        ___ Teste unitário
+( ) Test suite       ___ Teste de integração
+( ) Coverage         ___ Teste ponta a ponta
+
+Respostas: 1=4, 2=5, 3=6, 4=1, 5=3, 6=2
+
+------------------------------------------------------------
+PARTE 3 — LEITURA DE TESTE
+------------------------------------------------------------
+
+Leia este teste em JavaScript:
+
+```javascript
+describe('Login function', () => {
+  test('should return true for valid credentials', () => {
+    const result = login('admin', 'password123');
+    expect(result).toBe(true);
+  });
+
+  test('should return false for invalid password', () => {
+    const result = login('admin', 'wrong');
+    expect(result).toBe(false);
+  });
+
+  test('should throw error for empty username', () => {
+    expect(() => login('', 'password123')).toThrow('Username required');
+  });
+});
+```
+
+1. Quantos test cases há?
+   Resposta: 3
+
+2. O que o primeiro teste verifica?
+   Resposta: Login com credenciais válidas retorna true
+
+3. O que happen quando o username está vazio?
+   Resposta: Lança erro "Username required"
+
+4. O que significa "describe" neste contexto?
+   Resposta: Descreve o grupo de testes (login function)
+
+5. O que significa "expect...toBe"?
+   Resposta: Espera que o resultado seja igual ao esperado
+
+------------------------------------------------------------
+PARTE 4 — TIPOS DE TESTE
+------------------------------------------------------------
+
+Qual tipo de teste descreve cada situação?
+
+a) Unit test
+b) Integration test
+c) E2E test
+
+1. Testar se a função soma retorna o valor correto. → ___
+2. Testar se o formulário envia dados ao servidor. → ___
+3. Testar se o usuário consegue fazer login completo. → ___
+4. Testar se a validação de email funciona. → ___
+5. Testar se a API retorna os dados corretos. → ___
+6. Testar se o checkout finaliza a compra. → ___
+
+Respostas: 1=a, 2=b, 3=c, 4=a, 5=b, 6=c
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

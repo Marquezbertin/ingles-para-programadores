@@ -1,0 +1,72 @@
+============================================================
+EXERCÍCIO 02 — Recursos de Aprendizado
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Conhecer e selecionar bons recursos em inglês.
+
+------------------------------------------------------------
+PARTE 1 — TIPOS DE RECURSOS
+------------------------------------------------------------
+
+| Tipo | Exemplo | Melhor para |
+|------|---------|-------------|
+| Docs oficiais | MDN, React docs | Referência precisa |
+| Tutoriais | FreeCodeCamp | Aprender praticando |
+| Blogs | DEV Community | Contexto e tendências |
+| Newsletters | JavaScript Weekly | Atualizações |
+| Podcasts | Syntax | Listening passivo |
+| Videos | The Net Ninja | Visual learning |
+| Comunidades | Stack Overflow | Resolver dúvidas |
+| Cursos | freeCodeCamp | Estrutura |
+
+------------------------------------------------------------
+PARTE 2 — ESCOLHA SEUS RECURSOS
+------------------------------------------------------------
+
+Escolha 1 recurso para cada categoria:
+
+1. Documentação de uma tecnologia: __________
+2. Um tutor no YouTube: __________
+3. Um podcast: __________
+4. Uma newsletter: __________
+5. Uma comunidade: __________
+
+------------------------------------------------------------
+PARTE 3 — VOCABULÁRIO DE CONTEÚDO
+------------------------------------------------------------
+
+Traduza:
+
+1. "Beginner tutorial" = __________
+2. "Advanced guide" = __________
+3. "Quick reference" = __________
+4. "Best practices" = __________
+5. "Common pitfalls" = __________
+6. "Step by step" = __________
+
+Respostas: Tutorial para iniciantes, Guia avançado,
+Referência rápida, Boas práticas, Armadilhas comuns,
+Passo a passo
+
+------------------------------------------------------------
+PARTE 4 — AVALIE OS RECURSOS
+------------------------------------------------------------
+
+Como avaliar se um recurso é bom?
+
+[ ] É atualizado recentemente?
+[ ] Tem boa reputação na comunidade?
+[ ] Os exemplos são claros?
+[ ] É do autor oficial da tecnologia?
+[ ] Tem muitos seguidores/leitores?
+
+Depois de escolher, defina:
+
+Recurso principal: __________
+Por quê: __________
+Como vou usar: __________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

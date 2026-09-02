@@ -1,0 +1,100 @@
+============================================================
+EXERCÍCIO 03 — Termos Básicos de Computação
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Aprender e praticar os termos básicos de
+computação em inglês.
+
+INSTRUÇÕES:
+1. Memorize a tabela de vocabulário
+2. Faça os exercícios de correspondência
+3. Complete as frases com a palavra correta
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês      | Português    | Exemplo em Inglês |
+|-------------|-------------|--------------------|
+| Computer    | Computador  | "I use my computer every day." |
+| Software    | Software    | "Update the software." |
+| Hardware    | Hardware    | "The hardware is broken." |
+| Program     | Programa    | "This program runs fast." |
+| Code        | Código      | "Write clean code." |
+| Debug       | Depurar     | "I need to debug this." |
+| Error       | Erro        | "There is an error." |
+| Output      | Saída       | "Check the output." |
+| Input       | Entrada     | "Validate the input." |
+| Screen      | Tela        | "Look at the screen." |
+| Keyboard    | Teclado     | "Use the keyboard." |
+| Mouse       | Mouse       | "Click with the mouse." |
+| File        | Arquivo     | "Open the file." |
+| Folder      | Pasta       | "Create a new folder." |
+| Data        | Dados       | "The data is here." |
+
+------------------------------------------------------------
+PARTE 2 — CORRESPONDÊNCIA
+------------------------------------------------------------
+
+Conecte cada termo em inglês ao seu significado em
+português (escreva o número ao lado):
+
+( ) Code        ___ Erro
+( ) Debug       ___ Arquivo
+( ) Error       ___ Dados
+( ) File        ___ Software
+( ) Data        ___ Código
+( ) Software    ___ Depurar
+
+Respostas: Code=5, Debug=6, Error=1, File=2, Data=4, Software=3
+
+------------------------------------------------------------
+PARTE 3 — COMPLETE A FRASE
+------------------------------------------------------------
+
+Use as palavras da lista para completar:
+
+Lista: [code, error, program, software, data, file]
+
+1. "Please review my __________ before the meeting."
+   (Resposta: code)
+
+2. "There is an __________ in line 42."
+   (Resposta: error)
+
+3. "This __________ calculates the total price."
+   (Resposta: program)
+
+4. "We need to update the __________ to version 2.0."
+   (Resposta: software)
+
+5. "The __________ shows all user records."
+   (Resposta: data)
+
+6. "Save the __________ as a PDF."
+   (Resposta: file)
+
+------------------------------------------------------------
+PARTE 4 — LEITURA SIMPLES
+------------------------------------------------------------
+
+Leia este parágrafo em inglês e responda:
+
+"My computer runs a program called Visual Studio Code.
+I write code in this program. Sometimes there is an error
+in my code, so I need to debug it. After I fix the error,
+I check the output on the screen."
+
+1. Qual programa o autor usa?
+   Resposta: _______________________
+
+2. O que o autor faz quando tem erro?
+   Resposta: _______________________
+
+3. Onde o autor verifica a saída?
+   Resposta: _______________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

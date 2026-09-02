@@ -1,0 +1,86 @@
+============================================================
+EXERCÍCIO 03 — Logs de Aplicação
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender a ler e interpretar logs em inglês.
+
+------------------------------------------------------------
+PARTE 1 — NÍVEIS DE LOG
+------------------------------------------------------------
+
+| Nível | Significado | Quando usar |
+|-------|-------------|-------------|
+| DEBUG | Debug | Informações detalhadas para desenvolvedores |
+| INFO | Informação | Eventos normais do sistema |
+| WARN | Aviso | Situações que merecem atenção |
+| ERROR | Erro | Erros que precisam ser investigados |
+| FATAL | Fatal | Erros que param a aplicação |
+
+------------------------------------------------------------
+PARTE 2 — LEITURA DE LOGS
+------------------------------------------------------------
+
+Leia este log:
+
+```
+2024-01-15 10:30:15 [INFO] Server started on port 3000
+2024-01-15 10:30:20 [INFO] Connected to database
+2024-01-15 10:31:45 [WARN] Slow query detected: 2.5s
+2024-01-15 10:32:10 [ERROR] Failed to fetch user data: Connection timeout
+2024-01-15 10:32:15 [INFO] Retrying connection...
+2024-01-15 10:32:20 [INFO] Connection restored
+```
+
+1. O servidor iniciou em qual porta?
+   Resposta: 3000
+
+2. Quando a query ficou lenta?
+   Resposta: 10:31:45
+
+3. Qual foi o erro?
+   Resposta: Falha ao buscar dados do usuário (timeout de conexão)
+
+4. O problema foi resolvido?
+   Resposta: Sim, conexão restaurada
+
+5. Quantos logs INFO há?
+   Resposta: 4
+
+------------------------------------------------------------
+PARTE 3 — CLASSIFIQUE O LOG
+------------------------------------------------------------
+
+Classifique cada mensagem:
+
+1. "User logged in successfully" → ___
+2. "Database connection pool exhausted" → ___
+3. "Request took 5.2 seconds" → ___
+4. "Application shutting down" → ___
+5. "File uploaded: photo.jpg" → ___
+
+Respostas: 1=INFO, 2=ERROR, 3=WARN, 4=FATAL, 5=INFO
+
+------------------------------------------------------------
+PARTE 4 — ESCREVA UM LOG
+------------------------------------------------------------
+
+Escreva logs para cada situação:
+
+1. API retornou erro 404:
+   → ________________________________________
+
+2. Usuário fez login:
+   → ________________________________________
+
+3. Deploy concluído:
+   → ________________________________________
+
+Respostas:
+1. [ERROR] GET /api/users/999 - 404 Not Found
+2. [INFO] User 'john@email.com' logged in successfully
+3. [INFO] Deployment to production completed successfully
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

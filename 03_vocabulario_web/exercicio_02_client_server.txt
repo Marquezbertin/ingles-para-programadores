@@ -1,0 +1,80 @@
+============================================================
+EXERCÍCIO 02 — Client e Server
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Entender o modelo client-server e a
+comunicação HTTP em inglês.
+
+------------------------------------------------------------
+PARTE 1 — VOCABULÁRIO
+------------------------------------------------------------
+
+| Inglês    | Português     | Exemplo |
+|-----------|--------------|---------|
+| Client    | Cliente       | "The client sends a request." |
+| Server    | Servidor      | "The server processes data." |
+| Request   | Requisição    | "Send a GET request." |
+| Response  | Resposta      | "Get the response." |
+| API       | API           | "Call the API." |
+| HTTP      | HTTP          | "Use HTTP protocol." |
+| Endpoint  | Endpoint      | "Hit the endpoint." |
+| Status code | Código de status | "The status code is 200." |
+| Header    | Cabeçalho     | "Check the response header." |
+| Body      | Corpo         | "The body has the data." |
+
+------------------------------------------------------------
+PARTE 2 — CÓDIGOS DE STATUS
+------------------------------------------------------------
+
+Qual é o significado de cada código HTTP?
+
+1. 200 OK = _________________ (Sucesso)
+2. 201 Created = _________________ (Recurso criado)
+3. 301 Moved = _________________ (Redirecionamento)
+4. 400 Bad Request = _________________ (Requisição inválida)
+5. 401 Unauthorized = _________________ (Não autorizado)
+6. 403 Forbidden = _________________ (Proibido)
+7. 404 Not Found = _________________ (Não encontrado)
+8. 500 Internal Server Error = _________________ (Erro no servidor)
+
+------------------------------------------------------------
+PARTE 3 — FLUXO DE COMUNICAÇÃO
+------------------------------------------------------------
+
+Ordene as etapas da comunicação client-server:
+
+( ) The server sends a response
+( ) The client processes the data
+( ) The client sends a request
+( ) The server receives the request
+( ) The server processes the request
+
+Ordem correta: 3, 4, 5, 1, 2
+
+------------------------------------------------------------
+PARTE 4 — TRADUZA O DIAGRAMA
+------------------------------------------------------------
+
+1. "O cliente envia uma requisição GET para o endpoint
+    /api/users."
+   → ________________________________________
+
+2. "O servidor retorna uma resposta com status 200."
+   → ________________________________________
+
+3. "O body da resposta contém um array de usuários."
+   → ________________________________________
+
+4. "Se o usuário não for encontrado, retorna 404."
+   → ________________________________________
+
+Respostas:
+1. "The client sends a GET request to the /api/users endpoint."
+2. "The server returns a response with status 200."
+3. "The response body contains an array of users."
+4. "If the user is not found, return 404."
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

@@ -1,0 +1,96 @@
+============================================================
+EXERCÍCIO 01 — Lendo Documentação MDN
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender a navegar e extrair informações da MDN.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DA MDN
+------------------------------------------------------------
+
+A MDN (Mozilla Developer Network) tem esta estrutura:
+
+| Seção | O que contém |
+|-------|-------------|
+| Description | Descrição da funcionalidade |
+| Syntax | Sintaxe do código |
+| Parameters | Parâmetros |
+| Return value | Valor de retorno |
+| Examples | Exemplos práticos |
+| Browser compatibility | Compatibilidade |
+
+------------------------------------------------------------
+PARTE 2 — LEITURA DA MDN
+------------------------------------------------------------
+
+Leia este trecho simplificado da MDN:
+
+"Array.prototype.map()
+
+Description:
+The map() method creates a new array populated with
+the results of calling a provided function on every
+element in the calling array.
+
+Syntax:
+arr.map(callback(currentValue, index, array))
+
+Parameters:
+- callback: Function called for every element
+- currentValue: The current element being processed
+- index (optional): The index of the current element
+- array (optional): The array map was called upon
+
+Return value:
+A new array with each element being the result of
+the callback function."
+
+1. O que o método map() faz?
+   Resposta: Cria um novo array com os resultados de uma função para cada elemento
+
+2. Quais parâmetros são obrigatórios?
+   Resposta: Apenas o callback
+
+3. O que map() retorna?
+   Resposta: Um novo array
+
+4. O que significa "populated with"?
+   Resposta: Preenchido com
+
+------------------------------------------------------------
+PARTE 3 — EXTRAIA A INFORMAÇÃO
+------------------------------------------------------------
+
+Para cada pergunta, encontre a resposta na documentação:
+
+1. "What does the function do?"
+   → ________________________________________
+
+2. "What are the required parameters?"
+   → ________________________________________
+
+3. "What does it return?"
+   → ________________________________________
+
+4. "Is there an example?"
+   → ________________________________________
+
+------------------------------------------------------------
+PARTE 4 — PRÁTICA REAL
+------------------------------------------------------------
+
+Acesse a documentação de Array.filter() e responda:
+
+1. O que filter() faz?
+   Resposta: Cria um novo array com elementos que passam em um teste
+
+2. O que o callback deve retornar?
+   Resposta: true (manter) ou false (remover)
+
+3. filter() modifica o array original?
+   Resposta: Não, retorna um novo array
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

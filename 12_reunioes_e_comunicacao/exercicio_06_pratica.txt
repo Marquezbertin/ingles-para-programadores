@@ -1,0 +1,83 @@
+============================================================
+EXERCÍCIO 06 — Prática Combinando Tudo (Reuniões)
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Combinar habilidades de comunicação em reuniões.
+
+------------------------------------------------------------
+PARTE 1 — CENÁRIO: STANDUP COMPLETO
+------------------------------------------------------------
+
+Escreva seu standup completo (3 frases):
+
+"Good morning everyone.
+Yesterday ________________________________________
+Today I will ________________________________________
+I have/have no ________________________________________"
+
+------------------------------------------------------------
+PARTE 2 — CENÁRIO: SPRINT PLANNING
+------------------------------------------------------------
+
+Complete o diálogo de planning:
+
+PM: "Let's look at the __________. We have 10 points
+available. What should we pick up?"
+
+Dev: "I recommend story #45 (search feature). It's
+a __________ priority and worth 5 __________."
+
+PM: "Any other suggestions?"
+
+Dev 2: "We could also do story #48 (bug fix). That's
+__________ points."
+
+PM: "OK, let's take both into the __________. Any
+__________?"
+
+Respostas: backlog, high, points, 3/2, sprint, blockers
+
+------------------------------------------------------------
+PARTE 3 — CENÁRIO: RETRO
+------------------------------------------------------------
+
+Escreva uma contribuição para a retrospectiva:
+
+"Personally, I think the sprint went __________ because
+we __________. However, we could improve by __________.
+One action item I'll take is __________."
+
+Resposta (exemplo):
+"Personally, I think the sprint went well because we
+delivered all stories on time. However, we could improve
+by estimating more accurately. One action item I'll
+take is to track my time better."
+
+------------------------------------------------------------
+PARTE 4 — CENÁRIO: MEETING MINUTES
+------------------------------------------------------------
+
+Escreva as atas (minutes) de uma reunião:
+
+```
+Meeting: __________
+Attendees: __________
+Agenda:
+1. __________
+2. __________
+
+Summary:
+- __________
+- __________
+
+Action Items:
+- [ ] (Person) __________ by (date) __________
+- [ ] (Person) __________ by (date) __________
+
+Next Meeting: __________
+```
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

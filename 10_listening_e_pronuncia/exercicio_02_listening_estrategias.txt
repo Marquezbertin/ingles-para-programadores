@@ -1,0 +1,86 @@
+============================================================
+EXERCÍCIO 02 — Estratégias de Listening
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Aprender e aplicar estratégias para melhorar o listening.
+
+------------------------------------------------------------
+PARTE 1 — NÍVEIS DE LISTENING
+------------------------------------------------------------
+
+| Nível | Ação |
+|-------|------|
+| 1. Escuta geral | Entenda o tópico geral (sem foco em detalhes) |
+| 2. Escuta seletiva | Foque em palavras-chave (erros, termos técnicos) |
+| 3. Escuta detalhada | Entenda cada detalhe do conteúdo |
+| 4. Shadowing | Repita em voz alta o que ouve |
+
+------------------------------------------------------------
+PARTE 2 — PALAVRAS-CHAVE
+------------------------------------------------------------
+
+Ao assistir um vídeo técnico, ouça termos-chave:
+
+ERROS E BUGS: bug, error, issue, crash, fail, exception
+AÇÕES: implement, deploy, debug, refactor, test, build
+FERRAMENTAS: React, Node, Git, API, database, server
+FLUXO: first, then, next, finally, after, before
+
+------------------------------------------------------------
+PARTE 3 — TÉCNICA DE ESCUTA
+------------------------------------------------------------
+
+Leia um trecho de código talk transcrito e responda:
+
+"Today we're going to talk about performance
+optimization. First, let me show you the problem.
+When you have a large list of items, rendering all
+of them at once can cause the browser to lag.
+
+One solution is to use a technique called
+virtualization. This only renders the items that
+are currently visible on the screen.
+
+Another important optimization is memoization.
+By caching the results of expensive function calls,
+we avoid unnecessary recomputation.
+
+Let's implement both of these in our example."
+
+1. Qual é o tópico principal?
+   Resposta: Otimização de performance
+
+2. Quais são as duas técnicas mencionadas?
+   Resposta: Virtualização e memoization
+
+3. O que causa o lag do browser?
+   Resposta: Renderizar todos os itens de uma lista grande
+
+4. O que é memoization?
+   Resposta: Cache de resultados de funções caras para evitar recomputação
+
+------------------------------------------------------------
+PARTE 4 — TAREFA PRÁTICA DE LISTENING
+------------------------------------------------------------
+
+Assista a um vídeo técnico de 10-15 minutos:
+
+1. Qual é o título e quem apresenta?
+   Resposta: _______________________
+
+2. Qual é o tema principal? (escuta geral)
+   Resposta: _______________________
+
+3. Liste 5 palavras-chave técnicas que você ouviu:
+   _______________________
+
+4. O que você NÃO entendeu? (para pesquisar depois)
+   _______________________
+
+5. O que você entendeu completamente?
+   _______________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

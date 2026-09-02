@@ -1,0 +1,119 @@
+============================================================
+EXERCÍCIO 03 — Documentação Técnica
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Escrever documentação técnica clara e útil.
+
+------------------------------------------------------------
+PARTE 1 — VERSÃO vs REVISÃO DE UMA FUNÇÃO
+------------------------------------------------------------
+
+Leia a função e documente:
+
+```javascript
+// Calculates the shipping cost based on weight and destination
+// @param {number} weight - The weight of the package in kg
+// @param {string} country - The destination country code
+// @returns {number} The shipping cost in USD
+function calculateShipping(weight, country) {
+  const baseRate = 5;
+  const ratePerKg = 2;
+  const internationalFee = 10;
+
+  let cost = baseRate + (weight * ratePerKg);
+
+  if (country !== 'US') {
+    cost += internationalFee;
+  }
+
+  return cost;
+}
+```
+
+1. O que a função faz?
+   Resposta: Calcula o custo de envio baseado em peso e país
+
+2. Quais parâmetros recebe?
+   Resposta: weight (número em kg) e country (código do país)
+
+3. O que retorna?
+   Resposta: O custo do envio em dólares
+
+4. Como é calculado?
+   Resposta: Taxa base 5 + (peso * 2) + taxa internacional (10 para países fora dos EUA)
+
+------------------------------------------------------------
+PARTE 2 — ESCREVA A DOCUMENTAÇÃO
+------------------------------------------------------------
+
+Escreva a doc de uma API de autenticação:
+
+```
+## POST /api/auth/login
+
+### Description
+Authenticates a user and returns a JWT token.
+
+### Request Body
+{
+  "email": "string (required)",
+  "password": "string (required)"
+}
+
+### Success Response (200)
+{
+  "token": "jwt_token",
+  "user": {
+    "id": 1,
+    "name": "John"
+  }
+}
+
+### Error Responses
+- 400: Missing email or password
+- 401: Invalid credentials
+- 500: Server error
+```
+
+Escreva a documentação para GET /api/users:
+
+Description: ________________________________________
+Success (200): ________________________________________
+Errors: ________________________________________
+
+Resposta (exemplo):
+"## GET /api/users
+### Description
+Returns a list of all users.
+### Success Response (200)
+An array of user objects { id, name, email }
+### Error Responses
+- 401: Unauthorized (no token)
+- 403: Forbidden (not admin)
+- 500: Server error"
+
+------------------------------------------------------------
+PARTE 3 — COMANDOS DE DOCUMENTAÇÃO
+------------------------------------------------------------
+
+Complete as frases para documentação:
+
+1. "The function __________ a boolean value."
+   (returns)
+
+2. "This endpoint __________ all active users."
+   (returns/fetches)
+
+3. "The parameter 'id' is __________."
+   (required)
+
+4. "If the request is invalid, the server __________ a 400 error."
+   (returns)
+
+5. "The library __________ error handling by default."
+   (supports/provides)
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

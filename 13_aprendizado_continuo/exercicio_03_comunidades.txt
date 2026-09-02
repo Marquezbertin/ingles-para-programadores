@@ -1,0 +1,85 @@
+============================================================
+EXERCÍCIO 03 — Comunidades Internacionais
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Aprender a participar de comunidades internacionais de programadores.
+
+------------------------------------------------------------
+PARTE 1 — POR QUE PARTICIPAR
+------------------------------------------------------------
+
+Benefícios de participar de comunidades em inglês:
+
+1. Prática real de leitura/escrita
+2. Acesso a respostas de experts
+3. Networking global
+4. Novas oportunidades profissionais
+5. Aprendizado contínuo
+
+------------------------------------------------------------
+PARTE 2 — COMUNIDADES POPULARES
+------------------------------------------------------------
+
+| Comunidade | Tipo | Para que |
+|-----------|------|----------|
+| Stack Overflow | Q&A | Resolver dúvidas |
+| DEV Community | Blog | Compartilhar conhecimento |
+| GitHub Discussions | Fórum | Discutir projetos |
+| Discord servers | Chat | Conversar em tempo real |
+| Slack workspaces | Chat | Comunidades específicas |
+| Reddit (r/javascript) | Fórum | Discussões |
+| freeCodeCamp Forum | Fórum | Aprender junto |
+
+------------------------------------------------------------
+PARTE 3 — ETIQUETA EM COMUNIDADES
+------------------------------------------------------------
+
+Boas práticas:
+
+1. LEIA antes de postar (lurk first)
+2. Pesquise antes de perguntar (search first)
+3. Seja educado (be polite)
+4. Forneça contexto (provide context)
+5. Agradeça (say thanks)
+
+Complete as frases de etiqueta:
+
+1. "You're welcome" = "De nada"
+2. "Thanks for the help" = "Obrigado pela ajuda"
+3. "I'm new here" = "Sou novo aqui"
+
+Escreva como você solicitaria ajuda:
+
+"Hi everyone! I'm new here. I'm having trouble with
+__________. Here's my code: __________. Any ideas
+on how to fix this?"
+
+Mas que pergunta seria mais produtiva:
+
+BAD: "Why is my code broken?"
+GOOD: "I'm getting a TypeError when I try to call
+calculateTotal(). Here's my code and the full error
+message. What am I missing?"
+
+Por que a segunda é melhor?
+Resposta: Tem contexto, código, erro completo e pergunta específica
+
+------------------------------------------------------------
+PARTE 4 — TAREFA PRÁTICA
+------------------------------------------------------------
+
+Escolha uma comunidade e:
+
+1. Crie uma conta (se não tiver)
+2. Leia 5 posts
+3. Responda a 1 pergunta (se souber a resposta)
+4. Ou faça 1 pergunta educada
+
+Anote sua experiência:
+________________________________________
+________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

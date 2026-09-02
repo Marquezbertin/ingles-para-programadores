@@ -1,0 +1,94 @@
+============================================================
+EXERCÍCIO 02 — Descrições de Pull Requests
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Escrever descrições de PR claras e completas.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DE UM BOM PR
+------------------------------------------------------------
+
+1. Title: resumir a mudança
+2. Description: o que, por quê, como
+3. Related issue: #número
+4. Changes: lista de mudanças
+5. Testing: como testar
+6. Notes: observações
+
+------------------------------------------------------------
+PARTE 2 — VERBOS DE TÍTULO EM PR
+------------------------------------------------------------
+
+Escolha o verbo correto para cada título:
+
+1. "feat: __________ dark mode support" (add)
+2. "fix: __________ login redirect bug" (fix/resolve)
+3. "docs: __________ API documentation" (update)
+4. "refactor: __________ payment service" (refactor)
+5. "test: __________ unit tests for auth" (add)
+6. "chore: __________ dependencies" (update)
+
+Respostas: add, resolve/fix, update, refactor, add, update
+
+------------------------------------------------------------
+PARTE 3 — ESCREVA UM PR COMPLETO
+------------------------------------------------------------
+
+Escreva um PR para adicionar search funcionality:
+
+Title: ________________________________________
+
+Description:
+"This PR ________________________________________
+
+It includes:
+- ________________________________________
+- ________________________________________
+- ________________________________________
+
+Related issue: #________________________________________
+
+Testing:
+1. ________________________________________
+2. ________________________________________
+3. ________________________________________"
+
+Resposta (exemplo):
+Title: "feat: add search functionality to the dashboard"
+
+Description:
+"This PR adds a search bar to the dashboard so users
+can quickly find items by name or category.
+
+It includes:
+- Search input component
+- Debounced API call to filter results
+- Loading and empty states
+
+Related issue: #12
+
+Testing:
+1. Navigate to the dashboard
+2. Type "product" in the search bar
+3. Verify filtered results appear"
+
+------------------------------------------------------------
+PARTE 4 — TRADUZA
+------------------------------------------------------------
+
+1. "Este PR corrige o bug no carrinho de compras."
+→ "________________________________________"
+Resposta: "This PR fixes the bug in the shopping cart."
+
+2. "Este PR adiciona autenticação com Google."
+→ "________________________________________"
+Resposta: "This PR adds Google authentication."
+
+3. "Por favor, testem com dados de usuário reais."
+→ "________________________________________"
+Resposta: "Please test with real user data."
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

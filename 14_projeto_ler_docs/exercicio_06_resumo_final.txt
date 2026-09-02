@@ -1,0 +1,82 @@
+============================================================
+EXERCÍCIO 06 — Resumo Final e Autoavaliação
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Consolidar o aprendizado do projeto de leitura de docs.
+
+------------------------------------------------------------
+PARTE 1 — RESUMO EM INGLÊS
+------------------------------------------------------------
+
+Escreva um resumo (5-6 frases) sobre algo que você
+aprendeu lendo documentação. Use o vocabulário aprendido.
+
+"I read the documentation for _______________. It is a
+_______________ that _______________. The syntax is
+_______________. I learned that _______________.
+This is useful because _______________. In the future,
+I will _______________."
+
+Preencha com suas próprias palavras.
+
+------------------------------------------------------------
+PARTE 2 — VOCABULÁRIO ADQUIRIDO
+------------------------------------------------------------
+
+Liste 10 termos técnicos novos que você aprendeu lendo
+as docs:
+
+1. __________
+2. __________
+3. __________
+4. __________
+5. __________
+6. __________
+7. __________
+8. __________
+9. __________
+10. __________
+
+------------------------------------------------------------
+PARTE 3 — AUTO-AVALIAÇÃO
+------------------------------------------------------------
+
+Avalie seu nível (1-5):
+
+[ ] Consigo ler documentação oficial
+[ ] Consigo extrair informações-chave
+[ ] Consigo responder perguntas de compreensão
+[ ] Entendo a sintaxe nos exemplos
+[ ] Consigo resumir o que li
+[ ] Anoto termos novos efetivamente
+
+Meu nível geral de leitura de docs: /5
+
+------------------------------------------------------------
+PARTE 4 — O QUE REVISAR
+------------------------------------------------------------
+
+Liste os pontos fracos:
+
+1. ________________________________________
+2. ________________________________________
+
+E os planos de melhoria:
+
+1. ________________________________________
+2. ________________________________________
+
+------------------------------------------------------------
+PARTE 5 — PRÓXIMO PASSO
+------------------------------------------------------------
+
+Você está pronto para o próximo módulo:
+
+15 — Projeto: Contribuir para Open Source
+
+Continue lendo documentação diariamente!
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

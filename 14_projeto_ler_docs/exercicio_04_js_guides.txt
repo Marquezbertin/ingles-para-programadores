@@ -1,0 +1,86 @@
+============================================================
+EXERCÍCIO 04 — Guides do MDN
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Ler guias/palavras do MDN e compreender.
+
+------------------------------------------------------------
+PARTE 1 — LEITURA
+------------------------------------------------------------
+
+Leia o trecho (adaptado do MDN Guide):
+
+"Introduction to the DOM (Document Object Model)
+
+The Document Object Model (DOM) is a programming
+interface for web documents. It represents the
+page so that programs can change the document
+structure, style, and content.
+
+The DOM represents the document as nodes and objects.
+That way, programming languages can connect to the page.
+
+A Web page is a document that can be either displayed
+in the browser window or as the HTML source. In both
+cases, it is the same document but the DOM
+representation allows it to be manipulated.
+
+The DOM allows JavaScript to access and change the
+content, structure, and style of a website."
+
+------------------------------------------------------------
+PARTE 2 — COMPREENSÃO
+------------------------------------------------------------
+
+1. "What is the DOM?"
+   Resposta: Uma interface de programação para documentos web
+
+2. "What can programs change using the DOM?"
+   Resposta: Structure, style, and content
+
+3. "How does the DOM represent a document?"
+   Resposta: As nodes and objects
+
+4. "What can JavaScript do with the DOM?"
+   Resposta: Access and change content, structure, and style
+
+------------------------------------------------------------
+PARTE 3 — VOCABULÁRIO
+------------------------------------------------------------
+
+Traduza:
+
+1. "Programming interface" = __________
+2. "Document structure" = __________
+3. "Browser window" = __________
+4. "Manipulated" = __________
+5. "Displayed" = __________
+6. "Access" = __________
+
+Respostas: Interface de programação, Estrutura do documento,
+Janela do navegador, Manipulado, Exibido, Acessar
+
+------------------------------------------------------------
+PARTE 4 — TAREFA REAL
+------------------------------------------------------------
+
+Acesse o MDN Guide sobre DOM.
+
+1. Encontre a seção "What is the DOM?" e resuma em
+   2 frases (em inglês):
+   ________________________________________
+   ________________________________________
+
+2. Anote 3 termos técnicos novos:
+   __________
+   __________
+   __________
+
+3. Leia sobre "DOM nodes" e explique em 2 frases:
+   ________________________________________
+   ________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

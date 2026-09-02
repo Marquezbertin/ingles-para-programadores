@@ -1,0 +1,86 @@
+============================================================
+EXERCÍCIO 02 — Retrospectiva em Inglês
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Participar de retrospectivas de sprint em inglês.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DA RETRO
+------------------------------------------------------------
+
+| Seção | Pergunta |
+|-------|----------|
+| What went well | O que foi bem |
+| What didn't go well | O que não foi bem |
+| What we should try | O que devemos tentar |
+| Action items | Itens de ação |
+
+Frases úteis:
+
+POSITIVO:
+- "We delivered everything on time."
+- "The team communicated well."
+- "Testing improved a lot."
+
+NEGATIVO:
+- "We underestimated the story points."
+- "We had too many interruptions."
+- "The requirements were unclear."
+
+MELHORIA:
+- "We should try estimating more carefully."
+- "Let's add more automated tests."
+- "We need better documentation."
+
+------------------------------------------------------------
+PARTE 2 — COMPLETE A RETRO
+------------------------------------------------------------
+
+Facilitator: "Welcome to the sprint retrospective.
+Let's start with what went well."
+
+Dev 1: "We __________ all the stories in the sprint,
+which is great. The team __________ well together."
+
+Dev 2: "The new testing __________ helped us catch
+bugs earlier."
+
+Facilitator: "What didn't go well?"
+
+Dev 3: "We had a few __________ with the deployment
+pipeline. Also, the __________ for the client change
+was unclear."
+
+Facilitator: "What should we try?"
+
+Dev 1: "I think we should __________ separate
+deployment for staging and production."
+
+Dev 2: "And let's __________ clarify requirements
+before starting."
+
+Respostas: completed, worked, framework, issues,
+requirement, have/set up, make sure/always
+
+------------------------------------------------------------
+PARTE 3 — ESCREVA SOBRE SUA SPRINT
+------------------------------------------------------------
+
+Complete:
+
+What went well:
+"________________________________________"
+
+What didn't go well:
+"________________________________________"
+
+What we should try:
+"________________________________________"
+
+An action item for me:
+"________________________________________"
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

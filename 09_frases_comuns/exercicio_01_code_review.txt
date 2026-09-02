@@ -1,0 +1,84 @@
+============================================================
+EXERCÍCIO 01 — Comentários de Code Review
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Escrever comentários educados e claros de code review.
+
+------------------------------------------------------------
+PARTE 1 — FRASES ÚTEIS
+------------------------------------------------------------
+
+APROVAÇÃO:
+- "Looks good to me (LGTM)!"
+- "Great work on this!"
+- "Approved, nice job!"
+- "This is clean and well-tested."
+
+SUGESTÃO (educada):
+- "Consider using a map instead of a loop."
+- "What do you think about extracting this into a helper?"
+- "Have you considered adding validation here?"
+
+PEDIDO DE MUDANÇA:
+- "Could you please add error handling?"
+- "This needs more tests."
+- "Can you explain why you used X here?"
+- "Please rename this variable."
+
+------------------------------------------------------------
+PARTE 2 — ESCREVA O COMENTÁRIO
+------------------------------------------------------------
+
+1. O código usa um loop, mas poderia usar map:
+   "________________________________________"
+   Resposta: "Consider using map() instead of the for loop. It would be more readable."
+
+2. Falta tratamento de erro:
+   "________________________________________"
+   Resposta: "Could you please add error handling for the API call?"
+
+3. A função é muito longa:
+   "________________________________________"
+   Resposta: "This function is doing a lot. Consider splitting it into smaller functions."
+
+4. A variável tem nome ruim:
+   "________________________________________"
+   Resposta: "The variable 'x' is not descriptive. Consider renaming to something like 'userCount'."
+
+5. O código está ótimo:
+   "________________________________________"
+   Resposta: "Great work! This is very clean and the tests are thorough. LGTM!"
+
+------------------------------------------------------------
+PARTE 3 — TOM DO COMENTÁRIO
+------------------------------------------------------------
+
+Compare os comentários:
+
+RUDE: "This is wrong. Fix it."
+EDUCADO: "I think this might not work in all cases. Could we look at this together?"
+
+1. Qual usar em um ambiente profissional?
+   Resposta: O educado
+
+2. Por quê?
+   Resposta: Code review deve ser colaborativo, não crítico
+
+3. Reescreva de forma educada estas frases:
+
+a) "You forgot to add tests."
+→ "________________________________________"
+Resposta: "Could you please add tests for this?"
+
+b) "This doesn't work."
+→ "________________________________________"
+Resposta: "I'm not sure this works in all scenarios. Have you tested edge cases?"
+
+c) "Your code is a mess."
+→ "________________________________________"
+Resposta: "This function is hard to follow. Would you mind refactoring it for clarity?"
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

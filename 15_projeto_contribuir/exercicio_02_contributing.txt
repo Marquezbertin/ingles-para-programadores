@@ -1,0 +1,121 @@
+============================================================
+EXERCÍCIO 02 — Lendo CONTRIBUTING.md
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Ler e entender as regras de contribuição do projeto.
+
+------------------------------------------------------------
+PARTE 1 — O QUE É CONTRIBUTING.md
+------------------------------------------------------------
+
+CONTRIBUTING.md contém as regras para contribuir:
+
+- Como relatar bugs
+- Como propor features
+- Padrões de código
+- Como executar testes
+- Processo de PR
+- Conduta esperada
+
+------------------------------------------------------------
+PARTE 2 — LEITURA GUIADA
+------------------------------------------------------------
+
+Leia esta CONTRIBUTING.md (exemplo) e responda:
+
+"# Contributing to AwesomeProject
+
+Thank you for your interest in contributing!
+
+## Code of Conduct
+Please review our Code of Conduct before contributing.
+
+## How to report a bug
+1. Search the issues to see if it was already reported
+2. If not, open a new issue with:
+   - A descriptive title
+   - Steps to reproduce
+   - Expected and actual behavior
+   - Environment details
+
+## How to propose a feature
+Open an issue describing:
+- Why you need the feature
+- How it should work
+- Any alternatives considered
+
+## Development setup
+1. Fork and clone the repo
+2. Run `npm install`
+3. Create a branch: `git checkout -b feature/your-feature`
+4. Make your changes
+5. Run tests: `npm test`
+6. Lint: `npm run lint`
+7. Commit with conventional commits
+8. Push and open a pull request
+
+## Pull Request Guidelines
+- Reference the issue: Fixes #123
+- Keep PRs small and focused
+- Add tests for new code
+- Update documentation if needed
+- Respond to review comments promptly"
+
+1. "What is the first thing to check before reporting a bug?"
+   Resposta: Search the issues to see if it was already reported
+
+2. "What should the bug report include?"
+   Resposta: Descriptive title, steps to reproduce, expected/actual behavior, environment
+
+3. "What must you do before committing?"
+   Resposta: Run tests (npm test) and lint (npm run lint)
+
+4. "What is the branch naming convention?"
+   Resposta: feature/your-feature
+
+5. "How do you reference an issue in a PR?"
+   Resposta: "Fixes #123"
+
+6. "What is one rule for good PRs?"
+   Resposta: Keep PRs small and focused
+
+------------------------------------------------------------
+PARTE 3 — VOCABULÁRIO
+------------------------------------------------------------
+
+Traduza:
+
+1. "Code of conduct" = __________
+2. "Steps to reproduce" = __________
+3. "Conventional commits" = __________
+4. "Wrap up" = __________
+5. "Lint" = __________
+
+Respostas: Código de conduta, Passos para reproduzir,
+Commits convencionais, Finalizar, Lint (verificador de estilo)
+
+------------------------------------------------------------
+PARTE 4 — SEU PROJETO
+------------------------------------------------------------
+
+Acesse o CONTRIBUTING.md do SEU projeto:
+
+1. Quais passos de setup?
+   Resposta: __________
+
+2. Como são os commits?
+   Resposta: __________
+
+3. Como rodar os testes?
+   Resposta: __________
+
+4. Existe algum padrão para branches?
+   Resposta: __________
+
+5. O que você precisa fazer antes da PR?
+   Resposta: __________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

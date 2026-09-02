@@ -1,0 +1,94 @@
+============================================================
+EXERCÍCIO 05 — Frases para Reuniões em Inglês
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Memorizar frases essenciais para reuniões.
+
+------------------------------------------------------------
+PARTE 1 — FRASES ESSENCIAIS
+------------------------------------------------------------
+
+| Em Inglês | Em Português |
+|-----------|--------------|
+| "Let's get started." | "Vamos começar." |
+| "Shall we go around?" | "Vamos nos apresentar?" |
+| "Can you hear me?" | "Você pode me ouvir?" |
+| "You're on mute." | "Você está no mudo." |
+| "Could you repeat that?" | "Pode repetir?" |
+| "What do you think?" | "O que você acha?" |
+| "I agree." | "Concordo." |
+| "Let's move on." | "Vamos avançar." |
+| "Let's take a quick break." | "Vamos dar uma pausa." |
+| "Let's wrap up." | "Vamos finalizar." |
+| "I'll send the minutes." | "Vou enviar a ata." |
+| "Let's schedule a follow-up." | "Vamos agendar um acompanhamento." |
+
+------------------------------------------------------------
+PARTE 2 — COMPLETE O DIÁLOGO
+------------------------------------------------------------
+
+Facilitator: "OK, let's get __________. Does everyone
+have the __________? Good."
+
+Facilitator: "First item on the agenda is the __________
+status. Sarah, can you give us an __________?"
+
+Sarah: "Sure. We're on track. We __________ the
+database work and now we're on the API."
+
+Facilitator: "Any __________ or concerns?"
+
+Sarah: "We need __________ on the deployment date."
+
+Facilitator: "Let's __________ that. John, what do
+you __________?"
+
+Respostas: started, agenda, project, update,
+completed, blockers, clarity/confirmation, discuss, think
+
+------------------------------------------------------------
+PARTE 3 — TRADUZA
+------------------------------------------------------------
+
+1. "Vamos agendar uma reunião para amanhã."
+→ "________________________________________"
+Resposta: "Let's schedule a meeting for tomorrow."
+
+2. "Você pode compartilhar os slides?"
+→ "________________________________________"
+Resposta: "Can you share the slides?"
+
+3. "Vou anotar isso como um item de ação."
+→ "________________________________________"
+Resposta: "I'll note that as an action item."
+
+4. "Alguém tem alguma pergunta?"
+→ "________________________________________"
+Resposta: "Does anyone have any questions?"
+
+5. "Vou enviar as atas depois da reunião."
+→ "________________________________________"
+Resposta: "I'll send the meeting minutes after the call."
+
+------------------------------------------------------------
+PARTE 4 — MANTENHA A REUNIÃO NO TRILHO
+---------------------------------------------------
+
+Use para manter a reunião focada:
+
+1. Alguém está indo para outro tópico:
+   "Let's stay on topic. We can discuss that __________."
+   Resposta: later/offline
+
+2. A reunião está demorando:
+   "We're running out of time. Let's __________ the remaining items." →
+   Resposta: cover/prioritize
+
+3. Precisam decidir:
+   "We need to __________ on this. Any objections?"
+   Resposta: decide/agree
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

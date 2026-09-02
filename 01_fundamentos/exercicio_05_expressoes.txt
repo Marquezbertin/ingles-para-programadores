@@ -1,0 +1,114 @@
+============================================================
+EXERCÍCIO 05 — Expressões Essenciais
+Dificuldade: Fácil
+============================================================
+
+OBJETIVO: Aprender expressões que você vai usar todos os
+dias como programador em inglês.
+
+INSTRUÇÕES:
+1. Memorize cada expressão
+2. Pratique em voz alta
+3. Faça os exercícios deRole-play
+
+------------------------------------------------------------
+PARTE 1 — PERGUNTAS COMUNS
+------------------------------------------------------------
+
+| Em Inglês | Em Português | Quando Usar |
+|-----------|--------------|-------------|
+| "How do I...?" | "Como eu faço...?" | Quando não sabe como fazer algo |
+| "What does this do?" | "O que isso faz?" | Ao ver código novo |
+| "Can you explain...?" | "Você pode explicar...?" | Quando precisa de detalhes |
+| "What's the error?" | "Qual é o erro?" | Ao ver uma mensagem de erro |
+| "Where is...?" | "Onde está...?" | Procurando algo específico |
+| "When does it run?" | "Quando isso roda?" | Entendendo fluxo |
+
+------------------------------------------------------------
+PARTE 2 — PEDINDO AJUDA
+------------------------------------------------------------
+
+Complete as frases com a expressão correta:
+
+1. "__________ set up a new project in VS Code?"
+   (How do I)
+
+2. "__________ this error means?"
+   (What does)
+
+3. "__________ the difference between let and const?"
+   (Can you explain)
+
+4. "__________ the database connection string?"
+   (Where is)
+
+5. "__________ deploy this to the server?"
+   (How do I)
+
+------------------------------------------------------------
+PARTE 3 — DESCREVENDO PROBLEMAS
+------------------------------------------------------------
+
+Traduza para inglês:
+
+1. "Estou recebendo um erro de sintaxe."
+   → ________________________________________
+
+2. "A função não retorna o valor esperado."
+   → ________________________________________
+
+3. "O site não carrega no navegador."
+   → ________________________________________
+
+4. "Preciso de ajuda com o deploy."
+   → ________________________________________
+
+5. "O código compila mas não roda."
+   → ________________________________________
+
+Respostas:
+1. "I'm getting a syntax error."
+2. "The function doesn't return the expected value."
+3. "The site doesn't load in the browser."
+4. "I need help with the deployment."
+5. "The code compiles but doesn't run."
+
+------------------------------------------------------------
+PARTE 4 — ROLE-PLAY (PRATIQUE EM VOZ ALTA)
+------------------------------------------------------------
+
+Cenário 1: Você está em uma code review.
+Diga em inglês:
+"Can you explain why you used a loop here instead of
+a map function?"
+
+Cenário 2: Você encontrou um bug.
+Diga em inglês:
+"I found a bug in the login function. The error message
+says 'invalid credentials' but the password is correct."
+
+Cenário 3: Você está fazendo deploy.
+Diga em inglês:
+"How do I deploy this to the production environment?"
+
+Cenário 4: Você está em standup.
+Diga em inglês:
+"Yesterday I worked on the API. Today I will fix
+the bug in the user module."
+
+------------------------------------------------------------
+PARTE 5 — FRASES PARA MEMORIZAR
+------------------------------------------------------------
+
+Memorize estas 5 frases. Elas vão te ajudar em 80%
+das situações:
+
+1. "I don't understand." — Não entendi.
+2. "Can you repeat that?" — Pode repetir?
+3. "Let me think about it." — Deixe eu pensar.
+4. "I agree." — Eu concordo.
+5. "Let's try that." — Vamos tentar isso.
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

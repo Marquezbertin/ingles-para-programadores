@@ -1,0 +1,91 @@
+============================================================
+EXERCÍCIO 01 — Pronúncia Avançada de Termos Técnicos
+Dificuldade: Médio
+============================================================
+
+OBJETIVO: Praticar pronúncia correta de termos avançados.
+
+------------------------------------------------------------
+PARTE 1 — TERMOS E PRONÚNCIA
+------------------------------------------------------------
+
+| Termo | IPA | Dica de pronúncia |
+|-------|-----|-------------------|
+| Array | /əˈreɪ/ | "uh-RAY" |
+| Binary | /ˈbaɪnəri/ | "BYE-nuh-ree" |
+| Cache | /kæʃ/ | "KASH" (a de "cat") |
+| Data | /ˈdeɪtə/ | "DAY-tuh" |
+| Debug | /diːˈbæɡ/ | "dee-BAG" |
+| Deploy | /dɪˈplɔɪ/ | "dee-PLOY" |
+| Font | /fɑːnt/ | "FAHNT" |
+| Git | /ɡɪt/ | "GIT" (g de "go") |
+| Issue | /ˈɪʃuː/ | "ISH-oo" |
+| Node | /noʊd/ | "NOHD" |
+| Query | /ˈkwiːri/ | "KWEE-ree" |
+| Router | /ˈraʊtər/ | "ROU-ter" |
+| Socket | /ˈsɒkɪt/ | "SOK-it" |
+| Variable | /ˈvɛəriəbəl/ | "VAIR-ee-uh-bul" |
+
+------------------------------------------------------------
+PARTE 2 — ERROS COMUNS BRASILEIROS
+------------------------------------------------------------
+
+1. "Data" — brasileiros dizem "dá-ta"
+   CORRETO: "DAY-tə"
+   Por quê: O "a" em posição de sílaba aberta tem som "ei"
+
+2. "Git" — brasileiros dizem "djit" (como G de gênio)
+   CORRETO: "git" (G de "gato", som curto)
+   Por quê: "Gi" em inglês geralmente é /gɪ/
+
+3. "Array" — brasileiros dizem "arr-ai"
+   CORRETO: "uh-RAY"
+   Por quê: A primeira sílaba é átona (não é "arr")
+
+4. "Node" — brasileiros dizem "nó-de"
+   CORRETO: "NOHD"
+   Por quê: O "e" final é mudo
+
+5. "Query" — brasileiros dizem "qué-ri"
+   CORRETO: "KWEE-ree"
+   Por quê: "Qu" tem som de /kw/
+
+------------------------------------------------------------
+PARTE 3 — QUIZ DE PRONÚNCIA
+------------------------------------------------------------
+
+Qual é a pronúncia correta?
+
+1. "Variable"
+   a) /vár-ri-á-bul/   b) /ˈvɛəriəbəl/   c) /vars-á-bul/
+
+2. "Database"
+   a) /dá-ta-bá-se/   b) /ˈdeɪtəbeɪs/   c) /dat-a-bes/
+
+3. "Interface"
+   a) /ín-ter-fa-ce/   b) /ˈɪntərfeɪs/   c) /inter-fá-chê/
+
+4. "Python"
+   a) /pái-ton/   b) /pí-ton/   c) /pý-ton/
+
+5. "JavaScript"
+   a) /ga-va-scrip/   b) /ˈdʒɑːvəskrɪpt/   c) /ge-va-scrip/
+
+Respostas: 1-b, 2-b, 3-b, 4-a, 5-b
+
+------------------------------------------------------------
+PARTE 4 — PRATIQUE EM VOZ ALTA
+------------------------------------------------------------
+
+Leia cada frase em voz alta, focando na pronúncia:
+
+1. "The array is sorted in binary order."
+2. "Clear the cache to see the changes."
+3. "The data is stored in the database."
+4. "I'll deploy after I debug the issue."
+5. "Run the SQL query on the database."
+6. "The UI component uses a router."
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================

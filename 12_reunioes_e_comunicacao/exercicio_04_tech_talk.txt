@@ -1,0 +1,84 @@
+============================================================
+EXERCÍCIO 04 — Assistindo e Dando Tech Talks
+Dificuldade: Difícil
+============================================================
+
+OBJETIVO: Entender e preparar apresentações técnicas em inglês.
+
+------------------------------------------------------------
+PARTE 1 — ESTRUTURA DE UMA TECH TALK
+------------------------------------------------------------
+
+| Seção | Em inglês | Conteúdo |
+|-------|-----------|----------|
+| Abertura | Opening | Apresentar-se e o tema |
+| Contexto | Context | Por que o tema importa |
+| Problema | Problem | Que problema resolve |
+| Solução | Solution | Como resolver |
+| Exemplo | Demo | Mostrar na prática |
+| Conclusão | Conclusion | Resumir os pontos |
+| Q&A | Questions | Responder perguntas |
+
+------------------------------------------------------------
+PARTE 2 — FRASES DE ABERTURA
+------------------------------------------------------------
+
+Complete com as frases:
+
+1. "Hi everyone, thank you for __________. Today I'm
+   going to talk about..."
+   (having me/being here)
+
+2. "In this talk, we'll __________ three main points."
+   (cover/go over)
+
+3. "Let me start with some __________."
+   (background/context)
+
+4. "First, let me __________ you the problem."
+   (show)
+
+5. "Let's look at a quick __________."
+   (demo/example)
+
+------------------------------------------------------------
+PARTE 3 — VOCABULÁRIO DE APRESENTAÇÃO
+------------------------------------------------------------
+
+| Em Inglês | Em Português |
+|-----------|--------------|
+| "Let's move on to..." | "Vamos avançar para..." |
+| "As I mentioned earlier..." | "Como mencionei antes..." |
+| "To summarize..." | "Para resumir..." |
+| "Any questions?" | "Alguma pergunta?" |
+| "Great question" | "Ótima pergunta" |
+| "Let me elaborate" | "Deixe-me elaborar" |
+| "Let's wrap up" | "Vamos finalizar" |
+
+------------------------------------------------------------
+PARTE 4 — PREPARE SUA TALK
+------------------------------------------------------------
+
+Prepare mini-talk de 2 minutos sobre um projeto.
+
+Escreva as 4 partes:
+
+1. Opening:
+   "Hi everyone, today I want to share..."
+   ________________________________________
+
+2. Problem:
+   "The problem we faced was..."
+   ________________________________________
+
+3. Solution:
+   "We solved it by..."
+   ________________________________________
+
+4. Conclusion:
+   "In summary..."
+   ________________________________________
+
+============================================================
+FIM DO EXERCÍCIO
+============================================================
