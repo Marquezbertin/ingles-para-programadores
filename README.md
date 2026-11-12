@@ -86,3 +86,13 @@ Este projeto está licenciado sob a MIT License — veja o arquivo [LICENSE](LIC
 ---
 
 **Feito com dedication pelo Laboratório Tech Social** 🇧🇷
+
+---
+
+## Citação e DOI
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24163195.svg)](https://doi.org/10.5281/zenodo.24163195)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--3546--8302-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-3546-8302)
+
+- **Zenodo (DOI):** https://doi.org/10.5281/zenodo.24163195
+- **ORCID:** https://orcid.org/0009-0005-3546-8302
